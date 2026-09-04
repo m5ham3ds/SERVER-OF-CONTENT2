@@ -1,0 +1,1202 @@
+<!DOCTYPE html><html dir="rtl" lang="ar"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WitAnime - مشاهدة وتحميل الانمي المترجم اون لاين</title>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+                <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="وايت انمي Witanime ويت انمي لمشاهدة جميع الانميات اون لاين وافلام الانمي مترجم جودة عالية اون لاين.">
+	<link rel="canonical" href="https://witanime.you/">
+	<meta property="og:locale" content="ar_AR">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="WitAnime">
+	<meta property="og:description" content="وايت انمي Witanime ويت انمي لمشاهدة جميع الانميات اون لاين وافلام الانمي مترجم جودة عالية اون لاين.">
+	<meta property="og:url" content="https://witanime.you/">
+	<meta property="og:site_name" content="WitAnime">
+	<meta name="twitter:card" content="summary_large_image">
+	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://witanime.you/#website","url":"https://witanime.you/","name":"WitAnime","description":"مشاهدة وتحميل الانمي المترجم اون لاين","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://witanime.you/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"CollectionPage","@id":"https://witanime.you/","url":"https://witanime.you/","name":"WitAnime - مشاهدة وتحميل الانمي المترجم اون لاين","isPartOf":{"@id":"https://witanime.you/#website"},"description":"وايت انمي Witanime ويت انمي لمشاهدة جميع الانميات اون لاين وافلام الانمي مترجم جودة عالية اون لاين.","breadcrumb":{"@id":"https://witanime.you/#breadcrumb"},"inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https://witanime.you/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<meta name="google-site-verification" content="H__c5igHOigiKZv4k3yj3Bzd_eHtrsXTWerchIuuAPM">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/witanime.you\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://witanime.you/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-rtl-css" href="https://witanime.you/wp-includes/css/dist/block-library/style-rtl.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/bootstrap.min.727.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme_styles-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/styles.min.727.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/dark-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="font_awesome-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/fontawesome-5/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="hover_effect-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/hovereffect/effects.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl_carousel-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/owlcarousel/owl.carousel.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl_carousel_theme-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/owlcarousel/owl.theme.default.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="player-styles-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/blueplayer.css" type="text/css" media="all">
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection">
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://witanime.you/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://witanime.you/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://witanime.you/wp-includes/wlwmanifest.xml"> 
+
+<link rel="icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-32x32.png" sizes="32x32">
+<link rel="icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-180x180.png">
+<meta name="msapplication-TileImage" content="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			.custom-notice {
+    background-color: #029dbc;
+    color: #FFFFFF;
+    text-align: center;
+	  padding-top: 10px;
+	   font-size: 15px;
+}	
+.arrow-down {
+    background-color: #029dbc;
+    color: #FFFFFF;
+    text-align: center;
+	  font-size: 20px;
+}
+		</style>
+		
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+
+<meta name="google-site-verification" content="y9nu619v_o7MCeKJ-7-1WS8mUoUw05MfFm70gLr4w6I">
+<meta name="edge" content="zX9p2Kf7mR4qL8vT3wY6bN1cJ5hG0dA">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZVB2E4FQBQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZVB2E4FQBQ');
+</script>
+
+
+<script data-cfasync="false" async="" type="text/javascript" src="//rt.tinkledtertium.com/rOH6wm3gfazPQI/137297"></script>
+<link rel="preconnect" href="https://newsboydurance.cfd" crossorigin="anonymous"></head>
+<body>
+    <!-- HEADER NAVBAR -->
+    <div class="header-navbar">
+        <div class="container header-navbar-container">
+            <div class="row">
+                <div class="col-md-3 col-sm-12">
+                    <div class="logo">
+                                                <a href="https://witanime.you"><img src="https://witanime.you/wp-content/uploads/2022/01/WITLOGO.png" alt="Logo"></a>
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-12 col-no-padding">
+                    <a id="touch-menu" class="mobile-menu" href="#"><i class="fa fa-bars"></i> القائمة</a>
+                    <div class="menu-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9-container"><ul id="menu-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9" class="menu"><li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-40"><a href="https://witanime.you/" aria-current="page">الرئيسية</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://witanime.you/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%85%d9%8a/">قائمة الأنمي</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://witanime.you/anime-type/movie/">أفلام الأنمي</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="https://witanime.you/anime-season/صيف-2026/">أنميات الموسم</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://witanime.you/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a7%d8%aa/">مواعيد الحلقات</a></li>
+<li id="menu-item-21993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21993"><a href="https://witanime.you/contact-us/">إتصل بنا</a></li>
+</ul></div> 
+                </div>
+                <div class="col-md-2 col-sm-12 col-no-padding-left">
+                    <div class="navbar-buttons">
+                        <div class="btn-group">
+                            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-user"></i>
+                            </button>
+                            <ul class="dropdown-menu">
+                                                                <li><a href="https://witanime.you/wp-login.php">تسجيل الدخول</a></li>
+                                <li><a href="https://witanime.you/wp-login.php?action=lostpassword&amp;redirect_to=https://witanime.you">نسيت كلمة المرور؟</a></li>
+                                                        </ul>
+                    </div>
+                    <a id="showSearch" class="btn"><i class="fas fa-search"></i></a>
+                    <a id="theme-mode" class="btn">
+                                                <i class="fas fa-sun" id="theme-mode-icon"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- SEARCH CONTENT -->
+        <div class="main-section search-content" id="searchContent">
+            <div class="row">
+                <div class="col-md-1 col-sm-12 col-no-padding-left">
+                    <a id="hideSearch"><i class="fa fa-times" aria-hidden="true"></i> إغلاق</a>
+                </div>
+                <div class="col-md-11 col-sm-12 col-no-padding-right">
+                    <div class="header-search-form">
+    <form method="get" id="searchform" action="https://witanime.you/" role="search">
+        <div class="input-group">
+            <div class="input-group-btn search-panel">
+            </div>
+            <input type="hidden" name="search_param" value="animes" id="search_param">          
+            <input type="text" class="form-control" value="" name="s" placeholder="البحث في الموقع">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+            </span>
+        </div>
+    </form>
+</div>                </div>
+            </div>
+        </div>
+        <!-- END SEARCH CONTENT -->
+        
+    </div>
+</div>
+<!-- HEADER NAVBAR -->
+            <div class="owl-carousel owl-theme owl-carousel-lucodeia-slider owl-rtl owl-loaded owl-drag">
+                                        
+                            
+                            
+                            
+                            
+                            
+                            
+                                <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(1508px, 0px, 0px); transition: all; width: 5655px;"><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Tensei shitara Slime Datta Ken 4th Season الحلقة 20" href="https://witanime.you/episode/tensei-shitara-slime-datta-ken-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2021/07/Tensei-shitara-Slime-Datta-Ken-2nd-Season-Part-2-Slider.png);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="One Piece الحلقة 1175" href="https://witanime.you/episode/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1175/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2026/04/One-piece-Slider-2-scaled.jpg);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Bleach: Sennen Kessen-hen Kashin-tan الحلقة 5" href="https://witanime.you/episode/bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2022/10/Bleach-Sennen-Kessen-hen-Slider.jpg);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Tensei shitara Slime Datta Ken 4th Season الحلقة 19" href="https://witanime.you/episode/tensei-shitara-slime-datta-ken-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2021/07/Tensei-shitara-Slime-Datta-Ken-2nd-Season-Part-2-Slider.png);"></a>
+                </div></div><div class="owl-item active" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Re:Zero kara Hajimeru Isekai Seikatsu 4th Season الحلقة 15" href="https://witanime.you/episode/rezero-kara-hajimeru-isekai-seikatsu-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2024/10/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-Slider.jpg);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="One Piece الحلقة 1176" href="https://witanime.you/episode/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1176/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2026/04/One-piece-Slider-2-scaled.jpg);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Bleach: Sennen Kessen-hen Kashin-tan الحلقة 6" href="https://witanime.you/episode/bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2022/10/Bleach-Sennen-Kessen-hen-Slider.jpg);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Tensei shitara Slime Datta Ken 4th Season الحلقة 20" href="https://witanime.you/episode/tensei-shitara-slime-datta-ken-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2021/07/Tensei-shitara-Slime-Datta-Ken-2nd-Season-Part-2-Slider.png);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="One Piece الحلقة 1175" href="https://witanime.you/episode/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1175/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2026/04/One-piece-Slider-2-scaled.jpg);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Bleach: Sennen Kessen-hen Kashin-tan الحلقة 5" href="https://witanime.you/episode/bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-5/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2022/10/Bleach-Sennen-Kessen-hen-Slider.jpg);"></a>
+                </div></div><div class="owl-item" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Tensei shitara Slime Datta Ken 4th Season الحلقة 19" href="https://witanime.you/episode/tensei-shitara-slime-datta-ken-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-19/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2021/07/Tensei-shitara-Slime-Datta-Ken-2nd-Season-Part-2-Slider.png);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Re:Zero kara Hajimeru Isekai Seikatsu 4th Season الحلقة 15" href="https://witanime.you/episode/rezero-kara-hajimeru-isekai-seikatsu-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2024/10/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-Slider.jpg);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="One Piece الحلقة 1176" href="https://witanime.you/episode/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1176/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2026/04/One-piece-Slider-2-scaled.jpg);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Bleach: Sennen Kessen-hen Kashin-tan الحلقة 6" href="https://witanime.you/episode/bleach-sennen-kessen-hen-kashin-tan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2022/10/Bleach-Sennen-Kessen-hen-Slider.jpg);"></a>
+                </div></div><div class="owl-item cloned" style="width: 377px;"><div class="item">
+                    <div class="lucodeia-slider-meta">
+                    </div>
+                    <a title="Tensei shitara Slime Datta Ken 4th Season الحلقة 20" href="https://witanime.you/episode/tensei-shitara-slime-datta-ken-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-20/" class="lucodeia-slider-slide-item" style="background-image: url(https://witanime.you/wp-content/uploads/2021/07/Tensei-shitara-Slime-Datta-Ken-2nd-Season-Part-2-Slider.png);"></a>
+                </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+        <!-- Default Widget (Pin Anime) -->
+        <div class="space content"></div>
+        <!-- PIN ANIME -->
+        <div class="content page-content-container">
+            <div class="container">
+                <div class="main-widget">
+                    <div class="main-didget-head">
+                        <h3>الأنميات المثبتة</h3>
+                    </div>
+                    <div class="main-widget-body">
+                                                    <div class="owl-carousel owl-animes owl-rtl owl-loaded owl-drag">
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                                                    
+                                 
+                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 1065px;"><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-323x470.jpg" alt="Yomi no Tsugai">
+                                                    <a href="https://witanime.you/anime/yomi-no-tsugai/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القصة تتحدث عن صياد يكتشف سرًا صادمًا عن قريته بعد مذبحة دموية ليبدأ رحلة كشف حقيقة شقيقته والغموض وراء الشياطين!" data-original-title="Yomi no Tsugai">
+                                                    <h3><a href="https://witanime.you/anime/yomi-no-tsugai/">Yomi no Tsugai</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Nijusseiki-Denki-Mokuroku-Eureka-Evrika-323x470.jpg" alt="Nijuseiki Denki Mokuroku: Eureka Evrika">
+                                                    <a href="https://witanime.you/anime/nijuseiki-denki-mokuroku-eureka-evrika/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القصة تتحدث عن شاب يُدعى كيهاتشي ساكاموتو وهو ميكانيكي موهوب فقد شقيقه الأكبر وإيمانه بحلم إطلاق عصر الكهرباء وفتاة ملتزمة تُدعى إيناكور موموكاوا تنتمي لعائلة تعمل في تخمير الساقي وتحاول الهروب من زواج مدبر . يلتقي الاثنان وينطلقان في رحلة للبحث عن كتاب مفقود يُدعى " كتالوج="" كهرباء="" القرن="" العشرين"="" والذي="" يحتوي="" على="" أسرار="" اختراعات="" عصر="" الكهرباء="" مما="" يغير="" مستقبلهما="" ويحقق="" أحلامهما."="" data-original-title="Nijuseiki Denki Mokuroku: Eureka Evrika">
+                                                    <h3><a href="https://witanime.you/anime/nijuseiki-denki-mokuroku-eureka-evrika/">Nijuseiki Denki Mokuroku: Eureka Evrika</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Mushoku-Tensei-III-Isekai-Ittara-Honki-Dasu-323x470.jpg" alt="Mushoku Tensei III: Isekai Ittara Honki Dasu">
+                                                    <a href="https://witanime.you/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="الموسم الثالث من الأنمي." data-original-title="Mushoku Tensei III: Isekai Ittara Honki Dasu">
+                                                    <h3><a href="https://witanime.you/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu/">Mushoku Tensei III: Isekai Ittara Honki Dasu</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Dogulwang-Tomb-Raider-King-323x470.jpg" alt="Dogulwang: Tomb Raider King">
+                                                    <a href="https://witanime.you/anime/dogulwang-tomb-raider-king/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="في عام 2025، ظهرت قبور غامضة في جميع أنحاء العالم، يحتوي كل منها على أثر قديم يمنح قدرات خارقة. القلة المحظوظة التي حصلت على هذه الآثار بسرعة سيطرت على احتكارات قوية، بينما أصبح الآخرون يعملون تحت إمرتهم. من بينهم جوهيون سوه، “لص قبور” يتسلل إلى القبور لسرقة الآثار. بعد أن يتعرض للخيانة من صاحب عمله ويُترك ليموت، يجد نفسه بدلًا من ذلك قد عاد بالزمن 15 عامًا إلى الماضي. وبفضل خبرته الطويلة في اقتحام القبور ومعرفته بما سيحدث في عالم الآثار، هل يمتلك جوهيون ما يلزم ليصبح “ملك لصوص القبور”؟" data-original-title="Dogulwang: Tomb Raider King">
+                                                    <h3><a href="https://witanime.you/anime/dogulwang-tomb-raider-king/">Dogulwang: Tomb Raider King</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Bleach-Sennen-Kessen-hen-Kashin-tan-323x470.jpg" alt="Bleach: Sennen Kessen-hen Kashin-tan">
+                                                    <a href="https://witanime.you/anime/bleach-sennen-kessen-hen-kashin-tan/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القسم الرابع من الموسم الثاني." data-original-title="Bleach: Sennen Kessen-hen Kashin-tan">
+                                                    <h3><a href="https://witanime.you/anime/bleach-sennen-kessen-hen-kashin-tan/">Bleach: Sennen Kessen-hen Kashin-tan</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                        <div class="anime-card-container">
+                                            <div class="anime-card-poster">
+                                                <div class="hover ehover6">
+                                                    <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Black-Torch-323x470.jpg" alt="Black Torch">
+                                                    <a href="https://witanime.you/anime/black-torch/" class="overlay"></a>
+                                                </div>
+                                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                                            </div>
+                                            <div class="anime-card-details">
+                                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="على الرغم من مظهره الخشن والمشاكس، فإن الجانب الطيب من جيرو أزوما يظهر بوضوح عندما يتعلق الأمر بالحيوانات التي يستطيع التواصل معها. لكن تعاطفه مع تلك المخلوقات يوقعه في ورطة كبيرة عندما يندمج معه قط شارد غامض، مانحًا إياه قوى استثنائية، وفي الوقت نفسه يزج به في المعركة الخفية التي تخوضها البشرية ضد الأرواح اليابانية القوية المعروفة باسم المونونوكي." data-original-title="Black Torch">
+                                                    <h3><a href="https://witanime.you/anime/black-torch/">Black Torch</a></h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"><i class="fas fa-chevron-right"></i></div><div class="owl-next"><i class="fas fa-chevron-left"></i></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="triangle-down triangle-down-white"></div>
+        </div>
+        
+        
+            <div class="container">
+<div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+          <iframe data-aa="2425280" src="//acceptable.a-ads.com/2425280/?size=Adaptive" style="border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto"></iframe>
+        </div>
+        </div>
+        
+        
+                <!-- END PIN ANIME -->
+    
+
+
+  <!-- PIN EPISODES -->
+  <div class="page-content-container">
+    <div class="container">
+        <div class="main-widget">
+            <div class="main-didget-head">
+                <h3>حلقات الأنمي المثبتة</h3>
+                <a href="https://witanime.you/episode/" class="see-all">المزيد من الحلقات</a>
+            </div>
+            <div class="main-widget-body">
+                                    <div class="episodes-list-content">
+                        <div class="row display-flex">
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/otome-kaijuu-carameliser-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">الحلقة 10</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Otome-Kaijuu-Carameliser-EP-400x243.jpg" alt="Otome Kaijuu Carameliser الحلقة 10">
+            <a href="https://witanime.you/episode/otome-kaijuu-carameliser-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/otome-kaijuu-carameliser/">Otome Kaijuu Carameliser</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/yani-neko-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Yani-Neko-EP-400x243.jpg" alt="Yani Neko الحلقة 9">
+            <a href="https://witanime.you/episode/yani-neko-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/yani-neko/">Yani Neko</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">الحلقة 10</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Tsuihou-sareta-Tensei-Juukishi-wa-Game-Chishiki-de-Musou-suru-EP-400x243.jpg" alt="Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru الحلقة 10">
+            <a href="https://witanime.you/episode/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/tsuihou-sareta-tensei-juukishi-wa-game-chishiki-de-musou-suru/">Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/mebius-dust-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Mebius-Dust-EP-400x243.jpg" alt="Mebius Dust الحلقة 9">
+            <a href="https://witanime.you/episode/mebius-dust-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/mebius-dust/">Mebius Dust</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">الحلقة 11</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/06/Rakudai-Kenja-no-Gakuin-Musou-EP-400x243.jpg" alt="Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku الحلقة 11">
+            <a href="https://witanime.you/episode/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/">Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/bang-dream-yume-mita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12/">الحلقة 12</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/BanG-Dream-Yume-Mita-EP-400x243.jpg" alt="BanG Dream! Yume Mita الحلقة 12">
+            <a href="https://witanime.you/episode/bang-dream-yume-mita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/bang-dream-yume-mita/">BanG Dream! Yume Mita</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/bungou-stray-dogs-wan-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">الحلقة 10</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Bungou-Stray-Dogs-Wan-2-400x243.jpg" alt="Bungou Stray Dogs Wan! 2 الحلقة 10">
+            <a href="https://witanime.you/episode/bungou-stray-dogs-wan-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/bungou-stray-dogs-wan-2/">Bungou Stray Dogs Wan! 2</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Dogulwang-Tomb-Raider-King-EP-400x243.jpg" alt="Dogulwang: Tomb Raider King الحلقة 9">
+            <a href="https://witanime.you/episode/dogulwang-tomb-raider-king-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/dogulwang-tomb-raider-king/">Dogulwang: Tomb Raider King</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/katainaka-no-ossan-kensei-ni-naru-ii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Katainaka-no-Ossan-Kensei-ni-Naru-II-EP-400x243.jpg" alt="Katainaka no Ossan Kensei ni Naru II الحلقة 9">
+            <a href="https://witanime.you/episode/katainaka-no-ossan-kensei-ni-naru-ii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/katainaka-no-ossan-kensei-ni-naru-ii/">Katainaka no Ossan Kensei ni Naru II</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/hanazakari-no-kimitachi-e-2nd-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">الحلقة 11</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Hanazakari-no-Kimitachi-e-2nd-Season-EP-400x243.jpg" alt="Hanazakari no Kimitachi e 2nd Season الحلقة 11">
+            <a href="https://witanime.you/episode/hanazakari-no-kimitachi-e-2nd-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/hanazakari-no-kimitachi-e-2nd-season/">Hanazakari no Kimitachi e 2nd Season</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/lv999-no-murabito-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">الحلقة 11</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Lv999-no-Murabito-EP-400x243.jpg" alt="Lv999 no Murabito الحلقة 11">
+            <a href="https://witanime.you/episode/lv999-no-murabito-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/lv999-no-murabito/">Lv999 no Murabito</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Otome-Game-Sekai-wa-Mob-ni-Kibishii-Sekai-desu-2-EP-400x243.jpg" alt="Otome Game Sekai wa Mob ni Kibishii Sekai desu 2 الحلقة 9">
+            <a href="https://witanime.you/episode/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-2/">Otome Game Sekai wa Mob ni Kibishii Sekai desu 2</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/heroine-seijo-iie-all-works-maid-desu-hokori-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">الحلقة 11</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/06/Heroine-Seijo-Iie-All-Works-Maid-desu-Hokori-EP-400x243.jpg" alt="Heroine Seijo Iie All Works Maid desu (Hokori)! الحلقة 11">
+            <a href="https://witanime.you/episode/heroine-seijo-iie-all-works-maid-desu-hokori-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/heroine-seijo-iie-all-works-maid-desu-hokori/">Heroine Seijo Iie All Works Maid desu (Hokori)!</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/youjo-senki-ii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Youjo-Senki-II-EP-400x243.jpg" alt="Youjo Senki II الحلقة 9">
+            <a href="https://witanime.you/episode/youjo-senki-ii-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/youjo-senki-ii/">Youjo Senki II</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/rezero-kara-hajimeru-isekai-seikatsu-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/">الحلقة 15</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Re-Zero-kara-Hajimeru-Isekai-Seikatsu-4th-Season-EP-400x243.jpg" alt="Re:Zero kara Hajimeru Isekai Seikatsu 4th Season الحلقة 15">
+            <a href="https://witanime.you/episode/rezero-kara-hajimeru-isekai-seikatsu-4th-season-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/rezero-kara-hajimeru-isekai-seikatsu-4th-season/">Re:Zero kara Hajimeru Isekai Seikatsu 4th Season</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Clevatess-II-Majuu-no-Ou-to-Itsuwari-no-Yuusha-Denshou-EP-400x243.jpg" alt="Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou الحلقة 9">
+            <a href="https://witanime.you/episode/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/clevatess-ii-majuu-no-ou-to-itsuwari-no-yuusha-denshou/">Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/%d9%81%d9%8a%d9%84%d9%85-kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/">الفلم 1</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/09/Kidou-Senshi-Gundam-Senkou-no-Hathaway-Circe-no-Majo-EP-400x243.jpg" alt="فيلم Kidou Senshi Gundam: Senkou no Hathaway Circe no Majo">
+            <a href="https://witanime.you/episode/%d9%81%d9%8a%d9%84%d9%85-kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/">Kidou Senshi Gundam: Senkou no Hathaway Circe no Majo</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/sora-wa-akai-kawa-no-hotori-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Sora-wa-Akai-Kawa-no-Hotori-EP-400x243.jpg" alt="Sora wa Akai Kawa no Hotori الحلقة 9">
+            <a href="https://witanime.you/episode/sora-wa-akai-kawa-no-hotori-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/sora-wa-akai-kawa-no-hotori/">Sora wa Akai Kawa no Hotori</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/tefuda-ga-oome-no-victoria-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Tefuda-ga-Oome-no-Victoria-EP-400x243.jpg" alt="Tefuda ga Oome no Victoria الحلقة 9">
+            <a href="https://witanime.you/episode/tefuda-ga-oome-no-victoria-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/tefuda-ga-oome-no-victoria/">Tefuda ga Oome no Victoria</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/koukaku-kidoutai-the-ghost-in-the-shell-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">الحلقة 9</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/The-Ghost-in-the-Shell-Koukaku-Kidoutai-EP-400x243.jpg" alt="Koukaku Kidoutai: The Ghost in the Shell الحلقة 9">
+            <a href="https://witanime.you/episode/koukaku-kidoutai-the-ghost-in-the-shell-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/koukaku-kidoutai-the-ghost-in-the-shell/">Koukaku Kidoutai: The Ghost in the Shell</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">الحلقة 10</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/06/Mujikaku-Seijo-wa-Kyou-mo-Muishiki-ni-Chikara-wo-Tare-Nagasu-EP-400x243.jpg" alt="Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu الحلقة 10">
+            <a href="https://witanime.you/episode/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/mujikaku-seijo-wa-kyou-mo-muishiki-ni-chikara-wo-tare-nagasu/">Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/crowned-in-a-hundred-days-bai-ri-cheng-wang-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/">الأونا 21</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Crowned-in-a-Hundred-Days-Bai-Ri-Cheng-Wang-EP-400x243.jpg" alt="Crowned in a Hundred Days (Bai Ri Cheng Wang) الحلقة 21">
+            <a href="https://witanime.you/episode/crowned-in-a-hundred-days-bai-ri-cheng-wang-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/crowned-in-a-hundred-days-bai-ri-cheng-wang/">Crowned in a Hundred Days (Bai Ri Cheng Wang)</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/false-memory-jiyi-guanli-ju-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%88%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9/">الأونا 7</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/False-Memory-Jiyi-Guanli-Ju-EP-400x243.jpg" alt="False Memory: Jiyi Guanli Ju الحلقة 7 والأخيرة">
+            <a href="https://witanime.you/episode/false-memory-jiyi-guanli-ju-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7-%d9%88%d8%a7%d9%84%d8%a3%d8%ae%d9%8a%d8%b1%d8%a9/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/false-memory-jiyi-guanli-ju/">False Memory: Jiyi Guanli Ju</a></h3>
+    </div>
+</div>                                </div>
+                                                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22/">الحلقة 22</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Mao-EP-400x243.jpg" alt="Mao الحلقة 22">
+            <a href="https://witanime.you/episode/mao-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-22/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/mao/">Mao</a></h3>
+    </div>
+</div>                                </div>
+                                                                                                                </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="triangle-down triangle-down-gray"></div>
+</div>
+<!-- END PIN EPISODES -->
+<!-- Current Season Most Viewed Animes -->
+<div class="content page-content-container">
+    <div class="container">
+        <div class="main-widget">
+            <div class="main-didget-head">
+                <h3>أكثر أنميات الموسم مشاهدة</h3>
+            </div>
+            <div class="main-widget-body">
+                                    <div class="owl-carousel owl-animes owl-rtl owl-loaded owl-drag">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                         
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 1065px;"><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Bleach-Sennen-Kessen-hen-Kashin-tan-323x470.jpg" alt="Bleach: Sennen Kessen-hen Kashin-tan">
+                                            <a href="https://witanime.you/anime/bleach-sennen-kessen-hen-kashin-tan/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القسم الرابع من الموسم الثاني." data-original-title="Bleach: Sennen Kessen-hen Kashin-tan">
+                                            <h3><a href="https://witanime.you/anime/bleach-sennen-kessen-hen-kashin-tan/">Bleach: Sennen Kessen-hen Kashin-tan</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Mushoku-Tensei-III-Isekai-Ittara-Honki-Dasu-323x470.jpg" alt="Mushoku Tensei III: Isekai Ittara Honki Dasu">
+                                            <a href="https://witanime.you/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="الموسم الثالث من الأنمي." data-original-title="Mushoku Tensei III: Isekai Ittara Honki Dasu">
+                                            <h3><a href="https://witanime.you/anime/mushoku-tensei-iii-isekai-ittara-honki-dasu/">Mushoku Tensei III: Isekai Ittara Honki Dasu</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Dogulwang-Tomb-Raider-King-323x470.jpg" alt="Dogulwang: Tomb Raider King">
+                                            <a href="https://witanime.you/anime/dogulwang-tomb-raider-king/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="في عام 2025، ظهرت قبور غامضة في جميع أنحاء العالم، يحتوي كل منها على أثر قديم يمنح قدرات خارقة. القلة المحظوظة التي حصلت على هذه الآثار بسرعة سيطرت على احتكارات قوية، بينما أصبح الآخرون يعملون تحت إمرتهم. من بينهم جوهيون سوه، “لص قبور” يتسلل إلى القبور لسرقة الآثار. بعد أن يتعرض للخيانة من صاحب عمله ويُترك ليموت، يجد نفسه بدلًا من ذلك قد عاد بالزمن 15 عامًا إلى الماضي. وبفضل خبرته الطويلة في اقتحام القبور ومعرفته بما سيحدث في عالم الآثار، هل يمتلك جوهيون ما يلزم ليصبح “ملك لصوص القبور”؟" data-original-title="Dogulwang: Tomb Raider King">
+                                            <h3><a href="https://witanime.you/anime/dogulwang-tomb-raider-king/">Dogulwang: Tomb Raider King</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Black-Torch-323x470.jpg" alt="Black Torch">
+                                            <a href="https://witanime.you/anime/black-torch/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="على الرغم من مظهره الخشن والمشاكس، فإن الجانب الطيب من جيرو أزوما يظهر بوضوح عندما يتعلق الأمر بالحيوانات التي يستطيع التواصل معها. لكن تعاطفه مع تلك المخلوقات يوقعه في ورطة كبيرة عندما يندمج معه قط شارد غامض، مانحًا إياه قوى استثنائية، وفي الوقت نفسه يزج به في المعركة الخفية التي تخوضها البشرية ضد الأرواح اليابانية القوية المعروفة باسم المونونوكي." data-original-title="Black Torch">
+                                            <h3><a href="https://witanime.you/anime/black-torch/">Black Torch</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/06/Rakudai-Kenja-no-Gakuin-Musou-323x470.jpg" alt="Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku">
+                                            <a href="https://witanime.you/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القصة تتحدث عن الساحر إيفثال الذي وُلد في عالم سحري لكنه مات دون موهبة. يتجسد البطل من جديد بعد 400 عام مع احتفاظه بذكرياته ، ليكتشف أن مستوى السحر في العالم قد تراجع بشكل غامض . الآن يمتلك إيفثال قوة سحرية هائلة لكونه من الرتبة S ، ويبدأ مسيرته في التفوق داخل أكاديمية السحر" data-original-title="Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku">
+                                            <h3><a href="https://witanime.you/anime/rakudai-kenja-no-gakuin-musou-nidome-no-tensei-s-rank-cheat-majutsushi-boukenroku/">Rakudai Kenja no Gakuin Musou: Nidome no Tensei, S-Rank Cheat Majutsushi Boukenroku</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Nijusseiki-Denki-Mokuroku-Eureka-Evrika-323x470.jpg" alt="Nijuseiki Denki Mokuroku: Eureka Evrika">
+                                            <a href="https://witanime.you/anime/nijuseiki-denki-mokuroku-eureka-evrika/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القصة تتحدث عن شاب يُدعى كيهاتشي ساكاموتو وهو ميكانيكي موهوب فقد شقيقه الأكبر وإيمانه بحلم إطلاق عصر الكهرباء وفتاة ملتزمة تُدعى إيناكور موموكاوا تنتمي لعائلة تعمل في تخمير الساقي وتحاول الهروب من زواج مدبر . يلتقي الاثنان وينطلقان في رحلة للبحث عن كتاب مفقود يُدعى " كتالوج="" كهرباء="" القرن="" العشرين"="" والذي="" يحتوي="" على="" أسرار="" اختراعات="" عصر="" الكهرباء="" مما="" يغير="" مستقبلهما="" ويحقق="" أحلامهما."="" data-original-title="Nijuseiki Denki Mokuroku: Eureka Evrika">
+                                            <h3><a href="https://witanime.you/anime/nijuseiki-denki-mokuroku-eureka-evrika/">Nijuseiki Denki Mokuroku: Eureka Evrika</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"><i class="fas fa-chevron-right"></i></div><div class="owl-next"><i class="fas fa-chevron-left"></i></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="triangle-down triangle-down-white"></div>
+</div>
+<!-- END Current Season Most Viewed Animes -->
+
+            <div class="container">
+                                <div class="ad-iframe">
+<div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+          <iframe data-aa="2425280" src="//acceptable.a-ads.com/2425280/?size=Adaptive" style="border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto"></iframe>
+        </div>
+</div>
+          </div>
+
+
+<!-- LATEST EPISODES -->
+<div class="page-content-container">
+    <div class="container">
+        <div class="main-widget">
+            <div class="main-didget-head">
+                <h3>آخر الحلقات المضافة</h3>
+                <a href="https://witanime.you/episode/" class="see-all">المزيد من الحلقات</a>
+            </div>
+            <div class="main-widget-body">
+                                    <div class="episodes-list-content">
+                        <div class="row display-flex">
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18/">الحلقة 18</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Liar-Game-EP-400x243.jpg" alt="Liar Game الحلقة 18">
+            <a href="https://witanime.you/episode/liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-18/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/liar-game/">Liar Game</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/false-memory-jiyi-guanli-ju-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-0/">الأونا 0</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/False-Memory-Jiyi-Guanli-Ju-EP-400x243.jpg" alt="False Memory: Jiyi Guanli Ju الحلقة 0">
+            <a href="https://witanime.you/episode/false-memory-jiyi-guanli-ju-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-0/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/false-memory-jiyi-guanli-ju/">False Memory: Jiyi Guanli Ju</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3/">الحلقة 3</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/World-Is-Dancing-EP-400x243.jpg" alt="World Is Dancing الحلقة 3">
+            <a href="https://witanime.you/episode/world-is-dancing-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-3/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/world-is-dancing/">World Is Dancing</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/">الحلقة 15</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Liar-Game-EP-400x243.jpg" alt="Liar Game الحلقة 15">
+            <a href="https://witanime.you/episode/liar-game-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-15/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/liar-game/">Liar Game</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/blades-of-the-guardians-season-2-biao-ren-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6/">الأونا 6</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/06/Blades-of-the-Guardians-Season-2-Biao-Ren-2-EP-400x243.jpg" alt="Blades of the Guardians Season 2 (Biao Ren 2) الحلقة 6">
+            <a href="https://witanime.you/episode/blades-of-the-guardians-season-2-biao-ren-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-6/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/blades-of-the-guardians-season-2-biao-ren-2/">Blades of the Guardians Season 2 (Biao Ren 2)</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/crowned-in-a-hundred-days-bai-ri-cheng-wang-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2/">الأونا 2</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/Crowned-in-a-Hundred-Days-Bai-Ri-Cheng-Wang-EP-400x243.jpg" alt="Crowned in a Hundred Days (Bai Ri Cheng Wang) الحلقة 2">
+            <a href="https://witanime.you/episode/crowned-in-a-hundred-days-bai-ri-cheng-wang-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/crowned-in-a-hundred-days-bai-ri-cheng-wang/">Crowned in a Hundred Days (Bai Ri Cheng Wang)</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/bang-dream-yume-mita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2/">الحلقة 2</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/07/BanG-Dream-Yume-Mita-EP-400x243.jpg" alt="BanG Dream! Yume Mita الحلقة 2">
+            <a href="https://witanime.you/episode/bang-dream-yume-mita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-2/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/bang-dream-yume-mita/">BanG Dream! Yume Mita</a></h3>
+    </div>
+</div>                                </div>
+                                                            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 col-no-padding col-mobile-no-padding">
+                                    <div class="episodes-card-container">
+    <div class="episodes-card">
+        <div class="hover ehover6">
+            <div class="episodes-card-title">
+                <h3><a href="https://witanime.you/episode/reincarnation-no-kaben-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">الحلقة 11</a></h3>
+            </div>
+                        <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Reincarnation-no-Kaben-EP-400x243.jpg" alt="Reincarnation no Kaben الحلقة 11">
+            <a href="https://witanime.you/episode/reincarnation-no-kaben-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="overlay"></a>
+        </div>
+    </div>
+    <div class="ep-card-anime-title">
+        <h3><a href="https://witanime.you/anime/reincarnation-no-kaben/">Reincarnation no Kaben</a></h3>
+    </div>
+</div>                                </div>
+                                                                                </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div class="content">
+    <div class="triangle-down triangle-down-gray"></div>
+</div>
+<!-- END LATEST EPISODES -->
+<div class="content page-content-container">
+    <div class="container">
+        <div class="main-widget">
+            <div class="main-didget-head">
+                <h3>آخر الأنميات المضافة</h3>
+            </div>
+            <div class="main-widget-body">
+                                    <div class="owl-carousel owl-animes owl-rtl owl-loaded owl-drag">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                         
+                    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 1065px;"><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/09/Kidou-Senshi-Gundam-Senkou-no-Hathaway-Circe-no-Majo-323x470.jpg" alt="Kidou Senshi Gundam: Senkou no Hathaway Circe no Majo">
+                                            <a href="https://witanime.you/anime/kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%85%d9%83%d8%aa%d9%85%d9%84/">مكتمل</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/movie/">Movie</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="الفيلم الثاني من سلسلة أفلام Kidou Senshi Gundam: Senkou no Hathaway." data-original-title="Kidou Senshi Gundam: Senkou no Hathaway Circe no Majo">
+                                            <h3><a href="https://witanime.you/anime/kidou-senshi-gundam-senkou-no-hathaway-circe-no-majo/">Kidou Senshi Gundam: Senkou no Hathaway Circe no Majo</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item active" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/Gintama-Movie-3-Yoshiwara-Daienjou-323x470.jpg" alt="Gintama Movie 3: Yoshiwara Daienjou">
+                                            <a href="https://witanime.you/anime/gintama-movie-3-yoshiwara-daienjou/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%85%d9%83%d8%aa%d9%85%d9%84/">مكتمل</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/movie/">Movie</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="(إعادة إنتاج آرك حريق يوشيوارا الشهير ) القصة تتحدث عن حول رحلة غينتوكي ساكاتا وأصدقائه في إيدو بعد لقائهم بطفل يتيم يدعى سيتا، والذي يطلب منهم مساعدته في العثور على والدته وإجبارهم على دخول حي الملاهي التحت-أرضي الخفي والمعزول المعروف بـ يوشيوارا." data-original-title="Gintama Movie 3: Yoshiwara Daienjou">
+                                            <h3><a href="https://witanime.you/anime/gintama-movie-3-yoshiwara-daienjou/">Gintama Movie 3: Yoshiwara Daienjou</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/Link-Click-Season-3-Shiguang-Dailiren-III-323x470.jpg" alt="Link Click Season 3 (Shiguang Dailiren III)">
+                                            <a href="https://witanime.you/anime/link-click-season-3-shiguang-dailiren-iii/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/ona/">ONA</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="الموسم الثالث من الأنمي." data-original-title="Link Click Season 3 (Shiguang Dailiren III)">
+                                            <h3><a href="https://witanime.you/anime/link-click-season-3-shiguang-dailiren-iii/">Link Click Season 3 (Shiguang Dailiren III)</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/The-Ribbon-Hero-323x470.jpg" alt="The Ribbon Hero">
+                                            <a href="https://witanime.you/anime/the-ribbon-hero/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%85%d9%83%d8%aa%d9%85%d9%84/">مكتمل</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/movie/">Movie</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="القصة تتحدث عن سافاير أميرة مملكة سيلفرلاند التي دمرتها كارثة تُدعى نيرغال. تتيه الأميرة بعد أن فقدت موطنها وكل ما تملك، لتربط شريطها الخاص وتقرر تحدي قدرها القاسي ومواجهة مصيرها كبطلة وحيدة في رحلتها نحو أرض غولدلاند." data-original-title="The Ribbon Hero">
+                                            <h3><a href="https://witanime.you/anime/the-ribbon-hero/">The Ribbon Hero</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/False-Memory-Jiyi-Guanli-Ju-323x470.jpg" alt="False Memory: Jiyi Guanli Ju">
+                                            <a href="https://witanime.you/anime/false-memory-jiyi-guanli-ju/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/ona/">ONA</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="من أجل العودة إلى الماضي، يحاول غوان تشاو جاهدًا العثور على " حجر="" الاشتعال"="" الذي="" يفعّل="" مسدس="" الزمن،="" لكنه="" يسقط="" عن="" طريق="" الخطأ="" في="" هيئة="" إدارة="" الذاكرة.="" لا="" يمكنه="" العودة="" إلى="" الواقع="" إلا="" من="" خلال="" التغلب="" على="" "كائنات="" الخلل"="" (bug)="" طبقة="" وبمساعدة="" المسؤولين="" مثل="" فانغ="" تانغ="" وباي="" تشونغ،="" هل="" سيتمكن="" غوان="" تشاو="" إكمال="" المهمة="" بنجاح؟="" وما="" نوع="" التحديات="" التي="" تنتظر="" كل="" طبقات="" الذاكرة."="" data-original-title="False Memory: Jiyi Guanli Ju">
+                                            <h3><a href="https://witanime.you/anime/false-memory-jiyi-guanli-ju/">False Memory: Jiyi Guanli Ju</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div><div class="owl-item" style="width: 169.5px; margin-left: 8px;"><div>
+                                <div class="anime-card-container">
+                                    <div class="anime-card-poster">
+                                        <div class="hover ehover6">
+                                            <img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/08/Boku-no-Hero-Academia-I-Am-a-Hero-Too-323x470.jpg" alt="Boku no Hero Academia: I Am a Hero Too">
+                                            <a href="https://witanime.you/anime/boku-no-hero-academia-i-am-a-hero-too/" class="overlay"></a>
+                                        </div>
+                                                                                    <div class="anime-card-status"><a href="https://witanime.you/anime-status/%d9%85%d9%83%d8%aa%d9%85%d9%84/">مكتمل</a></div>
+                                                                            </div>
+                                    <div class="anime-card-details">
+                                                                                    <div class="anime-card-type"><a href="https://witanime.you/anime-type/ona/">ONA</a></div>
+                                                                                <div class="anime-card-title" title="" data-toggle="popover" data-trigger="hover" data-placement="top" data-content="اقتباس من مانغا الفصل الواحد من كتاب المعجبين Boku no Hero Academia: Ultra-Age لعام 2025، والذي يروي زيارة طالبة المدرسة الثانوية إيري إلى مدرسة يو إيه الثانوية." data-original-title="Boku no Hero Academia: I Am a Hero Too">
+                                            <h3><a href="https://witanime.you/anime/boku-no-hero-academia-i-am-a-hero-too/">Boku no Hero Academia: I Am a Hero Too</a></h3>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"><i class="fas fa-chevron-right"></i></div><div class="owl-next"><i class="fas fa-chevron-left"></i></div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+                            </div>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="triangle-down triangle-down-white"></div>
+</div>
+
+<!-- END Latest Animes -->
+
+    <!-- FOOTER -->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div class="site-copyrights">
+                                                جميع الحقوق محفوظة لموقع وايت انمي | WitAnime                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <ul class="footer-social">
+                                                <li><a target="_blank" href="" class="facebook-share"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="" class="twitter-share"><i class="fab fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="" class="youtube-share"><i class="fab fa-youtube"></i></a></li>
+                        <li><a target="_blank" href="" class="discord-share"><i class="fab fa-discord"></i></a></li>
+                        <li><a target="_blank" href="" class="instagram-share"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="" class="instagram-share"><i class="fab fa-telegram-plane"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="developer-copyrights">
+                        <p>
+                        <a href="/dmca/">DMCA</a>
+                        |
+                        <a href="/contact-us/">Contact Us</a>
+                        |
+                        <a href="https://www.witanime.net/">WITANIME</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
+        <!-- END FOOTER -->
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" id="script-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/bootstrap.min.js" id="bootstrap_script-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/owlcarousel/owl.carousel.js" id="owl_carousel_script-js"></script>
+<script type="text/javascript" id="theme_script-js-extra">
+/* <![CDATA[ */
+var theme_data_array = {"theme_dir":"https:\/\/witanime.you\/wp-content\/themes\/Anime-Online-Theme","light_theme_time":"1669311810","dark_theme_time":"1669311810"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/theme-scripts.js" id="theme_script-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/yh00.js" id="ltsm-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/rd.js" id="rds-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/cx2.js" id="lkgx-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/wp-embed.min.js" id="wp-embed-js"></script>
+
+
+
+    
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;769b5964c1f44a11b8ad5988921154f3&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+</body></html>

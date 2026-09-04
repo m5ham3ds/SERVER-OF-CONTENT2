@@ -1,0 +1,535 @@
+<!DOCTYPE html><html dir="rtl" lang="ar"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين - WitAnime</title>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+                <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين بجودة عالية وتحميل مباشر Yomi no Tsugai مترجم كامل على موقع وايت انمي.">
+	<link rel="canonical" href="https://witanime.you/anime/yomi-no-tsugai/">
+	<meta property="og:locale" content="ar_AR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين - WitAnime">
+	<meta property="og:description" content="جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين بجودة عالية وتحميل مباشر Yomi no Tsugai مترجم كامل على موقع وايت انمي.">
+	<meta property="og:url" content="https://witanime.you/anime/yomi-no-tsugai/">
+	<meta property="og:site_name" content="WitAnime">
+	<meta name="twitter:card" content="summary_large_image">
+	<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://witanime.you/#website","url":"https://witanime.you/","name":"WitAnime","description":"مشاهدة وتحميل الانمي المترجم اون لاين","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://witanime.you/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ar"},{"@type":"CollectionPage","@id":"https://witanime.you/anime/yomi-no-tsugai/","url":"https://witanime.you/anime/yomi-no-tsugai/","name":"جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين - WitAnime","isPartOf":{"@id":"https://witanime.you/#website"},"description":"جميع حلقات انمي Yomi no Tsugai مترجمة اون لاين بجودة عالية وتحميل مباشر Yomi no Tsugai مترجم كامل على موقع وايت انمي.","breadcrumb":{"@id":"https://witanime.you/anime/yomi-no-tsugai/#breadcrumb"},"inLanguage":"ar"},{"@type":"BreadcrumbList","@id":"https://witanime.you/anime/yomi-no-tsugai/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://witanime.you/"},{"@type":"ListItem","position":2,"name":"Yomi no Tsugai"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="خلاصة WitAnime « Yomi no Tsugai أنمي" href="https://witanime.you/anime/yomi-no-tsugai/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/witanime.you\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://witanime.you/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-rtl-css" href="https://witanime.you/wp-includes/css/dist/block-library/style-rtl.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/bootstrap.min.727.css" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme_styles-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/styles.min.727.css" type="text/css" media="all">
+<link rel="stylesheet" id="theme-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/dark-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="font_awesome-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/fontawesome-5/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="hover_effect-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/vendors/hovereffect/effects.css" type="text/css" media="all">
+<link rel="stylesheet" id="player-styles-css" href="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/css/blueplayer.css" type="text/css" media="all">
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://witanime.you/wp-json/"><link rel="alternate" type="application/json" href="https://witanime.you/wp-json/wp/v2/anime/2404"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://witanime.you/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://witanime.you/wp-includes/wlwmanifest.xml"> 
+
+<link rel="icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-32x32.png" sizes="32x32">
+<link rel="icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-180x180.png">
+<meta name="msapplication-TileImage" content="https://witanime.you/wp-content/uploads/2023/08/cropped-Logo-WITU-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			.custom-notice {
+    background-color: #029dbc;
+    color: #FFFFFF;
+    text-align: center;
+	  padding-top: 10px;
+	   font-size: 15px;
+}	
+.arrow-down {
+    background-color: #029dbc;
+    color: #FFFFFF;
+    text-align: center;
+	  font-size: 20px;
+}
+		</style>
+		
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+
+<meta name="google-site-verification" content="y9nu619v_o7MCeKJ-7-1WS8mUoUw05MfFm70gLr4w6I">
+<meta name="edge" content="zX9p2Kf7mR4qL8vT3wY6bN1cJ5hG0dA">
+
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-ZVB2E4FQBQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZVB2E4FQBQ');
+</script>
+
+
+<script data-cfasync="false" async="" type="text/javascript" src="//rt.tinkledtertium.com/rOH6wm3gfazPQI/137297"></script>
+<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><link rel="dns-prefetch" href="https://hexoic.ribsiuds.qpon"><link rel="preconnect" href="https://hexoic.ribsiuds.qpon" crossorigin="anonymous"></head>
+<body>
+    <!-- HEADER NAVBAR -->
+    <div class="header-navbar">
+        <div class="container header-navbar-container">
+            <div class="row">
+                <div class="col-md-3 col-sm-12">
+                    <div class="logo">
+                                                <a href="https://witanime.you"><img src="https://witanime.you/wp-content/uploads/2022/01/WITLOGO.png" alt="Logo"></a>
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-12 col-no-padding">
+                    <a id="touch-menu" class="mobile-menu" href="#"><i class="fa fa-bars"></i> القائمة</a>
+                    <div class="menu-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9-container"><ul id="menu-%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9" class="menu"><li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-40"><a href="https://witanime.you/">الرئيسية</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="https://witanime.you/%d9%82%d8%a7%d8%a6%d9%85%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d9%85%d9%8a/">قائمة الأنمي</a></li>
+<li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://witanime.you/anime-type/movie/">أفلام الأنمي</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="https://witanime.you/anime-season/صيف-2026/">أنميات الموسم</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://witanime.you/%d9%85%d9%88%d8%a7%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a7%d8%aa/">مواعيد الحلقات</a></li>
+<li id="menu-item-21993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21993"><a href="https://witanime.you/contact-us/">إتصل بنا</a></li>
+</ul></div> 
+                </div>
+                <div class="col-md-2 col-sm-12 col-no-padding-left">
+                    <div class="navbar-buttons">
+                        <div class="btn-group">
+                            <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-user"></i>
+                            </button>
+                            <ul class="dropdown-menu">
+                                                                <li><a href="https://witanime.you/wp-login.php">تسجيل الدخول</a></li>
+                                <li><a href="https://witanime.you/wp-login.php?action=lostpassword&amp;redirect_to=https://witanime.you">نسيت كلمة المرور؟</a></li>
+                                                        </ul>
+                    </div>
+                    <a id="showSearch" class="btn"><i class="fas fa-search"></i></a>
+                    <a id="theme-mode" class="btn">
+                                                <i class="fas fa-sun" id="theme-mode-icon"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <!-- SEARCH CONTENT -->
+        <div class="main-section search-content" id="searchContent">
+            <div class="row">
+                <div class="col-md-1 col-sm-12 col-no-padding-left">
+                    <a id="hideSearch"><i class="fa fa-times" aria-hidden="true"></i> إغلاق</a>
+                </div>
+                <div class="col-md-11 col-sm-12 col-no-padding-right">
+                    <div class="header-search-form">
+    <form method="get" id="searchform" action="https://witanime.you/" role="search">
+        <div class="input-group">
+            <div class="input-group-btn search-panel">
+            </div>
+            <input type="hidden" name="search_param" value="animes" id="search_param">          
+            <input type="text" class="form-control" value="" name="s" placeholder="البحث في الموقع">
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+            </span>
+        </div>
+    </form>
+</div>                </div>
+            </div>
+        </div>
+        <!-- END SEARCH CONTENT -->
+        
+    </div>
+</div>
+<!-- HEADER NAVBAR -->
+<!-- ANIME INFORMATION SECTION -->
+<div class="second-section">
+    <div class="container">
+        <div class="anime-info-container">
+            <div class="anime-info-right">
+                <div class="anime-thumbnail">
+                                        <img src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-413x559.jpg" class="thumbnail img-responsive" alt="Yomi no Tsugai">
+                </div>
+            </div>
+            <div class="anime-info-left">
+                <div class="anime-details">
+                    <h1 class="anime-details-title">Yomi no Tsugai</h1>
+                    <ul class="anime-genres">
+                        <li><a href="https://witanime.you/anime-genre/%d8%b4%d9%88%d9%86%d9%8a%d9%86/">شونين</a></li><li><a href="https://witanime.you/anime-genre/%d9%85%d8%ba%d8%a7%d9%85%d8%b1%d8%a7%d8%aa/">مغامرات</a></li><li><a href="https://witanime.you/anime-genre/%d8%a3%d9%83%d8%b4%d9%86/">أكشن</a></li><li><a href="https://witanime.you/anime-genre/%d8%ae%d9%8a%d8%a7%d9%84/">خيال</a></li>                    </ul>
+                    <p class="anime-story">القصة تتحدث عن صياد يكتشف سرًا صادمًا عن قريته بعد مذبحة دموية ليبدأ رحلة كشف حقيقة شقيقته والغموض وراء الشياطين!</p>
+                    <div class="row">
+                                                    <div class="col-md-6 col-sm-12">
+                                <div class="anime-info"><span>النوع:</span> <a href="https://witanime.you/anime-type/tv/">TV</a></div>
+                            </div>
+                                                <div class="col-md-6 col-sm-12">
+                            <div class="anime-info"><span>بداية العرض:</span> 2026</div>
+                        </div>
+                                                    <div class="col-md-6 col-sm-12">
+                                <div class="anime-info"><span>حالة الأنمي:</span> <a href="https://witanime.you/anime-status/%d9%8a%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%a7%d9%86/">يعرض الان</a></div>
+                            </div>
+                                                <div class="col-md-6 col-sm-12">
+                            <div class="anime-info">
+                                <span>عدد الحلقات:</span> 
+                                غير معروف                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-12">
+                            <div class="anime-info"><span>مدة الحلقة:</span> 24 دقيقة</div>
+                        </div>
+                                                    <div class="col-md-6 col-sm-12">
+                                <div class="anime-info"><span>الموسم:</span> <a href="https://witanime.you/anime-season/%d8%b1%d8%a8%d9%8a%d8%b9-2026/">ربيع 2026</a></div>
+                            </div>
+                                                <div class="col-md-6 col-sm-12">
+                            <div class="anime-info"><span>المصدر:</span> مانجا</div>
+                        </div>
+                    </div>
+                    <div class="anime-external-links">
+                                                    <a target="_blank" href="https://youtu.be/XCyj9KKKjUI?si=eUx0-ERaODKd1BwC" class="anime-trailer"><i class="far fa-play-circle"></i> العرض التشويقي</a>
+                                                                            <a target="_blank" href="https://myanimelist.net/anime/62001/Yomi_no_Tsugai" class="anime-mal"><i class="fas fa-globe-asia"></i> صفحة الأنمي على موقع MAL</a>
+                                            </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+</div>
+<div class="triangle-down triangle-down-black"></div>
+<!-- END ANIME INFORMATION SECTION --> 
+
+
+            <div class="container">
+                    <div class="space"></div>
+<div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+          <iframe data-aa="2425280" src="//acceptable.a-ads.com/2425280/?size=Adaptive" style="border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto"></iframe>
+        </div>
+</div>
+<div class="space"></div>
+
+
+<!-- ANIME EPISODES -->
+<div class="container">
+    <div class="main-widget">
+        <div class="main-didget-head">
+            <h3>حلقات الأنمي</h3>
+            <div class="search-for-episode">
+                <div class="form-group">
+                    <input type="text" class="form-control" id="inputEpisode" onkeyup="getFilteredEpisode()" placeholder="البحث عن حلقة">
+                </div>
+            </div>
+        </div>
+        <div class="main-widget-body">
+            <div class="episodes-list-content">
+                                    <div class="row display-flex" id="DivEpisodesList">
+                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMS8=')">الحلقة 1</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 1"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMS8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMi8=')">الحلقة 2</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 2"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMi8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMy8=')">الحلقة 3</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 3"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMy8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNC8=')">الحلقة 4</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 4"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNC8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNS8=')">الحلقة 5</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 5"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNS8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNi8=')">الحلقة 6</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 6"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNi8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNy8=')">الحلقة 7</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 7"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktNy8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktOC8=')">الحلقة 8</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 8"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktOC8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktOS8=')">الحلقة 9</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 9"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktOS8=')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTAv')">الحلقة 10</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 10"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTAv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTEv')">الحلقة 11</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 11"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTEv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTIv')">الحلقة 12</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 12"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTIv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTMv')">الحلقة 13</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 13"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTMv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTQv')">الحلقة 14</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 14"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTQv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTUv')">الحلقة 15</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 15"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTUv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTYv')">الحلقة 16</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 16"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTYv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTcv')">الحلقة 17</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 17"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTcv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTgv')">الحلقة 18</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 18"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTgv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTkv')">الحلقة 19</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 19"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMTkv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMjAv')">الحلقة 20</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 20"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMjAv')" class="overlay"></a></div></div></div></div><div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 col-no-padding col-mobile-no-padding DivEpisodeContainer"><div class="episodes-card-container"><div class="episodes-card"><div class="hover ehover6"><div class="episodes-card-title"><h3><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMjEv')">الحلقة 21</a></h3></div><img class="img-responsive" src="https://witanime.you/wp-content/uploads/2026/04/Yomi-no-Tsugai-EP-400x243.jpg" alt="الحلقة 21"><a href="javascript:void(0);" onclick="openEpisode('aHR0cHM6Ly93aXRhbmltZS55b3UvZXBpc29kZS95b21pLW5vLXRzdWdhaS0lZDglYTclZDklODQlZDglYWQlZDklODQlZDklODIlZDglYTktMjEv')" class="overlay"></a></div></div></div></div></div>
+                            </div>
+        </div>
+    </div>
+</div>
+<!-- END ANIME EPISODES -->
+<div class="space"></div>
+
+    <!-- FOOTER -->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <div class="site-copyrights">
+                                                جميع الحقوق محفوظة لموقع وايت انمي | WitAnime                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <ul class="footer-social">
+                                                <li><a target="_blank" href="" class="facebook-share"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a target="_blank" href="" class="twitter-share"><i class="fab fa-twitter"></i></a></li>
+                        <li><a target="_blank" href="" class="youtube-share"><i class="fab fa-youtube"></i></a></li>
+                        <li><a target="_blank" href="" class="discord-share"><i class="fab fa-discord"></i></a></li>
+                        <li><a target="_blank" href="" class="instagram-share"><i class="fab fa-instagram"></i></a></li>
+                        <li><a target="_blank" href="" class="instagram-share"><i class="fab fa-telegram-plane"></i></a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="developer-copyrights">
+                        <p>
+                        <a href="/dmca/">DMCA</a>
+                        |
+                        <a href="/contact-us/">Contact Us</a>
+                        |
+                        <a href="https://www.witanime.net/">WITANIME</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+
+    </div>
+        <!-- END FOOTER -->
+
+    <script>var processedEpisodeData = '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.T0hFTnQ1WklnM29YTzdyQ2FPR09xNW5obm40M3h1Rk8=';</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js" id="script-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/bootstrap.min.js" id="bootstrap_script-js"></script>
+<script type="text/javascript" id="theme_script-js-extra">
+/* <![CDATA[ */
+var theme_data_array = {"theme_dir":"https:\/\/witanime.you\/wp-content\/themes\/Anime-Online-Theme","light_theme_time":"1669311810","dark_theme_time":"1669311810"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/theme-scripts.js" id="theme_script-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/yh00.js" id="ltsm-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/rd.js" id="rds-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/cx2.js" id="lkgx-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-content/themes/Anime-Online-Theme/assets/js/rnd.js" id="episode-rnd-js"></script>
+<script type="text/javascript" src="https://witanime.you/wp-includes/js/wp-embed.min.js" id="wp-embed-js"></script>
+
+
+
+    
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;769b5964c1f44a11b8ad5988921154f3&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+<iframe src="about:blank" style="width: max-content !important; height: max-content !important; margin: 0px !important; padding: 0px !important; border-width: medium !important; border-style: none !important; border-color: currentcolor !important; border-image: none !important; outline: none !important; box-sizing: border-box !important; color-scheme: none !important; inset: 0px !important; overflow: hidden !important; display: block !important;"></iframe></body><div dir="rtl" data-shb="1" style="width: max-content; height: max-content; margin: auto; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; outline: none; box-sizing: border-box; color-scheme: none; inset: 0px; overflow: hidden; font-family: Arial, Helvetica, sans-serif; display: flex; position: fixed; flex-direction: column; align-items: center; z-index: 2147483647; opacity: 1;"><div class="D1BnW" style="width: 0px; height: 0px; overflow: hidden;"><div class="notranslate" style="width: inherit; height: inherit; overflow: hidden;"><iframe sandbox="allow-same-origin allow-scripts allow-popups allow-modals" srcdoc="&lt;!doctype html&gt;
+&lt;html&gt;
+    &lt;head lang=&quot;en&quot;&gt;&lt;style&gt;
+  html { overflow: hidden; margin: 0; }
+  body { margin: 0; box-sizing: border-box; }
+&lt;/style&gt;
+&lt;script&gt;(function(){
+var px=function(v){var m=/^([0-9.]+)px$/.exec(v);return m?parseFloat(m[1]):null;};
+var pv=function(k){try{return window.parent!==window?window.parent[k]:window[k];}catch(e){return 0;}};
+var SHADOW_PADDING=4;
+var MIN_SIZE=40;
+var send=function(){
+var el=document.body.firstElementChild;
+if(!el)return;
+var cs=window.getComputedStyle(el);
+var maxW=px(cs.maxWidth),maxH=px(cs.maxHeight);
+var width=maxW!==null?maxW:Math.ceil(el.offsetWidth);
+var height=maxH!==null?maxH:Math.ceil(el.offsetHeight);
+width=width+SHADOW_PADDING*2;
+height=height+SHADOW_PADDING*2;
+var vw=pv('innerWidth');
+if(vw)width=Math.min(width,vw);
+if(width&lt;MIN_SIZE||height&lt;MIN_SIZE)return;
+parent.postMessage({sbxH:height&gt;0?height:0,sbxW:width&gt;0?width:0},'*');
+};
+var init=function(){
+send();
+var el=document.body.firstElementChild;
+if(typeof ResizeObserver!=='undefined'){
+var ro=new ResizeObserver(send);
+ro.observe(document.body);
+if(el){ro.observe(el);}
+}
+window.addEventListener('load',send);
+};
+if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}
+else{init();}
+})()&lt;/script&gt;
+        &lt;meta charset=&quot;utf-8&quot; /&gt;
+        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot; /&gt;
+        &lt;title&gt;&lt;/title&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot; /&gt;
+        &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin /&gt;
+        &lt;link
+            href=&quot;https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&amp;display=swap&quot;
+            rel=&quot;stylesheet&quot;
+        /&gt;
+        
+
+        &lt;style&gt;
+            * {
+              margin: 0;
+              padding: 0;
+              -webkit-box-sizing: border-box;
+                      box-sizing: border-box;
+              position: relative;
+            }
+            html,
+            body {
+              width: 100%;
+              height: 100%;
+            }
+            html {
+              font-size: 16px;
+            }
+            body {
+              font-family: &quot;Open Sans&quot;, sans-serif;
+              background: transparent;
+              color: #212121;
+              text-align: left;
+              -webkit-user-select: none;
+                 -moz-user-select: none;
+                  -ms-user-select: none;
+                      user-select: none;
+              cursor: default;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-align: center;
+                  -ms-flex-align: center;
+                      align-items: center;
+              -webkit-box-pack: center;
+                  -ms-flex-pack: center;
+                      justify-content: center;
+            }
+            .wrapper {
+              background: #ffffff;
+              width: 90%;
+              max-width: 450px;
+              border-radius: 8px;
+              padding: 20px 15px;
+              box-shadow: 0 3px 8px -2px rgba(0, 0, 0, 0.25);
+              cursor: pointer;
+            }
+            h1 {
+              font-size: 1.3rem;
+              margin-bottom: 30px;
+            }
+            .actions {
+              margin-top: 40px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-align: center;
+                  -ms-flex-align: center;
+                      align-items: center;
+              -webkit-box-pack: center;
+                  -ms-flex-pack: center;
+                      justify-content: center;
+            }
+            .actions p {
+              width: 50%;
+              text-align: center;
+              text-transform: uppercase;
+              font-size: 1.1rem;
+            }
+            .actions p:first-child {
+              color: #bdbdbd;
+              z-index: 100;
+              cursor: default;
+            }
+            .actions p:last-child {
+              color: #1065f1;
+              font-weight: 700;
+            }
+
+            .mask {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                cursor: pointer;
+            }
+        &lt;/style&gt;
+    &lt;style id=&quot;animation-shufflebox&quot;&gt;
+/*----------------- Animation css -----------------*/
+body {
+        animation: rightTopSlide 1.6s forwards ease-out;
+    }
+
+    @keyframes rightTopSlide {
+        0% {
+            transform: translate(100%, -100%);
+        }
+        100% {
+            transform: translate(0, 0);
+        }
+    }
+/*----------------- Animation css -----------------*/
+&lt;/style&gt;
+&lt;style id=&quot;animation-shufflebox&quot;&gt;
+/*----------------- Animation css -----------------*/
+body {
+        animation: rightTopSlide 1.6s forwards ease-out;
+    }
+
+    @keyframes rightTopSlide {
+        0% {
+            transform: translate(100%, -100%);
+        }
+        100% {
+            transform: translate(0, 0);
+        }
+    }
+/*----------------- Animation css -----------------*/
+&lt;/style&gt;
+&lt;style id=&quot;cssEditor&quot;&gt;&lt;/style&gt;&lt;/head&gt;
+
+    &lt;body data-area=&quot;area4&quot;&gt;
+        &lt;div class=&quot;wrapper&quot; data-area=&quot;area3&quot;&gt;
+            &lt;h1&gt;&lt;/h1&gt;
+            &lt;p class=&quot;description&quot;&gt;Please install &lt;strong&gt;trusted VPN Protect App&lt;/strong&gt; to unlock the content.&lt;/p&gt;
+            &lt;div class=&quot;mask&quot; data-onOpen=&quot;0&quot;&gt;&lt;/div&gt;
+            &lt;div class=&quot;actions&quot;&gt;
+                &lt;p data-onClose=&quot;0&quot; data-area=&quot;area2&quot;&gt;Cancel&lt;/p&gt;
+                &lt;p data-onOpen=&quot;0&quot; data-area=&quot;area1&quot;&gt;Continue&lt;/p&gt;
+            &lt;/div&gt;
+            
+        &lt;/div&gt;
+    &lt;script id=&quot;jsEditor&quot;&gt;
+//-------------------- Default script --------------------
+
+            function onOpen(event) {
+                const { clientX, clientY } = event;
+
+                window.top.postMessage({ $G$: 1, event: 'open', clientX, clientY }, '*');
+                window.open('[[OUT_URL]]');
+            }
+
+            function onClose() {
+                window.top.postMessage({ $G$: 1, event: 'close' }, '*');
+            }
+
+            function showAlert(payload) {
+                window.top.postMessage({ $G$: 1, event: 'alert', payload }, '*');
+            }
+        
+//-------------------- Default script --------------------
+&lt;/script&gt;&lt;/body&gt;
+&lt;/html&gt;
+" style="width: 100%; height: 100%; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; overflow: hidden; color-scheme: none;"></iframe></div></div><style>._0Or05 {
+  position: absolute;
+  top: 6px;
+  left: 93%;
+  z-index: 2147483647;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: #fff;
+  cursor: pointer;
+}
+
+.Kv1JU {
+  position: relative;
+  font-size: 12px;
+  user-select: none;
+}
+.D1BnW {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: fit-content;
+  height: fit-content;
+}
+</style></div></html>

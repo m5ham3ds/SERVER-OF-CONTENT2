@@ -1,0 +1,1938 @@
+<!DOCTYPE html><html dir="rtl" lang="ar" prefix="og: https://ogp.me/ns#"><head>
+<meta charset="UTF-8">
+<link rel="apple-touch-icon" href="https://watch.stardima.com/watch/wp-content/uploads/2024/09/APP01.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!-- <link rel="stylesheet" href="https://watch.stardima.com/style/assets/css/stardima-ad.css"> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/qu5xua5k/e4dp.css" media="all">
+<script async="" src="//cse.google.com/adsense/search/async-ads.js"></script><script src="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/2qxpphn6/e4dq.js" type="text/javascript"></script>
+<!-- <script src="https://watch.stardima.com/style/assets/js/stardima-ad.js"></script> -->
+<meta name="theme-color" content="#ffffff"><link rel="shortcut icon" href="https://watch.stardima.com/watch/wp-content/uploads/2025/01/8480-narutohello.png" type="image/x-icon">
+<title>StarDima - ستارديما - موقع اونلاين لمشاهدة الكرتون والأنمي</title>
+<!-- All in One SEO 5.0.1.1 - aioseo.com -->
+<meta name="description" content="موقع ستارديما (stardima)، الموقع العربي الأول لمشاهدة مسلسلات وأفلام الكرتون والانمي المدبلجة والمترجمة أونلاين مجانا.">
+<meta name="robots" content="max-image-preview:large">
+<meta name="google-site-verification" content="ghgpE37clPRsjhIm0ZMfTlDsgFyxElm_b-Ph_aYWpLw">
+<meta name="msvalidate.01" content="D68C3CB9A126F7F36068E1F0D5B90502">
+<meta name="yandex-verification" content="9e65e9fd7ee93cf4">
+<link rel="canonical" href="https://watch.stardima.com/watch/">
+<meta name="generator" content="All in One SEO (AIOSEO) 5.0.1.1">
+<meta property="og:locale" content="ar_AR">
+<meta property="og:site_name" content="StarDima - ستارديما">
+<meta property="og:type" content="website">
+<meta property="og:title" content="StarDima - ستارديما">
+<meta property="og:description" content="موقع ستارديما (stardima)، الموقع العربي الأول لمشاهدة مسلسلات وأفلام الكرتون والانمي المدبلجة والمترجمة أونلاين مجانا.">
+<meta property="og:url" content="https://watch.stardima.com/watch/">
+<meta property="og:image" content="https://www.stardima.com/wp-content/uploads/2022/01/12121.png">
+<meta property="og:image:secure_url" content="https://www.stardima.com/wp-content/uploads/2022/01/12121.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@stardima">
+<meta name="twitter:title" content="StarDima - ستارديما">
+<meta name="twitter:description" content="موقع اونلاين لمشاهدة الكرتون والأنمي">
+<meta name="twitter:image" content="https://www.stardima.com/wp-content/uploads/2022/11/f9063b0f.png">
+<script type="application/ld+json" class="aioseo-schema">
+{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/watch.stardima.com\/watch\/#collectionpage","url":"https:\/\/watch.stardima.com\/watch\/","name":"StarDima - \u0633\u062a\u0627\u0631\u062f\u064a\u0645\u0627 - \u0645\u0648\u0642\u0639 \u0627\u0648\u0646\u0644\u0627\u064a\u0646 \u0644\u0645\u0634\u0627\u0647\u062f\u0629 \u0627\u0644\u0643\u0631\u062a\u0648\u0646 \u0648\u0627\u0644\u0623\u0646\u0645\u064a","description":"\u0645\u0648\u0642\u0639 \u0633\u062a\u0627\u0631\u062f\u064a\u0645\u0627 (stardima)\u060c \u0627\u0644\u0645\u0648\u0642\u0639 \u0627\u0644\u0639\u0631\u0628\u064a \u0627\u0644\u0623\u0648\u0644 \u0644\u0645\u0634\u0627\u0647\u062f\u0629 \u0645\u0633\u0644\u0633\u0644\u0627\u062a \u0648\u0623\u0641\u0644\u0627\u0645 \u0627\u0644\u0643\u0631\u062a\u0648\u0646 \u0648\u0627\u0644\u0627\u0646\u0645\u064a \u0627\u0644\u0645\u062f\u0628\u0644\u062c\u0629 \u0648\u0627\u0644\u0645\u062a\u0631\u062c\u0645\u0629 \u0623\u0648\u0646\u0644\u0627\u064a\u0646 \u0645\u062c\u0627\u0646\u0627.","inLanguage":"ar","isPartOf":{"@id":"https:\/\/watch.stardima.com\/watch\/#website"},"about":{"@id":"https:\/\/watch.stardima.com\/watch\/#person"}},{"@type":"Person","@id":"https:\/\/watch.stardima.com\/watch\/#person","name":"stardima","image":{"@type":"ImageObject","@id":"https:\/\/watch.stardima.com\/watch\/#personImage","url":"https:\/\/secure.gravatar.com\/avatar\/04cc5545b07faa8e3adfe6c2172cbc08b01bca85399376236010dc9a02521a4c?s=96&d=mm&r=g","width":96,"height":96,"caption":"stardima"}},{"@type":"WebSite","@id":"https:\/\/watch.stardima.com\/watch\/#website","url":"https:\/\/watch.stardima.com\/watch\/","name":"stardima.com","description":"\u0645\u0648\u0642\u0639 \u0627\u0648\u0646\u0644\u0627\u064a\u0646 \u0644\u0645\u0634\u0627\u0647\u062f\u0629 \u0627\u0644\u0643\u0631\u062a\u0648\u0646 \u0648\u0627\u0644\u0623\u0646\u0645\u064a","inLanguage":"ar","publisher":{"@id":"https:\/\/watch.stardima.com\/watch\/#person"}}]}
+</script>
+<!-- All in One SEO -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link href="https://fonts.gstatic.com" crossorigin="" rel="preconnect">
+<link rel="alternate" type="application/rss+xml" title="StarDima - ستارديما « الخلاصة" href="https://watch.stardima.com/watch/feed/">
+<link rel="alternate" type="application/rss+xml" title="StarDima - ستارديما « خلاصة التعليقات" href="https://watch.stardima.com/watch/comments/feed/">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://watch.stardima.com/watch/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:right;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em 0 0 .1em;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-right:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://watch.stardima.com/watch/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-table-inline-css">
+.wp-block-table{overflow-x:auto}.wp-block-table table{border-collapse:collapse;width:100%}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{border:1px solid;padding:.5em}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table .has-fixed-layout td,.wp-block-table .has-fixed-layout th{word-break:break-word}.wp-block-table.aligncenter,.wp-block-table.alignleft,.wp-block-table.alignright{display:table;width:auto}.wp-block-table.aligncenter td,.wp-block-table.aligncenter th,.wp-block-table.alignleft td,.wp-block-table.alignleft th,.wp-block-table.alignright td,.wp-block-table.alignright th{word-break:break-word}.wp-block-table .has-subtle-light-gray-background-color{background-color:#f3f4f5}.wp-block-table .has-subtle-pale-green-background-color{background-color:#e9fbe5}.wp-block-table .has-subtle-pale-blue-background-color{background-color:#e7f5fe}.wp-block-table .has-subtle-pale-pink-background-color{background-color:#fcf0ef}.wp-block-table.is-style-stripes{background-color:initial;border-collapse:inherit;border-spacing:0}.wp-block-table.is-style-stripes tbody tr:nth-child(odd){background-color:#f0f0f0}.wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd){background-color:#f3f4f5}.wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd){background-color:#e9fbe5}.wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd){background-color:#e7f5fe}.wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd){background-color:#fcf0ef}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes th{border-color:#0000}.wp-block-table.is-style-stripes{border-bottom:1px solid #f0f0f0}.wp-block-table .has-border-color td,.wp-block-table .has-border-color th,.wp-block-table .has-border-color tr,.wp-block-table .has-border-color>*{border-color:inherit}.wp-block-table table[style*=border-top-color] tr:first-child,.wp-block-table table[style*=border-top-color] tr:first-child td,.wp-block-table table[style*=border-top-color] tr:first-child th,.wp-block-table table[style*=border-top-color]>*,.wp-block-table table[style*=border-top-color]>* td,.wp-block-table table[style*=border-top-color]>* th{border-top-color:inherit}.wp-block-table table[style*=border-top-color] tr:not(:first-child){border-top-color:initial}.wp-block-table table[style*=border-right-color] td:last-child,.wp-block-table table[style*=border-right-color] th,.wp-block-table table[style*=border-right-color] tr,.wp-block-table table[style*=border-right-color]>*{border-left-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:last-child,.wp-block-table table[style*=border-bottom-color] tr:last-child td,.wp-block-table table[style*=border-bottom-color] tr:last-child th,.wp-block-table table[style*=border-bottom-color]>*,.wp-block-table table[style*=border-bottom-color]>* td,.wp-block-table table[style*=border-bottom-color]>* th{border-bottom-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:not(:last-child){border-bottom-color:initial}.wp-block-table table[style*=border-left-color] td:first-child,.wp-block-table table[style*=border-left-color] th,.wp-block-table table[style*=border-left-color] tr,.wp-block-table table[style*=border-left-color]>*{border-right-color:inherit}.wp-block-table table[style*=border-style] td,.wp-block-table table[style*=border-style] th,.wp-block-table table[style*=border-style] tr,.wp-block-table table[style*=border-style]>*{border-style:inherit}.wp-block-table table[style*=border-width] td,.wp-block-table table[style*=border-width] th,.wp-block-table table[style*=border-width] tr,.wp-block-table table[style*=border-width]>*{border-style:inherit;border-width:inherit}
+/*# sourceURL=https://watch.stardima.com/watch/wp-includes/blocks/table/style.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--noto-kufi-arabic: Noto Kufi Arabic;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-noto-kufi-arabic-font-family{font-family: var(--wp--preset--font-family--noto-kufi-arabic) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-css' href='https://watch.stardima.com/watch/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/eiww6h4w/e4dp.css" media="all">
+<style id="contact-form-7-inline-css">
+.wpcf7 .wpcf7-recaptcha iframe {margin-bottom: 0;}.wpcf7 .wpcf7-recaptcha[data-align="center"] > div {margin: 0 auto;}.wpcf7 .wpcf7-recaptcha[data-align="right"] > div {margin: 0 0 0 auto;}
+/*# sourceURL=contact-form-7-inline-css */
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-rtl-css' href='https://watch.stardima.com/watch/wp-content/plugins/contact-form-7/includes/css/styles-rtl.css?ver=6.1.7' media='all' /> -->
+<!-- <link rel='stylesheet' id='fontawesome-pro-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/fontawesome/css/all.min.css?ver=5.15.1' media='all' /> -->
+<!-- <link rel='stylesheet' id='owl-carousel-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/css/front.owl.min.css?ver=2.6.3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/12c7xi3q/e4dp.css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&amp;ver=2.6.3" media="all">
+<!-- <link rel='stylesheet' id='scrollbar-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/css/front.crollbar.min.css?ver=2.6.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='dooplay-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/css/front.style.min.css?ver=2.6.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='dooplay-color-scheme-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/css/colors.default.min.css?ver=2.6.3' media='all' /> -->
+<!-- <link rel='stylesheet' id='dooplay-responsive-css' href='https://watch.stardima.com/watch/wp-content/themes/stardima/assets/css/front.mobile.min.css?ver=2.6.3' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/2c3bpn2x/e4g3.css" media="all">
+<script src="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/77gs7joz/e4dp.js" type="text/javascript"></script><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection">
+<!-- <script id="jquery-core-js" src="https://watch.stardima.com/watch/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script> -->
+<!-- <script id="jquery-migrate-js" src="https://watch.stardima.com/watch/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script> -->
+<!-- <script id="lazyload-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/lib/lazyload.js?ver=2.6.3"></script> -->
+<!-- <script id="scrollbar-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/lib/pwsscrollbar.js?ver=2.6.3"></script> -->
+<!-- <script id="owl-carousel-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/lib/owlcarousel.js?ver=2.6.3"></script> -->
+<!-- <script id="idTabs-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/lib/idtabs.js?ver=2.6.3"></script> -->
+<!-- <script id="dtRepeat-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/lib/isrepeater.js?ver=2.6.3"></script> -->
+<script id="dt_main_ajax-js-extra">
+var dtAjax = {"url":"/watch/wp-admin/admin-ajax.php","player_api":"https://watch.stardima.com/watch/wp-json/dooplayer/v2/","play_ajaxmd":"1","play_method":"admin_ajax","googlercptc":"6LfoKB0tAAAAANKniE052CfyShC8klG3Tgg2Bsvf","classitem":"5","loading":"Loading..","afavorites":"Add to favorites","rfavorites":"Remove of favorites","views":"Views","remove":"Remove","isawit":"I saw it","send":"Data send..","updating":"Updating data..","error":"Error","pending":"Pending review","ltipe":"Download","sending":"Sending data","enabled":"Enable","disabled":"Disable","trash":"Delete","lshared":"Links Shared","ladmin":"Manage pending links","sendingrep":"Please wait, sending data..","ready":"Ready","deletelin":"Do you really want to delete this link?"};
+//# sourceURL=dt_main_ajax-js-extra
+</script>
+<script src="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/jz7p5mrm/e4g3.js" type="text/javascript"></script>
+<!-- <script id="dt_main_ajax-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/front.ajax.min.js?ver=2.6.3"></script> -->
+<link rel="https://api.w.org/" href="https://watch.stardima.com/watch/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://watch.stardima.com/watch/xmlrpc.php?rsd">
+<!-- <link rel="stylesheet" href="https://watch.stardima.com/watch/wp-content/themes/stardima/rtl.css" media="screen" /> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/20lf4iym/e4dp.css" media="screen"><meta name="generator" content="WordPress 7.0">
+<script type="text/javascript">jQuery(document).ready(function(a){"false"==dtGonza.mobile&&a(window).load(function(){a(".scrolling").mCustomScrollbar({theme:"minimal-dark",scrollInertia:200,scrollButtons:{enable:!0},callbacks:{onTotalScrollOffset:100,alwaysTriggerOffsets:!1}})})});</script>
+<style type="text/css">
+body{font-family:"Roboto", sans-serif;}
+body{background-color:#F5F7FA;}
+header.main .hbox,#contenedor,footer.main .fbox{max-width:1200px;}
+a,.home-blog-post .entry-date .date,.top-imdb-item:hover>.title a,.module .content .items .item .data h3 a:hover,.head-main-nav ul.main-header li:hover>a,.login_box .box a.register{color:#408BEA;}
+.nav_items_module a.btn:hover,.pagination span.current,.w_item_b a:hover>.data .wextra b:before,.comment-respond h3:before,footer.main .fbox .fmenu ul li a:hover{color:#408BEA;}
+header.main .hbox .search form button[type=submit]:hover,.loading,#seasons .se-c .se-a ul.episodios li .episodiotitle a:hover,.sgeneros a:hover,.page_user nav.user ul li a:hover{color:#408BEA;}
+footer.main .fbox .fmenu ul li.current-menu-item a,.posts .meta .autor i,.pag_episodes .item a:hover,a.link_a:hover,ul.smenu li a:hover{color:#408BEA;}
+header.responsive .nav a.active:before, header.responsive .search a.active:before,.dtuser a.clicklogin:hover,.menuresp .menu ul.resp li a:hover,.menuresp .menu ul.resp li ul.sub-menu li a:hover{color:#408BEA;}
+.sl-wrapper a:before,table.account_links tbody td a:hover,.dt_mainmeta nav.genres ul li a:hover{color:#408BEA;}
+.dt_mainmeta nav.genres ul li.current-cat a:before,.dooplay_player .options ul li:hover span.title{color:#408BEA;}
+.head-main-nav ul.main-header li ul.sub-menu li a:hover,form.form-resp-ab button[type=submit]:hover>span,.sidebar aside.widget ul li a:hover{color:#408BEA;}
+header.top_imdb h1.top-imdb-h1 span,article.post .information .meta span.autor,.w_item_c a:hover>.rating i,span.comment-author-link,.pagination a:hover{color:#408BEA;}
+.letter_home ul.glossary li a:hover, .letter_home ul.glossary li a.active, .user_control a.in-list{color:#408BEA;}
+.headitems a#dooplay_signout:hover, .login_box .box a#c_loginbox:hover{color:#408BEA;}
+.report_modal .box .form form fieldset label:hover > span.title{color:#408BEA;}
+.linktabs ul li a.selected,ul.smenu li a.selected,a.liked,.module .content header span a.see-all,.page_user nav.user ul li a.selected,.dt_mainmeta nav.releases ul li a:hover{background:#408BEA;}
+a.see_all,p.form-submit input[type=submit]:hover,.report-video-form fieldset input[type=submit],a.mtoc,.contact .wrapper fieldset input[type=submit],span.item_type,a.main{background:#408BEA;}
+.post-comments .comment-reply-link:hover,#seasons .se-c .se-q span.se-o,#edit_link .box .form_edit .cerrar a:hover{background:#408BEA;}
+.user_edit_control ul li a.selected,form.update_profile fieldset input[type=submit],.page_user .content .paged a.load_more:hover,#edit_link .box .form_edit fieldset input[type="submit"]{background:#408BEA;}
+.login_box .box input[type="submit"],.form_post_lik .control .left a.add_row:hover,.form_post_lik .table table tbody tr td a.remove_row:hover,.form_post_lik .control .right input[type="submit"]{background:#408BEA;}
+#dt_contenedor{background-color:#F5F7FA;}
+.plyr input[type=range]::-ms-fill-lower{background:#408BEA;}
+.menuresp .menu .user a.ctgs,.menuresp .menu .user .logout a:hover{background:#408BEA;}
+.plyr input[type=range]:active::-webkit-slider-thumb{background:#408BEA;}
+.plyr input[type=range]:active::-moz-range-thumb{background:#408BEA;}
+.plyr input[type=range]:active::-ms-thumb{background:#408BEA;}
+.tagcloud a:hover,ul.abc li a:hover,ul.abc li a.select, {background:#408BEA;}
+.featu{background:#00be08;}
+.report_modal .box .form form fieldset input[type=submit]{background-color:#408BEA;}
+.contact .wrapper fieldset input[type=text]:focus, .contact .wrapper fieldset textarea:focus,header.main .hbox .dt_user ul li ul li:hover > a,.login_box .box a.register{border-color:#408BEA;}
+.module .content header h1{border-color:#408BEA;}
+.module .content header h2{border-color:#408BEA;}
+a.see_all{border-color:#408BEA;}
+.top-imdb-list h3{border-color:#408BEA;}
+.user_edit_control ul li a.selected:before{border-top-color:#408BEA;}
+.btn-video {
+padding: 10px 15px;
+background: #51ce60;
+color: white;
+border: 1px solid green;
+border-radius: 4px;
+font-size: 18px;
+margin: 3px;
+cursor: pointer;
+}
+input.btn-video:hover {
+background: green;
+}
+.vp-embed {
+height: 0;
+overflow: hidden;
+padding-bottom: 56.25%;
+position: relative;
+width: 100%;
+}
+.vp-embed .page-cover {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-position: center center;
+background-size: cover;
+opacity: .5;
+}
+.vp-embed .external-page {
+color: #fff;
+display: inline-block;
+position: absolute;
+width: 100%;
+text-align: center;
+height: 100%;
+margin: auto;
+top: 0;
+right: 0;
+left: 0;
+bottom: 0;
+}
+.vp-embed .external-video {
+margin: 0 auto;
+position: relative;
+top: calc(43%);
+}
+.external-video-inner {
+background: rgba(0,0,0,.15);
+z-index: 2;
+opacity: 1;
+}
+.external-video-btn {
+position: relative;
+z-index: 10;
+width: 32px;
+height: 44px;
+box-sizing: initial;
+border-radius: 50%;
+padding: 18px 20px 18px 28px;
+display: inline-block;
+}
+.external-video-btn:before, .external-video-btn:after {
+background-color: rgba(255,255,255,.8);
+}
+.external-video-btn span {
+border-left: 27px solid #e33049;
+}
+.external-video-btn:after {
+z-index: 1;
+transition: all .2s;
+}
+.external-video-text {
+margin-top: 10px;
+color: #fff;
+font-size: 18px;
+}
+.external-video-btn span {
+display: block;
+position: relative;
+z-index: 3;
+width: 0;
+height: 0;
+border-top: 15px solid transparent;
+border-bottom: 15px solid transparent;
+margin: 6px 2px;
+}
+.external-video-btn:after, .external-video-btn:before {
+content: "";
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translateX(-50%) translateY(-50%);
+width: 80px;
+height: 80px;
+border-radius: 50%;
+display: inline-block;
+}
+</style>
+<link rel="icon" href="https://watch.stardima.com/watch/wp-content/uploads/2025/01/8480-narutohello-150x150.png" sizes="32x32">
+<link rel="icon" href="https://watch.stardima.com/watch/wp-content/uploads/2025/01/8480-narutohello-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://watch.stardima.com/watch/wp-content/uploads/2025/01/8480-narutohello-300x300.png">
+<meta name="msapplication-TileImage" content="https://watch.stardima.com/watch/wp-content/uploads/2025/01/8480-narutohello-300x300.png">
+<!-- Fonts Plugin CSS - https://fontsplugin.com/ -->
+<style>
+/* Cached: August 29, 2026 at 1:07pm */
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 100;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 100;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 100;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 100;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 100;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 200;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 300;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 500;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 500;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 500;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 500;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 500;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 700;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 800;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 800;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 800;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 800;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 800;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* arabic */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 900;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOYFFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC, U+102E0-102FB, U+10E60-10E7E, U+10EC2-10EC4, U+10EFC-10EFF, U+1EE00-1EE03, U+1EE05-1EE1F, U+1EE21-1EE22, U+1EE24, U+1EE27, U+1EE29-1EE32, U+1EE34-1EE37, U+1EE39, U+1EE3B, U+1EE42, U+1EE47, U+1EE49, U+1EE4B, U+1EE4D-1EE4F, U+1EE51-1EE52, U+1EE54, U+1EE57, U+1EE59, U+1EE5B, U+1EE5D, U+1EE5F, U+1EE61-1EE62, U+1EE64, U+1EE67-1EE6A, U+1EE6C-1EE72, U+1EE74-1EE77, U+1EE79-1EE7C, U+1EE7E, U+1EE80-1EE89, U+1EE8B-1EE9B, U+1EEA1-1EEA3, U+1EEA5-1EEA9, U+1EEAB-1EEBB, U+1EEF0-1EEF1;
+}
+/* math */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 900;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrJ8FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0302-0303, U+0305, U+0307-0308, U+0310, U+0312, U+0315, U+031A, U+0326-0327, U+032C, U+032F-0330, U+0332-0333, U+0338, U+033A, U+0346, U+034D, U+0391-03A1, U+03A3-03A9, U+03B1-03C9, U+03D1, U+03D5-03D6, U+03F0-03F1, U+03F4-03F5, U+2016-2017, U+2034-2038, U+203C, U+2040, U+2043, U+2047, U+2050, U+2057, U+205F, U+2070-2071, U+2074-208E, U+2090-209C, U+20D0-20DC, U+20E1, U+20E5-20EF, U+2100-2112, U+2114-2115, U+2117-2121, U+2123-214F, U+2190, U+2192, U+2194-21AE, U+21B0-21E5, U+21F1-21F2, U+21F4-2211, U+2213-2214, U+2216-22FF, U+2308-230B, U+2310, U+2319, U+231C-2321, U+2336-237A, U+237C, U+2395, U+239B-23B7, U+23D0, U+23DC-23E1, U+2474-2475, U+25AF, U+25B3, U+25B7, U+25BD, U+25C1, U+25CA, U+25CC, U+25FB, U+266D-266F, U+27C0-27FF, U+2900-2AFF, U+2B0E-2B11, U+2B30-2B4C, U+2BFE, U+3030, U+FF5B, U+FF5D, U+1D400-1D7FF, U+1EE00-1EEFF;
+}
+/* symbols */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 900;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrI0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0001-000C, U+000E-001F, U+007F-009F, U+20DD-20E0, U+20E2-20E4, U+2150-218F, U+2190, U+2192, U+2194-2199, U+21AF, U+21E6-21F0, U+21F3, U+2218-2219, U+2299, U+22C4-22C6, U+2300-243F, U+2440-244A, U+2460-24FF, U+25A0-27BF, U+2800-28FF, U+2921-2922, U+2981, U+29BF, U+29EB, U+2B00-2BFF, U+4DC0-4DFF, U+FFF9-FFFB, U+10140-1018E, U+10190-1019C, U+101A0, U+101D0-101FD, U+102E0-102FB, U+10E60-10E7E, U+1D2C0-1D2D3, U+1D2E0-1D37F, U+1F000-1F0FF, U+1F100-1F1AD, U+1F1E6-1F1FF, U+1F30D-1F30F, U+1F315, U+1F31C, U+1F31E, U+1F320-1F32C, U+1F336, U+1F378, U+1F37D, U+1F382, U+1F393-1F39F, U+1F3A7-1F3A8, U+1F3AC-1F3AF, U+1F3C2, U+1F3C4-1F3C6, U+1F3CA-1F3CE, U+1F3D4-1F3E0, U+1F3ED, U+1F3F1-1F3F3, U+1F3F5-1F3F7, U+1F408, U+1F415, U+1F41F, U+1F426, U+1F43F, U+1F441-1F442, U+1F444, U+1F446-1F449, U+1F44C-1F44E, U+1F453, U+1F46A, U+1F47D, U+1F4A3, U+1F4B0, U+1F4B3, U+1F4B9, U+1F4BB, U+1F4BF, U+1F4C8-1F4CB, U+1F4D6, U+1F4DA, U+1F4DF, U+1F4E3-1F4E6, U+1F4EA-1F4ED, U+1F4F7, U+1F4F9-1F4FB, U+1F4FD-1F4FE, U+1F503, U+1F507-1F50B, U+1F50D, U+1F512-1F513, U+1F53E-1F54A, U+1F54F-1F5FA, U+1F610, U+1F650-1F67F, U+1F687, U+1F68D, U+1F691, U+1F694, U+1F698, U+1F6AD, U+1F6B2, U+1F6B9-1F6BA, U+1F6BC, U+1F6C6-1F6CF, U+1F6D3-1F6D7, U+1F6E0-1F6EA, U+1F6F0-1F6F3, U+1F6F7-1F6FC, U+1F700-1F7FF, U+1F800-1F80B, U+1F810-1F847, U+1F850-1F859, U+1F860-1F887, U+1F890-1F8AD, U+1F8B0-1F8BB, U+1F8C0-1F8C1, U+1F900-1F90B, U+1F93B, U+1F946, U+1F984, U+1F996, U+1F9E9, U+1FA00-1FA6F, U+1FA70-1FA7C, U+1FA80-1FA89, U+1FA8F-1FAC6, U+1FACE-1FADC, U+1FADF-1FAE9, U+1FAF0-1FAF8, U+1FB00-1FBFF;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 900;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrO0FFkCsIzEEWyam.woff2) format('woff2');
+unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Noto Kufi Arabic';
+font-style: normal;
+font-weight: 900;
+font-display: swap;
+src: url(https://fonts.gstatic.com/s/notokufiarabic/v27/CSRk4ydQnPyaDxEXLFF6LZVLKrodrOMFFkCsIzEEWw.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+:root {
+--font-base: Noto Kufi Arabic;
+}
+body, #content, .entry-content, .post-content, .page-content, .post-excerpt, .entry-summary, .entry-excerpt, .widget-area, .widget, .sidebar, #sidebar, footer, .footer, #footer, .site-footer {
+font-family: "Noto Kufi Arabic";
+}
+</style>
+<!-- Fonts Plugin CSS -->
+<!-- إعلانان عائمان (يسار + يمين) كاملان -->
+<style>
+:root {
+--outer-size: 90px;
+--inner-size: 70px;
+--outer-bg: rgba(255,70,0,0.28);
+--inner-bg: #ff4d00;
+--hover-bg: #ff6a00;
+}
+/* الحاوية العامة */
+.floating-container {
+position: fixed;
+bottom: 60px;
+display: flex;
+flex-direction: column;
+align-items: center;
+animation: bounce 2s infinite ease-in-out;
+z-index: 9999;
+}
+/* اليسار */
+#floating-container-left {
+left: 25px;
+}
+/* اليمين */
+#floating-container-right {
+right: 25px;
+}
+/* الزر الدائري */
+.floating-btn {
+width: var(--outer-size);
+height: var(--outer-size);
+border-radius: 50%;
+background: var(--outer-bg);
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+box-shadow: 0 0 14px rgba(0,0,0,0.35);
+margin-bottom: 10px;
+}
+.icon-circle {
+width: var(--inner-size);
+height: var(--inner-size);
+border-radius: 50%;
+background: var(--inner-bg);
+display: flex;
+align-items: center;
+justify-content: center;
+transition: .25s ease;
+box-shadow: inset 0 0 6px rgba(0,0,0,0.25);
+}
+.floating-btn:hover .icon-circle {
+background: var(--hover-bg);
+transform: scale(1.1);
+}
+.floating-btn img {
+width: 56px;
+height: 56px;
+border-radius: 50%;
+object-fit: cover;
+transition: .25s ease;
+}
+.floating-btn:hover img {
+transform: scale(1.12);
+}
+/* الشريط النصي */
+.label-strip {
+width: var(--outer-size);
+height: 26px;
+background: rgba(250,250,250,0.14);
+border-radius: 12px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+font-size: 12px;
+font-weight: bold;
+color: #ffb988;
+white-space: nowrap;
+user-select: none;
+transition: background 0.25s ease;
+}
+.label-strip:hover {
+background: rgba(250,250,250,0.24);
+}
+/* زر الإغلاق */
+.close-floating {
+position: fixed;
+bottom: calc(60px + var(--outer-size) - 10px);
+width: 26px;
+height: 26px;
+border-radius: 50%;
+background: rgba(0,0,0,0.75);
+color: #fff;
+font-size: 12px;
+font-weight: bold;
+border: none;
+cursor: pointer;
+z-index: 10000;
+transition: .25s ease;
+}
+.close-floating:hover {
+background: rgba(0,0,0,1);
+transform: scale(1.15);
+}
+.close-left {
+left: calc(25px + var(--outer-size) - 15px);
+}
+.close-right {
+right: calc(25px + var(--outer-size) - 15px);
+}
+/* حركة النبض */
+@keyframes bounce {
+0% { transform: translateY(0); }
+50% { transform: translateY(-6px); }
+100% { transform: translateY(0); }
+}
+/* تحسين الهواتف الصغيرة */
+@media (max-width: 360px) {
+#floating-container-left {
+left: 5px;
+bottom: 50px;
+}
+#floating-container-right {
+right: 5px;
+bottom: 50px;
+}
+.floating-btn {
+width: 70px;
+height: 70px;
+}
+.icon-circle {
+width: 50px;
+height: 50px;
+}
+.label-strip {
+width: 70px;
+font-size: 11px;
+}
+.close-left {
+left: calc(5px + 70px - 15px);
+}
+.close-right {
+right: calc(5px + 70px - 15px);
+}
+}
+</style>
+<!-- الإعلان العائم الأيسر -->
+<style></style><script type="text/javascript" async="" src="//s10.histats.com/js15_as.js"></script><script src="https://www.google.com/cse/static/element/93e57cb47c499c53/cse_element__ar.js?usqp=CAI%3D" type="text/javascript"></script><link type="text/css" href="https://www.google.com/cse/static/element/93e57cb47c499c53/default_v6+ar.css" rel="stylesheet"><link type="text/css" href="https://www.google.com/cse/static/style/look/v6/default.css" rel="stylesheet"><style type="text/css">.gsc-control-cse{font-family:arial, roboto, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, roboto, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to right,rgba(255,255,255,1),rgba(255,255,255,0))}</style><link type="text/css" href="https://www.google.com/cse/static/element/93e57cb47c499c53/mobile_v6+ar.css" rel="stylesheet"><style type="text/css">.gscb_a{display:inline-block;font:27px/13px arial,sans-serif}.gsst_a .gscb_a{color:#a1b9ed;cursor:pointer}.gsst_a:hover .gscb_a,.gsst_a:focus .gscb_a{color:#36c}.gsst_a{display:inline-block}.gsst_a{cursor:pointer;padding:0 4px}.gsst_a:hover{text-decoration:none!important}.gsst_b{font-size:16px;padding:0 2px;position:relative;user-select:none;-webkit-user-select:none;white-space:nowrap}.gsst_e{vertical-align:middle;opacity:0.55;}.gsst_a:hover .gsst_e,.gsst_a:focus .gsst_e{opacity:0.72;}.gsst_a:active .gsst_e{opacity:1;}.gsst_f{background:white;text-align:left}.gsst_g{background-color:white;border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);margin:-1px -3px;padding:0 6px}.gsst_h{background-color:white;height:1px;margin-bottom:-1px;position:relative;top:-1px}.gsib_a{width:100%;padding:4px 6px 0}.gsib_a,.gsib_b{vertical-align:top}.gssb_c{border:0;position:absolute;z-index:989}.gssb_e{border:1px solid #ccc;border-top-color:#d9d9d9;box-shadow:0 2px 4px rgba(0,0,0,0.2);-webkit-box-shadow:0 2px 4px rgba(0,0,0,0.2);cursor:default}.gssb_f{visibility:hidden;white-space:nowrap}.gssb_k{border:0;display:block;position:absolute;top:0;z-index:988}.gsdd_a{border:none!important}.gsq_a{padding:0}.gssb_a{padding:0 7px}.gssb_a,.gssb_a td{white-space:nowrap;overflow:hidden;line-height:22px}#gssb_b{font-size:11px;color:#36c;text-decoration:none}#gssb_b:hover{font-size:11px;color:#36c;text-decoration:underline}.gssb_g{text-align:center;padding:8px 0 7px;position:relative}.gssb_h{font-size:15px;height:28px;margin:0.2em;-webkit-appearance:button}.gssb_i{background:#eee}.gss_ifl{visibility:hidden;padding-left:5px}.gssb_i .gss_ifl{visibility:visible}a.gssb_j{font-size:13px;color:#36c;text-decoration:none;line-height:100%}a.gssb_j:hover{text-decoration:underline}.gssb_l{height:1px;background-color:#e5e5e5}.gssb_m{color:#000;background:#fff}.gssb_a{padding:8px 16px}.gsib_a{padding:4px 56px 4px 10px}.gscb_a{line-height:27px}.gssb_e{border:0}.gssb_l{margin:5px 0}input.gsc-input::-webkit-input-placeholder{font-size:14px}input.gsc-input:-moz-placeholder{font-size:14px}input.gsc-input::-moz-placeholder{font-size:14px}input.gsc-input:-ms-input-placeholder{font-size:14px}input.gsc-input:focus::-webkit-input-placeholder{color:transparent}input.gsc-input:focus:-moz-placeholder{color:transparent}input.gsc-input:focus::-moz-placeholder{color:transparent}input.gsc-input:focus:-ms-input-placeholder{color:transparent}.gssb_c .gsc-completion-container{position:static}.gssb_c{z-index:5000}.gsc-completion-container table{background:transparent;font-size:inherit;font-family:inherit}.gssb_c > tbody > tr,.gssb_c > tbody > tr > td,.gssb_d,.gssb_d > tbody > tr,.gssb_d > tbody > tr > td,.gssb_e,.gssb_e > tbody > tr,.gssb_e > tbody > tr > td{padding:0;margin:0;border:0}.gssb_a table,.gssb_a table tr,.gssb_a table tr td{padding:0;margin:0;border:0}.gssb_a,.gssb_a td{line-height:24px}</style></head><body class="rtl home blog wp-theme-stardima"><div id="floating-container-left" class="floating-container" style="display: none;">
+<div class="floating-btn" data-url="https://stardima.app/stardima/">
+<div class="icon-circle">
+<img src="https://stardima.app/wp-content/uploads/2025/11/photo_2025-12-05_23-38-31.jpg">
+</div>
+</div>
+<div class="label-strip">تطبيق ستارديما</div>
+</div>
+<button class="close-floating close-left" data-side="left" style="display: none;">×</button>
+<!-- الإعلان العائم الأيمن -->
+<div id="floating-container-right" class="floating-container" style="display: none;">
+<div class="floating-btn" data-url="https://telegram.me/addlist/JV_IXeBslz5mMjc8">
+<div class="icon-circle">
+<img src="https://stardima.app/telegram.webp">
+</div>
+</div><div class="label-strip">تلغرام ستارديما</div>
+</div>
+<button class="close-floating close-right" data-side="right" style="display: none;">×</button>
+<script>
+/* فتح الروابط */
+document.querySelectorAll('.floating-btn, .label-strip').forEach(el => {
+el.addEventListener('click', () => {
+const container = el.closest('.floating-container');
+const url = container.querySelector('.floating-btn').dataset.url;
+window.open(url, '_blank');
+});
+});
+/* إغلاق وحفظ الحالة */
+document.querySelectorAll('.close-floating').forEach(btn => {
+btn.addEventListener('click', () => {
+const side = btn.dataset.side;
+document.getElementById(`floating-container-${side}`).style.display = 'none';
+btn.style.display = 'none';
+localStorage.setItem(`float_hide_${side}`, Date.now());
+});
+});
+/* التحقق من حالة الإخفاء (ساعة واحدة) */
+['left','right'].forEach(side => {
+const t = localStorage.getItem(`float_hide_${side}`);
+if (!t) return;
+if (Date.now() - parseInt(t) < 3600000) {
+document.getElementById(`floating-container-${side}`).style.display = 'none';
+document.querySelector(`.close-floating[data-side="${side}"]`).style.display = 'none';
+}
+});
+</script>
+<script>(function(s){s.dataset.zone='10962837',s.src='https://llvpn.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script><script data-zone="10962837" src="https://llvpn.com/tag.min.js"></script>
+<script src="https://pl14681978.effectivecpmnetwork.com/52/92/69/5292693aeddbc406c939f9d5674891d8.js"></script>
+
+
+<div id="dt_contenedor">
+<header id="header" class="main" style="opacity: 0;">
+<div class="hbox">
+<div class="fix-hidden">
+<div class="logo">
+<a href="https://watch.stardima.com/watch"><img src="https://watch.stardima.com/watch/wp-content/uploads/2022/05/logo-2022.png" alt="StarDima - ستارديما"></a>
+</div>
+<div class="head-main-nav">
+<div class="menu-home-container"><ul id="main_header" class="main-header"><li id="menu-item-214554" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-214554"><a href="/watch/" aria-current="page">Home</a></li>
+<li id="menu-item-214564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214564"><a href="/watch/movies/">أفلام</a></li>
+<li id="menu-item-214563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-214563"><a href="/watch/tvshows/">المسلسلات</a>
+<ul class="sub-menu">
+<li id="menu-item-214565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214565"><a href="/watch/seasons/">مواسم</a></li>
+<li id="menu-item-214566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214566"><a href="/watch/episodes/">حلقات</a></li>
+</ul>
+</li>
+<li id="menu-item-214567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-214567"><a href="#">قنوات بث مباشر</a>
+<ul class="sub-menu">
+<li id="menu-item-214568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214568"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d8%a8%d9%8a%d8%b3%d8%aa%d9%88%d9%86/">سبيستون</a></li>
+<li id="menu-item-214569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214569"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-mbc3-%d8%a5%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-3/">mbc3</a></li>
+<li id="menu-item-214570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214570"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d9%86%d8%aa%d9%88%d8%b1%d9%83/">كرتون نتورك</a></li>
+</ul>
+</li>
+<li id="menu-item-215325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215325"><a href="https://watch.stardima.com/watch/contact/">Contact</a></li>
+</ul></div>			</div>
+<div class="headitems ">
+<div id="advc-menu" class="search">
+<form method="get" id="searchform" action="https://watch.stardima.com/watch">
+<input type="text" placeholder="Search..." name="s" id="s" value="" autocomplete="off">
+<button class="search-button" type="submit"><span class="fas fa-search"></span></button>
+</form>
+</div>
+<!-- end search -->
+<!-- end dt_user -->
+</div>
+</div>
+<div class="live-search rtl"></div>
+</div>
+</header>
+<div class="fixheadresp">
+<header class="responsive">
+<div class="nav"><a class="aresp nav-resp"></a></div>
+<div class="search"><a class="aresp search-resp"></a></div>
+<div class="logo">
+<a href="https://watch.stardima.com/watch/"><img src="https://watch.stardima.com/watch/wp-content/uploads/2022/05/logo-2022.png" alt="StarDima - ستارديما"></a>
+</div>
+</header>
+<div class="search_responsive">
+<form method="get" id="form-search-resp" class="form-resp-ab" action="https://watch.stardima.com/watch">
+<input type="text" placeholder="Search..." name="s" id="ms" value="" autocomplete="off">
+<button type="submit" class="search-button"><span class="fas fa-search"></span></button>
+</form>
+<div class="live-search"></div>
+</div>
+<div id="arch-menu" class="menuresp">
+<div class="menu">
+<div class="menu-home-container"><ul id="main_header" class="resp"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-214554"><a href="/watch/" aria-current="page">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214564"><a href="/watch/movies/">أفلام</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-214563"><a href="/watch/tvshows/">المسلسلات</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214565"><a href="/watch/seasons/">مواسم</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214566"><a href="/watch/episodes/">حلقات</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-214567"><a href="#">قنوات بث مباشر</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214568"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d8%b3%d8%a8%d9%8a%d8%b3%d8%aa%d9%88%d9%86/">سبيستون</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214569"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-mbc3-%d8%a5%d9%85-%d8%a8%d9%8a-%d8%b3%d9%8a-3/">mbc3</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-214570"><a href="/watch/episodes/%d8%a7%d9%84%d8%a8%d8%ab-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1-%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d9%86%d8%aa%d9%88%d8%b1%d9%83/">كرتون نتورك</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215325"><a href="https://watch.stardima.com/watch/contact/">Contact</a></li>
+</ul></div>		</div>
+</div>
+</div>
+<div id="contenedor">
+<div class="login_box">
+<div class="box">
+<a id="c_loginbox"><i class="fas fa-times"></i></a>
+<h3>Login to your account</h3>
+<form method="post" id="dooplay_login_user">
+<fieldset class="user"><input type="text" name="log" placeholder="Username"></fieldset>
+<fieldset class="password"><input type="password" name="pwd" placeholder="Password"></fieldset>
+<label><input name="rmb" type="checkbox" id="rememberme" value="forever" checked=""> Remember Me</label>
+<fieldset class="submit"><input id="dooplay_login_btn" data-btntext="Log in" type="submit" value="Log in"></fieldset>
+<a class="register" href="https://watch.stardima.com/watch/search_gcse-2/?action=sign-in">Register a new account</a>
+<label><a class="pteks" href="https://watch.stardima.com/watch/wp-login.php?action=lostpassword">Lost your password?</a></label>
+<input type="hidden" name="red" value="https://watch.stardima.com/watch/">
+<input type="hidden" name="action" value="dooplay_login">
+</form>
+</div>
+</div>
+<div id="___gcse_0"><div class="gsc-control-cse gsc-control-cse-ar"><div class="gsc-control-wrapper-cse" dir="rtl"><form class="gsc-search-box gsc-search-box-tools" accept-charset="utf-8"><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-search-box"><tbody><tr><td class="gsc-input"><div class="gsc-input-box" id="gsc-iw-id1"><table cellspacing="0" cellpadding="0" role="presentation" id="gs_id50" class="gstl_50 gsc-input" style="width: 100%; padding: 0px;"><tbody><tr><td id="gs_tti50" class="gsib_a"><input autocomplete="off" type="text" size="10" class="gsc-input" name="search" title="بحث" aria-label="بحث" id="gsc-i-id1" style="width: 100%; padding: 0px; border-width: medium; border-style: none; border-color: currentcolor; border-image: none; margin: 0px; height: auto; background: url(&quot;https://www.google.com/cse/static/images/1x/ar/branding.png&quot;) right center no-repeat rgb(255, 255, 255); outline: none;" dir="rtl" spellcheck="false"></td><td class="gsib_b"><div class="gsst_b" id="gs_st50" dir="rtl"><a class="gsst_a" href="javascript:void(0)" style="display: none;" title="محو نص مربع البحث" role="button"><span class="gscb_a" id="gs_cb50" aria-hidden="true">×</span></a></div></td></tr></tbody></table></div></td><td class="gsc-search-button"><button class="gsc-search-button gsc-search-button-v2"><svg width="13" height="13" viewBox="0 0 13 13"><title>بحث</title><path d="m4.8495 7.8226c0.82666 0 1.5262-0.29146 2.0985-0.87438 0.57232-0.58292 0.86378-1.2877 0.87438-2.1144 0.010599-0.82666-0.28086-1.5262-0.87438-2.0985-0.59352-0.57232-1.293-0.86378-2.0985-0.87438-0.8055-0.010599-1.5103 0.28086-2.1144 0.87438-0.60414 0.59352-0.8956 1.293-0.87438 2.0985 0.021197 0.8055 0.31266 1.5103 0.87438 2.1144 0.56172 0.60414 1.2665 0.8956 2.1144 0.87438zm4.4695 0.2115 3.681 3.6819-1.259 1.284-3.6817-3.7 0.0019784-0.69479-0.090043-0.098846c-0.87973 0.76087-1.92 1.1413-3.1207 1.1413-1.3553 0-2.5025-0.46363-3.4417-1.3909s-1.4088-2.0686-1.4088-3.4239c0-1.3553 0.4696-2.4966 1.4088-3.4239 0.9392-0.92727 2.0864-1.3969 3.4417-1.4088 1.3553-0.011889 2.4906 0.45771 3.406 1.4088 0.9154 0.95107 1.379 2.0924 1.3909 3.4239 0 1.2126-0.38043 2.2588-1.1413 3.1385l0.098834 0.090049z"></path></svg></button></td><td class="gsc-clear-button"><div class="gsc-clear-button" title="محو النتائج">&nbsp;</div></td></tr></tbody></table></form><div class="gsc-results-wrapper-overlay"><div class="gsc-results-close-btn" tabindex="0"></div><div class="gsc-positioningWrapper"><div class="gsc-tabsAreaInvisible"><div aria-label="refinement" role="tab" class="gsc-tabHeader gsc-inline-block gsc-tabhActive">الويب</div><span class="gs-spacer"> </span><div tabindex="0" aria-label="refinement" role="tab" class="gsc-tabHeader gsc-tabhInactive gsc-inline-block">صور</div><span class="gs-spacer"> </span></div></div><div class="gsc-positioningWrapper"><div class="gsc-refinementsAreaInvisible"><div class="gsc-refinementsGradient"></div></div></div><div class="gsc-above-wrapper-area-invisible"><div class="gsc-above-wrapper-area-backfill-container"></div><table cellspacing="0" cellpadding="0" role="presentation" class="gsc-above-wrapper-area-container"><tbody><tr><td class="gsc-result-info-container"><div class="gsc-result-info-invisible"></div></td><td class="gsc-orderby-container"><div class="gsc-orderby-invisible"><div class="gsc-option-menu-container gsc-inline-block"><div class="gsc-orderby-label gsc-inline-block">ترتيب حسب</div><div class="gsc-selected-option-container gsc-inline-block"><div class="gsc-option-selector"></div></div><div class="gsc-option-menu-invisible"><div class="gsc-option-menu-item"><div class="gsc-option-checkbox gsc-inline-block gsc-option-checkbox-checked"></div><div class="gsc-option gsc-inline-block">Relevance</div></div><div class="gsc-option-menu-item"><div class="gsc-option-checkbox gsc-inline-block"></div><div class="gsc-option gsc-inline-block">Date</div></div></div></div></div></td></tr></tbody></table></div><div class="gsc-adBlockInvisible"></div><div class="gsc-wrapper"><div class="gsc-adBlockInvisible"></div><div class="gsc-resultsbox-invisible"><div class="gsc-resultsRoot gsc-tabData gsc-tabdActive"><div><div class="gsc-expansionArea"></div></div></div><div class="gsc-resultsRoot gsc-tabData gsc-tabdInactive"><div><div class="gsc-expansionArea"></div></div></div></div></div></div><div class="gsc-modal-background-image" tabindex="0"></div></div></div></div>
+<div class="module"><div class="content full_width_layout normal"><header>
+<h2>آخر الحلقات</h2>
+<span>93,618 <a href="https://watch.stardima.com/watch/episodes/" class="see-all">See all</a></span>
+</header>
+<div id="epiload" class="load_modules" style="display: none;">Loading..</div>
+<div class="animation-2 items normal">
+<article class="item se episodes" id="post-548997">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/oREd5isA033acAjhA4m1JFRkcfQ-300x170.jpg" alt="Belle and Sebastian: 1×52">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x52/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x52/">A Happy Ending</a></h3>
+<span>S1 E52 / Jun. 22, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548995">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/diMexfgf4eelvbysdhv5jwENLx8-300x170.jpg" alt="Belle and Sebastian: 1×51">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x51/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x51/">Mom Makes Up Her Mind</a></h3>
+<span>S1 E51 / Mar. 23, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548993">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/89CVg2IvuytZlOxwRvypkIKjslC-300x170.jpg" alt="Belle and Sebastian: 1×50">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x50/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x50/">Belle Risks Her Life</a></h3>
+<span>S1 E50 / Mar. 16, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548991">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/qlvpODetEbnawoFyZm03Pec2Tc1-300x170.jpg" alt="Belle and Sebastian: 1×49">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x49/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x49/">The Devil's Corridor</a></h3>
+<span>S1 E49 / Mar. 09, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548989">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/fq5MghkmXxhmY6gEgLuV3oVFjK9-300x170.jpg" alt="Belle and Sebastian: 1×48">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x48/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x48/">A Snowy Reunion</a></h3>
+<span>S1 E48 / Mar. 02, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548987">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/dm0pIVQ398S6UhF7cbQUYFIFg8h-300x170.jpg" alt="Belle and Sebastian: 1×47">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x47/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x47/">A Storm Brews</a></h3>
+<span>S1 E47 / Feb. 23, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548985">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/pVS4thvYbXI2tFp8zXGYKQzYI4K-300x170.jpg" alt="Belle and Sebastian: 1×46">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x46/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x46/">Climbing a Wall of Stone</a></h3>
+<span>S1 E46 / Feb. 16, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548983">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/2qU1412eE5DoKBB0qMXMkJlg3Wz-300x170.jpg" alt="Belle and Sebastian: 1×45">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x45/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x45/">The Kind Heart of Inspector Garcia</a></h3>
+<span>S1 E45 / Feb. 09, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548981">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/jLz465bZefT54OrLbj6mzbic9GD-300x170.jpg" alt="Belle and Sebastian: 1×44">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x44/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x44/">Traveling on the Underground Railroad</a></h3>
+<span>S1 E44 / Feb. 02, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548979">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/y5h8Gxezh3ldefmzC33XR0vBvuf-300x170.jpg" alt="Belle and Sebastian: 1×43">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x43/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x43/">On a Train Bound for Battle</a></h3>
+<span>S1 E43 / Jan. 26, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548977">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/r8fCb1O6vWtHWsiUW8VZA794OiV-300x170.jpg" alt="Belle and Sebastian: 1×42">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x42/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x42/">Make New Friends and Keep the Old</a></h3>
+<span>S1 E42 / Jan. 19, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548975">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/48jPSQWIKhOrJqY86X7CMH7N1lU-300x170.jpg" alt="Belle and Sebastian: 1×41">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x41/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x41/">Help, Save Belle</a></h3>
+<span>S1 E41 / Jan. 12, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548973">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/vSwGTC4sdtXDesXWlNOBSNFDhjG-300x170.jpg" alt="Belle and Sebastian: 1×40">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x40/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x40/">Belle is Captured</a></h3>
+<span>S1 E40 / Jan. 05, 1982</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548971">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/A7RhvvKRsNZmrpiXE0HDzrcpB7m-300x170.jpg" alt="Belle and Sebastian: 1×39">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x39/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x39/">Don't Drink the Water</a></h3>
+<span>S1 E39 / Dec. 29, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548969">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/xXqTFgoqVlxU4ZUIvRPnEwZc1wi-300x170.jpg" alt="Belle and Sebastian: 1×38">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x38/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x38/">Mom Didn't Forget Me</a></h3>
+<span>S1 E38 / Dec. 22, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548967">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/71fIdJDSYYNHNwsJM1oqwRqkN3W-300x170.jpg" alt="Belle and Sebastian: 1×37">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x37/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x37/">The Big Sleep</a></h3>
+<span>S1 E37 / Dec. 15, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548965">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/pcUSkiaoRcw0ZfjRc25Nnol6Lta-300x170.jpg" alt="Belle and Sebastian: 1×36">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x36/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x36/">Poisoned</a></h3>
+<span>S1 E36 / Dec. 08, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548963">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/vdLyZ0oiTq7FHTF0Z7ayoO1XJsv-300x170.jpg" alt="Belle and Sebastian: 1×35">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x35/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x35/">One Mistake After Another</a></h3>
+<span>S1 E35 / Dec. 01, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548961">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/plvHjuXbK3Ifi8urgtpwCnA4Myf-300x170.jpg" alt="Belle and Sebastian: 1×34">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x34/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x34/">Come Back to Me</a></h3>
+<span>S1 E34 / Nov. 24, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548959">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/3mBTGCLEOVI9pO1A82LkyVvTyaT-300x170.jpg" alt="Belle and Sebastian: 1×33">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x33/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x33/">Sebastian Loses His Best Friend</a></h3>
+<span>S1 E33 / Nov. 17, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548957">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/msLqLtkdsAbnIDc5hbYnG3mx0GM-300x170.jpg" alt="Belle and Sebastian: 1×32">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x32/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x32/">When Johnny Comes Marching Home</a></h3>
+<span>S1 E32 / Nov. 10, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548955">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/eP0O4fwccwajFwHcoa0PKN3bz01-300x170.jpg" alt="Belle and Sebastian: 1×31">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x31/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x31/">Reunited At Last</a></h3>
+<span>S1 E31 / Nov. 03, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548953">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/g1xda0zRLFXWdkGEu9TciZmfdSC-300x170.jpg" alt="Belle and Sebastian: 1×30">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x30/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x30/">It's A Boy</a></h3>
+<span>S1 E30 / Oct. 27, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+<article class="item se episodes" id="post-548951">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/b5xLIDwozyiO8tutcdfq1og7O3A-300x170.jpg" alt="Belle and Sebastian: 1×29">
+<div class="season_m animation-1">
+<a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x29/"><div class="see play1"></div></a>
+</div>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/episodes/belle-and-sebastian-1x29/">Belle and Sebastian are Seperated</a></h3>
+<span>S1 E29 / Oct. 20, 1981</span>
+<span class="serie">Belle and Sebastian</span>
+</div>
+</article>
+</div>
+<div id="slider-movies-tvshows" class="animation-1 slider owl-carousel owl-theme" style="opacity: 1; display: block;"> <div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 7140px; left: 0px; display: block;"><div class="owl-item" style="width: 357px;"><article class="item" id="post-548891">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/belle-and-sebastian/">
+<img src="https://image.tmdb.org/t/p/w780/r5c7zggJZ55BbQzYRnvwArXRS5i.jpg" alt="Belle and Sebastian">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/belle-and-sebastian/">
+<div class="data">
+<h3 class="title">Belle and Sebastian</h3>
+<span>1981</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-548733">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/heidi/">
+<img src="https://image.tmdb.org/t/p/w780/8Z4Z5Nep20ZGZFJyRB0tuPk9Mta.jpg" alt="Heidi">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/heidi/">
+<div class="data">
+<h3 class="title">Heidi</h3>
+<span>2015</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-473047">
+<div class="image">
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-home-sweet-home-alone-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<img src="https://image.tmdb.org/t/p/w780/a8tH0jl37366bLVyPB08dncgqqd.jpg" alt="فيلم Home Sweet Home Alone مدبلج عربي">
+</a>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-home-sweet-home-alone-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<div class="data">
+<h3 class="title">فيلم Home Sweet Home Alone مدبلج عربي</h3>
+<span>2021</span>		</div>
+</a>
+<span class="item_type">Movie</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-4099">
+<div class="image">
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%86%d9%85%d9%8a-tekkonkinkreet-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/d30bf31df-1.jpg" alt="فيلم انمي Tekkonkinkreet مترجم عربي">
+</a>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%86%d9%85%d9%8a-tekkonkinkreet-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<div class="data">
+<h3 class="title">فيلم انمي Tekkonkinkreet مترجم عربي</h3>
+<span>Aug. 29, 2026</span>		</div>
+</a>
+<span class="item_type">Movie</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-278693">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-lego-ninjago-dragons-rising-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<img src="https://image.tmdb.org/t/p/w780/rWTdPxL7ujY9ATqXpGp9S8pZPH2.jpg" alt="كرتون LEGO Ninjago: Dragons Rising نينجاغو: نهوض التنانين مدبلج عربي">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-lego-ninjago-dragons-rising-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<div class="data">
+<h3 class="title">كرتون LEGO Ninjago: Dragons Rising نينجاغو: نهوض التنانين مدبلج عربي</h3>
+<span>2023</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-7151">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/b-daman-crossfire-cartoon-arabic/">
+<img src="https://image.tmdb.org/t/p/w780/a1oUU6oCXcTEVy0cr0rWGf5R49n.jpg" alt="انمي بيدا مان كروس فاير B-Daman Crossfire مدبلج">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/b-daman-crossfire-cartoon-arabic/">
+<div class="data">
+<h3 class="title">انمي بيدا مان كروس فاير B-Daman Crossfire مدبلج</h3>
+<span>2011</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-9549">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/bnat-al-maytam-arabic-spacetoon/">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/FBWQ7P6NXKM4UEZFVLYUQR6WX4.jpg" alt="مسلسل عائلي بنات الميتم مدبلج">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/bnat-al-maytam-arabic-spacetoon/">
+<div class="data">
+<h3 class="title">مسلسل عائلي بنات الميتم مدبلج</h3>
+<span>1995</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-548590">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/infinity-nado-6/">
+<img src="https://image.tmdb.org/t/p/w780/8b2GPAy2eu8RJBKWDTYecNvnjCB.jpg" alt="Infinity Nado 6">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/infinity-nado-6/">
+<div class="data">
+<h3 class="title">Infinity Nado 6</h3>
+<span>2022</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-548500">
+<div class="image">
+<a href="https://watch.stardima.com/watch/tvshows/lego-legends-of-chima/">
+<img src="https://image.tmdb.org/t/p/w780/qmSyzVATB6r71yEsFSiraMP9QPg.jpg" alt="LEGO Legends of Chima">
+</a>
+<a href="https://watch.stardima.com/watch/tvshows/lego-legends-of-chima/">
+<div class="data">
+<h3 class="title">LEGO Legends of Chima</h3>
+<span>2013</span>		</div>
+</a>
+<span class="item_type">TV</span>
+</div>
+</article></div><div class="owl-item" style="width: 357px;"><article class="item" id="post-483218">
+<div class="image">
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-craig-before-the-creek-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<img src="https://image.tmdb.org/t/p/w780/NXFwnxHYxXbRTM9FCiHo9IcKSg.jpg" alt="فيلم Craig Before the Creek مترجم عربي">
+</a>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-craig-before-the-creek-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">
+<div class="data">
+<h3 class="title">فيلم Craig Before the Creek مترجم عربي</h3>
+<span>2023</span>		</div>
+</a>
+<span class="item_type">Movie</span>
+</div>
+</article></div></div></div>
+
+
+
+
+
+
+
+
+
+<div class="owl-controls"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div><header>
+<h2>آخر الأفلام</h2>
+<div class="nav_items_module">
+<a class="btn prev3"><i class="fas fa-caret-left"></i></a>
+<a class="btn next3"><i class="fas fa-caret-right"></i></a>
+</div>
+<span>3,474 <a href="https://watch.stardima.com/watch/movies/" class="see-all">See all</a></span>
+</header>
+<div id="movload" class="load_modules" style="display: none;">Loading..</div>
+<div id="dt-movies" class="items normal owl-carousel owl-theme" style="opacity: 1; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 2320px; left: 0px; display: block; transform: translate3d(0px, 0px, 0px); transition: 200ms;"><div class="owl-item" style="width: 116px;"><article id="post-473047" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2024/09/fP3VvqUjEBjawxZHL4sYCq2ZdJD-185x278.jpg" alt="فيلم Home Sweet Home Alone مدبلج عربي">
+<div class="rating">3.6</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-home-sweet-home-alone-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1%d8%a8%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-home-sweet-home-alone-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1%d8%a8%d9%8a/">فيلم Home Sweet Home Alone مدبلج عربي</a></h3>
+<span>Nov. 11, 2021</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-4099" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/d30bf31df-1-185x278.jpg" alt="فيلم انمي Tekkonkinkreet مترجم عربي">
+<div class="rating">0</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%86%d9%85%d9%8a-tekkonkinkreet-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%86%d9%85%d9%8a-tekkonkinkreet-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">فيلم انمي Tekkonkinkreet مترجم عربي</a></h3>
+<span>&nbsp;</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-483218" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2024/11/4gDNAsYbCOP3z4xyM0IhbPl5Rq3-185x278.jpg" alt="فيلم Craig Before the Creek مترجم عربي">
+<div class="rating">7.1</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-craig-before-the-creek-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-craig-before-the-creek-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">فيلم Craig Before the Creek مترجم عربي</a></h3>
+<span>Dec. 11, 2023</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548495" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/02/1wl6eAHbIDSz61tGwYTOKlSRvZb-185x278.jpg" alt="فيلم المحقق كونان 28 – ومضات من الماضي (مدبلج) – Detective Conan One-Eyed Flashback">
+<div class="rating">6.7</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-28-%d9%88%d9%85%d8%b6%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a-%d9%85%d8%af%d8%a8/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-28-%d9%88%d9%85%d8%b6%d8%a7%d8%aa-%d9%85%d9%86-%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a-%d9%85%d8%af%d8%a8/">فيلم المحقق كونان 28 – ومضات من الماضي (مدبلج) – Detective Conan One-Eyed Flashback</a></h3>
+<span>Apr. 18, 2025</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-1155" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/e2604121d-1-185x278.jpg" alt="فلم الكرتون بن 10 جينيرايتور ريكس اتحاد الأبطال Ben 10 Generator Rex Heroes United﻿ مدبلج عربي">
+<div class="rating">0</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a8%d9%86-10-%d8%ac%d9%8a%d9%86%d9%8a%d8%b1%d8%a7%d9%8a%d8%aa%d9%88%d8%b1-%d8%b1%d9%8a%d9%83%d8%b3-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a8%d9%86-10-%d8%ac%d9%8a%d9%86%d9%8a%d8%b1%d8%a7%d9%8a%d8%aa%d9%88%d8%b1-%d8%b1%d9%8a%d9%83%d8%b3-%d8%a7%d8%aa%d8%ad%d8%a7%d8%af/">فلم الكرتون بن 10 جينيرايتور ريكس اتحاد الأبطال Ben 10 Generator Rex Heroes United﻿ مدبلج عربي</a></h3>
+<span>Nov. 25, 2011</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-2111" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2017/08/MV5BYTU1MTI4OTEtNjIzYi00ZDYyLTk2YTYtZmI5NDk4ODY1YmE1XkEyXkFqcGdeQXVyMzMyODMwMTI@._V1_QL75_UY281_CR320190281_-185x278.jpg" alt="فيلم كرتون أد ادد و أدي في رحلة المتاعب – Ed Edd n Eddy’s Big Picture Show مدبلج عربي">
+<div class="rating">8</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a3%d8%af-%d8%a7%d8%af%d8%af-%d9%88-%d8%a3%d8%af%d9%8a-%d9%81%d9%8a-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%b9%d8%a8-ed/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a3%d8%af-%d8%a7%d8%af%d8%af-%d9%88-%d8%a3%d8%af%d9%8a-%d9%81%d9%8a-%d8%b1%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%b9%d8%a8-ed/">فيلم كرتون أد ادد و أدي في رحلة المتاعب – Ed Edd n Eddy’s Big Picture Show مدبلج عربي</a></h3>
+<span>Nov. 08, 2009</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548092" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2025/11/np7ZzU2rmUqqIPQ4HtfcC8JLOvS-185x278.jpg" alt="فيلم في أحلامكما In Your Dreams مدبلج فصحى + مصري">
+<div class="rating">7.6</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d9%81%d9%8a-%d8%a3%d8%ad%d9%84%d8%a7%d9%85%d9%83%d9%85%d8%a7-in-your-dreams-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%81%d8%b5%d8%ad%d9%89-%d9%85%d8%b5%d8%b1%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d9%81%d9%8a-%d8%a3%d8%ad%d9%84%d8%a7%d9%85%d9%83%d9%85%d8%a7-in-your-dreams-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d9%81%d8%b5%d8%ad%d9%89-%d9%85%d8%b5%d8%b1%d9%8a/">فيلم في أحلامكما In Your Dreams مدبلج فصحى + مصري</a></h3>
+<span>Nov. 07, 2025</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-1523" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/dab56f6ae-1-185x278.jpg" alt="فيلم الكرتون ليتل نيمو Little Nemo Adventures in Slumberland مدبلج عربي">
+<div class="rating">0</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d9%84%d9%8a%d8%aa%d9%84-%d9%86%d9%8a%d9%85%d9%88-little-nemo-adventures-in-slumberland-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d9%84%d9%8a%d8%aa%d9%84-%d9%86%d9%8a%d9%85%d9%88-little-nemo-adventures-in-slumberland-%d9%85%d8%af%d8%a8%d9%84%d8%ac-%d8%b9%d8%b1/">فيلم الكرتون ليتل نيمو Little Nemo Adventures in Slumberland مدبلج عربي</a></h3>
+<span>Jul. 15, 1989</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-546063" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2025/10/pzWt8ECED9kGm4LSXLSkPGBWpjE-185x278.jpg" alt="فيلم توم وجيري: ويلي وانكا ومصنع الشيكولاتة – Tom and Jerry: Willy Wonka and the Chocolate Factory مدبلج عربي">
+<div class="rating">5</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%aa%d9%88%d9%85-%d9%88%d8%ac%d9%8a%d8%b1%d9%8a-%d9%88%d9%8a%d9%84%d9%8a-%d9%88%d8%a7%d9%86%d9%83%d8%a7-%d9%88%d9%85%d8%b5%d9%86%d8%b9-%d8%a7%d9%84%d8%b4%d9%8a%d9%83%d9%88/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%8a%d9%84%d9%85-%d8%aa%d9%88%d9%85-%d9%88%d8%ac%d9%8a%d8%b1%d9%8a-%d9%88%d9%8a%d9%84%d9%8a-%d9%88%d8%a7%d9%86%d9%83%d8%a7-%d9%88%d9%85%d8%b5%d9%86%d8%b9-%d8%a7%d9%84%d8%b4%d9%8a%d9%83%d9%88/">فيلم توم وجيري: ويلي وانكا ومصنع الشيكولاتة – Tom and Jerry: Willy Wonka and the Chocolate Factory مدبلج عربي</a></h3>
+<span>Jun. 28, 2017</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-4741" class="item movies">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2016/03/4pQhh5bU1KcUeXqPOteWsCkNZPK-185x278.jpg" alt="فيلم توم وجيري: السريع والمكسو بالفراء Tom and Jerry: The Fast and the Furry مدبلج">
+<div class="rating">6.6</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/movies/%d9%81%d9%84%d9%85-tom-and-jerry-the-fast-and-the-furry-%d8%aa%d9%88%d9%85-%d9%88%d8%ac%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9-%d9%88%d8%a7%d9%84%d9%85%d9%83%d8%b3%d9%88-%d8%a8%d8%a7/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/movies/%d9%81%d9%84%d9%85-tom-and-jerry-the-fast-and-the-furry-%d8%aa%d9%88%d9%85-%d9%88%d8%ac%d9%8a%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9-%d9%88%d8%a7%d9%84%d9%85%d9%83%d8%b3%d9%88-%d8%a8%d8%a7/">فيلم توم وجيري: السريع والمكسو بالفراء Tom and Jerry: The Fast and the Furry مدبلج</a></h3>
+<span>Oct. 11, 2005</span>
+</div>
+</article></div></div></div>
+
+
+
+
+
+
+
+
+
+</div>
+<div class="module_home_ads"><p align="center"></p><p align="center"><a target="_blank" href="https://stardima.app">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2024/10/is-advertising-effective-e-book-cover-1_1728131594654.jpeg" alt="Nature" class="responsive2"></a> </p></div><header>
+<h2>أخر المسلسلات</h2>
+<div class="nav_items_module">
+<a class="btn prev4"><i class="fas fa-caret-left"></i></a>
+<a class="btn next4"><i class="fas fa-caret-right"></i></a>
+</div>
+<span>2,977 <a href="https://watch.stardima.com/watch/tvshows/" class="see-all">See all</a></span>
+</header>
+<div id="tvload" class="load_modules" style="display: none;">Loading..</div>
+<div id="dt-tvshows" class="items normal owl-carousel owl-theme" style="opacity: 1; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 2320px; left: 0px; display: block;"><div class="owl-item" style="width: 116px;"><article id="post-548891" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/yJ0xM73STVS0H81zdWEhfFKEvJm-185x278.jpg" alt="Belle and Sebastian">
+<div class="rating">7.55</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/belle-and-sebastian/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/belle-and-sebastian/">Belle and Sebastian</a></h3>
+<span>Apr. 07, 1981</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548733" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/08/gw0dxuL9roVp2rCYx3y5jFHE7Cf-185x278.jpg" alt="Heidi">
+<div class="rating">7.5</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/heidi/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/heidi/">Heidi</a></h3>
+<span>Apr. 06, 2015</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-278693" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2023/06/4wqL9NEEsJsTgeSE5ArQlhoWYfq-185x278.jpg" alt="كرتون LEGO Ninjago: Dragons Rising نينجاغو: نهوض التنانين مدبلج عربي">
+<div class="rating">10</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-lego-ninjago-dragons-rising-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-lego-ninjago-dragons-rising-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">كرتون LEGO Ninjago: Dragons Rising نينجاغو: نهوض التنانين مدبلج عربي</a></h3>
+<span>Jun. 01, 2023</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-7151" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2021/12/3VxTQ12nPsjQUezedSUjd4yn71D-185x278.jpg" alt="انمي بيدا مان كروس فاير B-Daman Crossfire مدبلج">
+<div class="rating">4.7</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/b-daman-crossfire-cartoon-arabic/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/b-daman-crossfire-cartoon-arabic/">انمي بيدا مان كروس فاير B-Daman Crossfire مدبلج</a></h3>
+<span>Oct. 02, 2011</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-9549" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2023/05/MV5BOTRkYTdkNWItNDVjZC00NGI2LTk0ODMtMjNiYTc5NDI1ZjZkXkEyXkFqcGdeQXVyMzA5NzYzNw@@._V1_-185x278.jpg" alt="مسلسل عائلي بنات الميتم مدبلج">
+<div class="rating">5.667</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/bnat-al-maytam-arabic-spacetoon/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/bnat-al-maytam-arabic-spacetoon/">مسلسل عائلي بنات الميتم مدبلج</a></h3>
+<span>Aug. 07, 1995</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548590" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/02/xsCvdALiTNlsRHhea60ZRN4yr6J-185x278.jpg" alt="Infinity Nado 6">
+<div class="rating">7</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/infinity-nado-6/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/infinity-nado-6/">Infinity Nado 6</a></h3>
+<span>Oct. 14, 2022</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548500" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2026/02/bkq3jXxyXVIojL0oxvLUGUEz9y1-185x278.jpg" alt="LEGO Legends of Chima">
+<div class="rating">6.6</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/lego-legends-of-chima/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/lego-legends-of-chima/">LEGO Legends of Chima</a></h3>
+<span>Jan. 16, 2013</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-10771" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2023/02/9BhczLWHd0O9qOgBzO9dWKKH01a-185x278.jpg" alt="كرتون المحقق كونان مدبلج">
+<div class="rating">8</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-%d9%85%d8%af%d8%a8%d9%84%d8%ac/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d8%a7%d9%84%d9%85%d8%ad%d9%82%d9%82-%d9%83%d9%88%d9%86%d8%a7%d9%86-%d9%85%d8%af%d8%a8%d9%84%d8%ac/">كرتون المحقق كونان مدبلج</a></h3>
+<span>Jan. 08, 1996</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-498967" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2025/02/98qW6e6rKVG8doUkuezYOpkd8eJ-185x278.jpg" alt="مسلسل Pinecone &amp; Pony باينكون و بوني مترجم عربي">
+<div class="rating">4.3</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pinecone-pony-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/%d9%85%d8%b3%d9%84%d8%b3%d9%84-pinecone-pony-%d9%85%d8%aa%d8%b1%d8%ac%d9%85-%d8%b9%d8%b1%d8%a8%d9%8a/">مسلسل Pinecone &amp; Pony باينكون و بوني مترجم عربي</a></h3>
+<span>Apr. 08, 2022</span>
+</div>
+</article></div><div class="owl-item" style="width: 116px;"><article id="post-548431" class="item tvshows">
+<div class="poster">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2025/11/toNVPhr8BpCbJ4LUGdiOGJpcy80-185x278.jpg" alt="انمي عالم كله عيوب Quality Assurance in Another World مدبلج">
+<div class="rating">6</div>
+<div class="mepo">
+</div>
+<a href="https://watch.stardima.com/watch/tvshows/%d8%a7%d9%86%d9%85%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d9%83%d9%84%d9%87-%d8%b9%d9%8a%d9%88%d8%a8-quality-assurance-in-another-world-%d9%85%d8%af%d8%a8%d9%84%d8%ac/"><div class="see play1"></div></a>
+</div>
+<div class="data">
+<h3><a href="https://watch.stardima.com/watch/tvshows/%d8%a7%d9%86%d9%85%d9%8a-%d8%b9%d8%a7%d9%84%d9%85-%d9%83%d9%84%d9%87-%d8%b9%d9%8a%d9%88%d8%a8-quality-assurance-in-another-world-%d9%85%d8%af%d8%a8%d9%84%d8%ac/">انمي عالم كله عيوب Quality Assurance in Another World مدبلج</a></h3>
+<span>Jul. 06, 2024</span>
+</div>
+</article></div></div></div>
+
+
+
+
+
+
+
+
+
+</div>
+<div class="top-imdb-list tleft"><h3>TOP Movies <a class="see_all" href="https://watch.stardima.com/watch/search_gcse-2/">See all</a></h3></div><div class="top-imdb-list tright"><h3>TOP TVShows <a class="see_all" href="https://watch.stardima.com/watch/search_gcse-2/">See all</a></h3></div><header>
+<h2>Last entries</h2>
+<span><a href="https://watch.stardima.com/watch/search_gcse-2/">See all</a></span></header>
+<div class="list-items-blogs">
+<div class="post-entry" id="entry-129196">
+<div class="home-blog-post">
+<div class="entry-date">
+<div class="date">23</div>
+<div class="month">ديسمبر</div>
+</div>
+<div class="entry-datails">
+<div class="entry-title"><a href="https://watch.stardima.com/watch/%d8%b4%d8%a7%d9%87%d8%af-%d8%a7%d9%84%d9%83%d8%b1%d8%aa%d9%88%d9%86-%d9%88%d8%a7%d9%84%d8%a7%d9%86%d9%85%d9%8a-%d8%b9%d8%a8%d8%b1-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%b3%d8%aa%d8%a7%d8%b1%d8%af%d9%8a/">شاهد الكرتون والأنمي عبر تطبيق ستارديما للأندرويد 2026 APK</a></div>
+<div class="entry-content"> تطبيق ستارديما</div>
+</div>
+</div>
+</div>
+<div class="post-entry" id="entry-548482">
+<div class="home-blog-post">
+<div class="entry-date">
+<div class="date">22</div>
+<div class="month">ديسمبر</div>
+</div>
+<div class="entry-datails">
+<div class="entry-title"><a href="https://watch.stardima.com/watch/%d8%b3%d8%aa%d8%a7%d8%b1%d8%af%d9%8a%d9%85%d8%a7-stardima-%d8%a7%d9%84%d8%a8%d8%af%d9%8a%d9%84-%d8%a7%d9%84%d8%a3%d9%81%d8%b6%d9%84-%d9%84%d9%85%d9%88%d9%82%d8%b9-cartoon3rbi-net-%d9%84%d9%85%d8%b4/">ستارديما Stardima: البديل الأفضل لموقع cartoon3rbi.net لمشاهدة الكرتون العربي المدبلج</a></div>
+<div class="entry-content">🔍 مقدمة: عندما يغلق موقع ويظهر البديل الأقوى لعدة سنوات، كان موقع cartoon3rbi.net أو ما يُعرف أيضًا باسم cartoon3rbi من أشهر المواقع التي تقدم محتوى كرتون عربي مدبلج بجودة ...</div>
+</div>
+</div>
+</div>
+<div class="post-entry" id="entry-548478">
+<div class="home-blog-post">
+<div class="entry-date">
+<div class="date">22</div>
+<div class="month">ديسمبر</div>
+</div>
+<div class="entry-datails">
+<div class="entry-title"><a href="https://watch.stardima.com/watch/%d9%88%d8%af%d8%a7%d8%b9%d9%8b%d8%a7-arteenz-com-%d9%85%d8%b1%d8%ad%d8%a8%d9%8b%d8%a7-%d8%a8%d9%80-stardima-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d8%af%d9%8a%d9%84-%d9%84%d9%85%d8%b4%d8%a7%d9%87/">وداعًا arteenz.com… مرحبًا بـ Stardima أفضل بديل لمشاهدة الكرتون المدبلج 🎬</a></div>
+<div class="entry-content">لطالما كان موقع arteenz.com أو كما يعرفه الكثيرون باسم arteenz أو ارتينز واحدًا من أشهر المواقع العربية المتخصصة في عرض الكرتونات المدبلجة، حيث شكّل جزءًا من طفولة وذكريات ...</div>
+</div>
+</div>
+</div>
+<div class="post-entry" id="entry-548470">
+<div class="home-blog-post">
+<div class="entry-date">
+<div class="date">22</div>
+<div class="month">ديسمبر</div>
+</div>
+<div class="entry-datails">
+<div class="entry-title"><a href="https://watch.stardima.com/watch/%d8%a8%d8%b9%d8%af-%d8%a5%d8%ba%d9%84%d8%a7%d9%82-almo7eb-com-%d8%b3%d8%aa%d8%a7%d8%b1%d8%af%d9%8a%d9%85%d8%a7-stardima-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d8%af%d9%8a%d9%84-%d9%84%d9%85%d8%b4%d8%a7/">بعد إغلاق Almo7eb.com: ستارديما Stardima أفضل بديل لمشاهدة الكرتون المدبلج</a></div>
+<div class="entry-content">مقدمة كان Almo7eb.com أو ما يعرف عند المتابعين باسم Almo7eb والمحب أو موقع المحب واحدًا من أشهر المواقع العربية التي قدمت الكرتونات المدبلجة لعشاق الأنمي والرسوم المتحركة. ...</div>
+</div>
+</div>
+</div>
+<div class="post-entry" id="entry-548468">
+<div class="home-blog-post">
+<div class="entry-date">
+<div class="date">22</div>
+<div class="month">ديسمبر</div>
+</div>
+<div class="entry-datails">
+<div class="entry-title"><a href="https://watch.stardima.com/watch/%e2%ad%90-%d9%88%d8%af%d8%a7%d8%b9%d9%8b%d8%a7-katkoute-com-%d9%88%d9%85%d8%b1%d8%ad%d8%a8%d9%8b%d8%a7-%d8%a8%d9%80-stardima-%d8%a3%d9%81%d8%b6%d9%84-%d8%a8%d8%af%d9%8a%d9%84-%d9%84%d9%85/">⭐ وداعًا katkoute.com… ومرحبًا بـ Stardima أفضل بديل لمشاهدة الكرتون المدبلج ⭐</a></div>
+<div class="entry-content">لطالما كان موقع katkoute.com أو كما يعرفه الجميع باسم katkoute واحدًا من أشهر المواقع التي قدمت محتوى الكرتون المدبلج لعشاق الرسوم المتحركة في العالم العربي. فقد ارتبط اسمه ...</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div>
+<footer class="main">
+<div class="fbox">
+<div class="fcmpbox">
+<div class="copy">stardima 2025</div>
+<span class="top-page"><a id="top-page"><i class="fas fa-angle-up"></i></a></span>
+<div class="fmenu"><ul id="menu-footer" class="menu"><li id="menu-item-215331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215331"><a href="https://watch.stardima.com/watch/dmca/">DMCA</a></li>
+<li id="menu-item-215335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-215335"><a rel="privacy-policy" href="https://watch.stardima.com/watch/privacy-policy/">سياسة الخصوصية</a></li>
+<li id="menu-item-215337" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-215337"><a href="/watch/" aria-current="page">الرئيسية</a></li>
+</ul></div>		</div>
+</div>
+</footer>
+</div>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/watch/*"},{"not":{"href_matches":["/watch/wp-*.php","/watch/wp-admin/*","/watch/wp-content/uploads/*","/watch/wp-content/*","/watch/wp-content/plugins/*","/watch/wp-content/themes/stardima/*","/watch/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+$("#featured-titles").owlCarousel({ autoPlay:false,items:6,stopOnHover:true,pagination:false,itemsDesktop:[1199,4],itemsDesktopSmall:[980,4],itemsTablet:[768,3],itemsTabletSmall: false,itemsMobile:[479,3] });
+$(".nextf").click(function(){ $("#featured-titles").trigger("owl.next") });
+$(".prevf").click(function(){ $("#featured-titles").trigger("owl.prev") });
+$("#dt-movies").owlCarousel({ autoPlay:false,items:6,stopOnHover:true,pagination:false,itemsDesktop:[1199,5],itemsDesktopSmall:[980,5],itemsTablet:[768,4],itemsTabletSmall: false,itemsMobile:[479,3] });
+$(".next3").click(function(){ $("#dt-movies").trigger("owl.next") });
+$(".prev3").click(function(){ $("#dt-movies").trigger("owl.prev") });
+$("#dt-tvshows").owlCarousel({ autoPlay:false,items:6,stopOnHover:true,pagination:false,itemsDesktop:[1199,5],itemsDesktopSmall:[980,5],itemsTablet:[768,4],itemsTabletSmall:false,itemsMobile:[479,3] });
+$(".next4").click(function(){ $("#dt-tvshows").trigger("owl.next") });
+$(".prev4").click(function(){ $("#dt-tvshows").trigger("owl.prev") });
+$("#dt-episodes").owlCarousel({ autoPlay:false,pagination:false,items:4,stopOnHover:true,itemsDesktop:[900,3],itemsDesktopSmall:[750,3],itemsTablet:[500,2],itemsMobile:[320,1] });
+$(".next").click(function(){ $("#dt-episodes").trigger("owl.next") });
+$(".prev").click(function(){ $("#dt-episodes").trigger("owl.prev") });
+$("#dt-seasons").owlCarousel({ autoPlay:false,items:6,stopOnHover:true,pagination:false,itemsDesktop:[1199,5],itemsDesktopSmall:[980,5],itemsTablet:[768,4],itemsTabletSmall:false,itemsMobile:[479,3] });
+$(".next2").click(function(){ $("#dt-seasons").trigger("owl.next") });
+$(".prev2").click(function(){ $("#dt-seasons").trigger("owl.prev") });
+$("#slider-movies").owlCarousel({ autoPlay:false,items:3,stopOnHover:true,pagination:true,itemsDesktop:[1199,2],itemsDesktopSmall:[980,2],itemsTablet:[768,2],itemsTabletSmall:[600,1],itemsMobile:[479,1] });
+$("#slider-tvshows").owlCarousel({ autoPlay:false,items:3,stopOnHover:true,pagination:true,itemsDesktop:[1199,2],itemsDesktopSmall:[980,2],itemsTablet:[768,2],itemsTabletSmall:[600,1],itemsMobile:[479,1] });
+$("#slider-movies-tvshows").owlCarousel({ autoPlay:false,items:3,stopOnHover:true,pagination:true,itemsDesktop:[1199,2],itemsDesktopSmall:[980,2],itemsTablet:[768,2],itemsTabletSmall:[600,1],itemsMobile:[479,1] });
+$(".reset").click(function(event){ if (!confirm( dtGonza.reset_all )) { event.preventDefault() } });
+$(".addcontent").click(function(event){ if(!confirm(dtGonza.manually_content)){ event.preventDefault() } });});
+</script>
+<script id="wp-hooks-js" src="https://watch.stardima.com/watch/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d"></script>
+<script id="wp-i18n-js" src="https://watch.stardima.com/watch/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script id="swv-js" src="https://watch.stardima.com/watch/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+"api": {
+"root": "https:\/\/watch.stardima.com\/watch\/wp-json\/",
+"namespace": "contact-form-7\/v1"
+}
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script id="contact-form-7-js" src="https://watch.stardima.com/watch/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7"></script>
+<script id="scripts-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/front.scripts.min.js?ver=2.6.3"></script>
+<script id="live_search-js-extra">
+var dtGonza = {"api":"https://watch.stardima.com/watch/wp-json/dooplay/search/","glossary":"https://watch.stardima.com/watch/wp-json/dooplay/glossary/","nonce":"023077457a","area":".live-search","button":".search-button","more":"View all results","mobile":"1","reset_all":"Really you want to restart all data?","manually_content":"They sure have added content manually?","loading":"Loading..","loadingplayer":"Loading player..","selectaplayer":"Select a video player","playeradstime":null,"autoplayer":"1","livesearchactive":""};
+//# sourceURL=live_search-js-extra
+</script>
+<script id="live_search-js" src="https://watch.stardima.com/watch/wp-content/themes/stardima/assets/js/front.livesearch.min.js?ver=2.6.3"></script>
+<p align="center"><font color="#333">&nbsp;Disclaimer: This site does not 
+store any files on its server. All contents are provided by non-affiliated third 
+parties. </font></p>
+<p align="center">&nbsp;</p>
+<style>
+.responsive2 {
+max-width: 100%;
+height: auto;
+}
+</style>
+<p align="center"><a target="_blank" href="https://www.rdparena.com/payments/aff.php?aff=087">
+<img src="https://watch.stardima.com/watch/wp-content/uploads/2025/07/stardima_image5258.jpg" alt="Nature" class="responsive2"></a> </p>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4812404,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4812404&101" alt="hit counter" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+<!-- ads -->
+<div id="stardima-ad-overlay">
+<div id="stardima-ad-popup">
+<div id="stardima-ad-close-btn">إغلاق</div>
+<div id="stardima-ad-title">
+موقع<br>
+ستارديما<br>
+الجديد<br>
+2026
+</div>
+<a href="https://www.stardima.com/mosalsalat" id="stardima-ad-visit-btn">زيارة الموقع</a>
+</div>
+</div>
+<!-- <link rel="stylesheet" href="https://watch.stardima.com/style/assets/css/stardima-ad.css"> -->
+<link rel="stylesheet" type="text/css" href="//watch.stardima.com/watch/wp-content/cache/wpfc-minified/qu5xua5k/e4dp.css" media="all">
+<script src="https://stardima.app/vid/stardima-ad.js"></script>
+<footer class="seo-footer">
+<style>
+.seo-footer {
+background: #111;
+color: #ccc;
+padding: 30px 0;
+font-size: 14px;
+}
+.seo-footer .container {
+max-width: 1200px;
+margin: auto;
+padding: 0 15px;
+}
+.seo-footer a {
+color: #ccc;
+text-decoration: none;
+}
+.seo-footer a:hover {
+color: #fff;
+}
+.seo-footer ul {
+list-style: none;
+padding: 0;
+margin: 0;
+}
+.seo-footer li {
+margin-bottom: 8px;
+}
+.seo-footer h4 {
+color: #fff;
+margin-bottom: 10px;
+font-size: 16px;
+}
+.footer-section {
+margin-bottom: 20px;
+}
+</style>
+<div class="container">
+<div class="footer-section">
+<h4>بدائل مواقع مشاهدة الأنمي</h4>
+<ul>
+<li>
+<a href="https://watch.stardima.com/watch/⭐-وداعًا-katkoute-com-ومرحبًا-بـ-stardima-أفضل-بديل-لم/">
+وداعًا Katkoute – Stardima أفضل بديل
+</a>
+</li>
+<li>
+<a href="https://watch.stardima.com/watch/بعد-إغلاق-almo7eb-com-ستارديما-stardima-أفضل-بديل-لمشا/">
+بعد إغلاق Almo7eb – موقع Stardima البديل
+</a>
+</li>
+<li>
+<a href="https://watch.stardima.com/watch/وداعًا-arteenz-com-مرحبًا-بـ-stardima-أفضل-بديل-لمشاه/">
+وداعًا Arteenz – Stardima البديل الأفضل
+</a>
+</li>
+<li>
+<a href="https://watch.stardima.com/watch/ستارديما-stardima-البديل-الأفضل-لموقع-cartoon3rbi-net-لمش/">
+Stardima البديل الأفضل لـ Cartoon3rbi
+</a>
+</li>
+</ul>
+</div>
+<div class="footer-section">
+<h4>روابط مفيدة</h4>
+<ul>
+<li>
+<a href="/watch">
+مشاهدة الأنمي أونلاين بجودة عالية
+</a>
+</li>
+<li>
+<a href="/">
+موقع Stardima لمشاهدة الأنمي
+</a>
+</li>
+</ul>
+</div>
+</div>
+</footer>
+<div id="oscuridad"></div>
+<!-- Google CSE Script -->
+<script async="" src="https://cse.google.com/cse.js?cx=015233543557860442542:pka5feaq2mi"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;9c44d2050d0944f0ab17713b4013844b&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+
+<table cellspacing="0" cellpadding="0" role="presentation" class="gstl_50 gssb_c" style="width: 211px; display: none; top: 113px; left: 142px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table></body></html>
