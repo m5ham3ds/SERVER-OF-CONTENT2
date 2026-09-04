@@ -1,0 +1,2794 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="3WcNZCtQCeGWpDEDQEx8BsIP84iwJFGZtsEKlfpo">
+    <meta name="user" content="0">
+
+    <title>قائمة الأنمي - أنمي بالكوم - Animeblkom</title>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="og:title" content="قائمة الأنمي - أنمي بالكوم - Animeblkom">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://animeblkom.net/anime-list">
+    <meta property="og:image:width" content="225">
+    <meta property="og:image:height" content="325">    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@200;500;700&amp;display=swap" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+            <meta name="Description" content="قائمة الأنمي تحتوي على كافة الأنميات و الأفلام والأوفا والأونا , قائمة متنوعه من الأنميات الجديده و القديمة بالكوم للمشاهدة المباشره أون لاين أو للتحميل المباشر">
+        <meta name="Keywords" content="أنمي,بالكوم,Anime,Blkom,أنميات,أفلام أنمي,أونا,أوفا,حلقات خاصة,مشاهدة مباشرة,أون لاين,أونلاين,شاهد الآن,naruto,shippuden,one piece,fairy tail,dragon ball,hkld,انمي رومانسي,أنمي أكشن,online anime,ون بيس,ناروتو,مترجم,arabic,blkom,بالكوم">
+        <meta property="og:image" content="/img/favicon/social.png">
+
+        <link rel="stylesheet" href="/plugins/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="/plugins/owl-carousel/owl.theme.default.min.css">
+        <link rel="stylesheet" href="/plugins/select2/select2.min.css">
+        <link rel="stylesheet" href="/plugins/select2/select2-bootstrap.min.css">
+        <link rel="stylesheet" href="/plugins/nice-select/nice-select.min.css">
+        <link rel="stylesheet" href="/plugins/labelauty/jquery-labelauty.min.css">
+        <link rel="stylesheet" href="/plugins/ion-rangeslider/css/ion.rangeslider.min.css">
+        <link rel="stylesheet" href="/plugins/ion-rangeslider/css/ion.rangeslider.skinFlat.min.css">
+        <link rel="stylesheet" href="/plugins/star-rating/rating.css">
+        
+                    <link rel="stylesheet" href="/plugins/dhtmlx-message/themes/blkom.min.css">
+            
+        <!-- Custom styles for this page -->
+        <link rel="preload" as="style" href="https://animeblkom.net/build/assets/list.96c80a40.css"><link rel="preload" as="style" href="https://animeblkom.net/build/assets/list-grid.a7a8b4ff.css"><link rel="preload" as="style" href="https://animeblkom.net/build/assets/list-list.ebceb3fb.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/list.96c80a40.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/list-grid.a7a8b4ff.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/list-list.ebceb3fb.css">            <link rel="stylesheet" href="/plugins/owl-carousel/owl.carousel.min.css">
+        <link rel="stylesheet" href="/plugins/owl-carousel/owl.theme.default.min.css">
+        
+    <link rel="preload" as="style" href="https://animeblkom.net/build/assets/bootstrap-alt.59057a46.css"><link rel="preload" as="style" href="https://animeblkom.net/build/assets/main.728e5682.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/bootstrap-alt.59057a46.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/main.728e5682.css"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style></head>
+<body class="guest">
+
+    <div class="lightsoff" style="display: none"></div>
+
+    <header style="margin-bottom: 54px;">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header navbar-right pull-right">
+                <button type="button" class="navbar-toggle collapsed hum-btn pull-right" data-toggle="collapse" data-target="#right-navbar" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand pull-right" href="/">أنمي بالكوم</a>
+            </div>
+
+            <div class="navbar-left pull-left navbar-inline">
+                <ul class="nav navbar-nav">
+                    <li class="search-box hidden-xs">
+                        <form action="/search" id="search-form">
+    <button type="submit">
+        <i class="fa fa-search" aria-hidden="true"></i>
+    </button>
+    
+    <input name="query" placeholder="Search..." class="form-control search-input" autocomplete="off" value="">
+</form>
+                    </li>
+                    
+                    <li class="header-icon search-toggle hidden-sm hidden-md hidden-lg">
+                        <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+                    </li>
+
+                    <li class="header-icon notifications-toggle">
+                        <a href="#">
+                            <i class="fa fa-bell" aria-hidden="true"></i> 
+                            
+                            <span class="label unread-notifications ">1</span>
+                        </a>
+                    </li>
+
+                    <li class="header-icon timeline">
+                        <a href="https://animeblkom.net/timeline">
+                            <i class="fa fa-rocket" aria-hidden="true"></i> 
+                        </a>
+                    </li>
+
+                    <li class="dropdown nav-user-info">
+        <a href="#" class="header-icon dropdown-toggle open-user-menu-dropdown" data-toggle="dropdown" role="button" aria-expanded="false">
+            <i class="fa fa-gear" aria-hidden="true"></i>
+        </a>
+
+        <ul class="dropdown-menu" role="menu">
+            <li class="login">
+                <a href="https://animeblkom.net/login">
+                    <i class="fa fa-sign-in" aria-hidden="true"></i> الدخول
+                </a>
+            </li>
+
+            <li class="signup hidden-sm">
+                <a href="https://animeblkom.net/register">
+                    <i class="fa fa-lock" aria-hidden="true"></i> التسجيل
+                </a>
+            </li>
+
+            <li class="dark-mode">
+                <a href="#"><i class="fa fa-adjust"></i> الوضع الليلي</a>
+            </li>
+        </ul>
+    </li>
+                </ul>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="right-navbar">
+                <!-- right nav -->
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown types-list">
+                        <a href="https://animeblkom.net/animes-list">قائمة الأنمي</a>
+                        <a class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="caret"></span></a>
+                        <ul class="dropdown-menu dropdown-menu-right">
+                                                            <li>
+                                    <a href="https://animeblkom.net/anime-list">
+                                        قائمة المسلسلات
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/movie-list">
+                                        قائمة الأفلام
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/ova-list">
+                                        قائمة الأوفا
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/ona-list">
+                                        قائمة الأونا
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/special-list">
+                                        قائمة الحلقات خاصة
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </li>
+                    <li><a href="/premium">العضوية المميزة</a></li>
+                    <li><a class="hidden-sm" href="/blog">المجلة</a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+
+            <!-- Search Results -->
+<div class="search-results guest">
+    <div class="search-box">
+        <form action="/search" id="search-form">
+    <button type="submit">
+        <i class="fa fa-search" aria-hidden="true"></i>
+    </button>
+    
+    <input name="query" placeholder="Search..." class="form-control search-input" autocomplete="off" value="">
+</form>
+    </div>
+    <div class="results"></div>
+
+    <a href="#" class="more-results text-center"></a>
+
+    <div class="clearfix"></div>
+</div>            
+            <div class="notifications-container">
+    <div class="notifications">
+                    <div class="notification">
+                <a class="media media-right" href="https://animeblkom.net/login">
+                    <div class="media-right">
+                        <img class="notification-image" src="/img/favicon/favicon-96x96.png">
+                    </div>
+                    <div class="media-body">
+                        <p class="media-heading">قم بتسجيل الدخول لتبدأ بتلقي الإشعارات :)</p>
+                        <small class="media-footer">أو قم بتسجيل حساب جديد مجانا</small>
+                    </div>
+                </a>
+            </div>
+            </div>
+
+        
+    <div class="loading spaced-md text-center" style="display: none">
+        <i class="fa fa-spinner fa-spin fa-2x"></i>
+    </div>
+
+    <form class="more-notifications text-center" action="https://animeblkom.net/notifications" style="margin-bottom: 0; display: none;">
+        <input type="hidden" name="page" value="1">
+
+        <button type="submit" class="btn btn-block sharp">عرض المزيد</button>
+    </form>
+    
+    <div class="clearfix"></div>
+</div>
+
+        </div>
+    </nav>
+</header>
+
+
+
+
+
+
+    
+    <div class="content-wrapper">
+        <section class="container eps-slider">
+        <div class="heading">
+            <h1><i class="fa fa-bookmark"></i> الانميات المتجددة</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <div class="owl-carousel owl-theme">
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/one-piece/1176">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/74204/139965l.jpg" alt="One Piece poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">One Piece</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 1176</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/jujutsu-kaisen-shimetsu-kaiyuu-zenpen/12">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82710/169611c27dcd29.jpg" alt="Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 12</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/yuusha-kei-ni-shosu-choubatsu-yuusha-9004-tai-keimu-kiroku/12">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82740/16963fdfe60adf.jpg" alt="Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 12</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/yuusha-party-wo-oidasareta-kiyoubinbou/12">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82717/1696121a6f22ae.jpg" alt="Yuusha Party wo Oidasareta Kiyoubinbou poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Yuusha Party wo Oidasareta Kiyoubinbou</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 12</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/enen-no-shouboutai-san-no-shou-part-2/13">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82853/1696a79f9c0cb1.jpg" alt="Enen no Shouboutai: San no Shou Part 2 poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Enen no Shouboutai: San no Shou Part 2</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 13</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/golden-kamuy-saishuushou/13">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82888/1696e6cb68abd0.jpg" alt="Golden Kamuy: Saishuushou poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Golden Kamuy: Saishuushou</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 13</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/sousou-no-frieren-2nd-season/10">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82842/1696a7507ea438.jpg" alt="Sousou no Frieren 2nd Season poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Sousou no Frieren 2nd Season</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 10</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/vigilante-boku-no-hero-academia-illegals-2nd-season/13">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82897/1696e70666d81b.jpg" alt="Vigilante: Boku no Hero Academia Illegals 2nd Season poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Vigilante: Boku no Hero Academia Illegals 2nd Season</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 13</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru/3">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/82852/1696a7853a8a8c.jpg" alt="Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 3</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                            
+                        <div class="item episode">
+                            <a href="https://animeblkom.net/watch/detective-conan/1152">
+                                <div class="image">
+                                                                            <img class="owl-lazy" data-src="/uploads/61505/Detective-Conan-poster-15.jpg" alt="Detective Conan poster">
+                                    
+                                    <div class="overlay"><i class="fa fa-play"></i></div>
+                                </div>
+                                    
+                                <div class="text">
+                                    <div class="name">Detective Conan</div>
+
+                                    <hr>
+
+                                                                            <div class="episode-number">الحلقة : 1152</div>
+                                                                    </div>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container"><div class="row"><div class="col-xs-12"><hr></div></div></div>
+
+
+    
+    <section class="search-section">
+    <div class="container search">
+        <div class="row">
+            <div class="col-xs-12">
+                <form class="row search-form" method="POST" action="/teleport">
+                    <input type="hidden" name="_token" value="3WcNZCtQCeGWpDEDQEx8BsIP84iwJFGZtsEKlfpo">                    
+                    <div class="col-xs-12 col-sm-6 form-group pull-right search-contents" style="display: none;">
+                        <select name="content" class="form-control animes-search select2-hidden-accessible" id="animes-search" tabindex="-1" aria-hidden="true"></select><span class="select2 select2-container select2-container--bootstrap" dir="rtl"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-labelledby="select2-animes-search-container"><span class="select2-selection__rendered" id="select2-animes-search-container"><span class="select2-selection__placeholder">اسم الأنمي</span></span><span class="select2-selection__arrow" role="presentation"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6 form-group pull-right search-contents-replacement">
+                        <div class="form-control animes-search-replacement">
+                            <span class="pull-right">اسم الأنمي</span>
+                            <span class="pull-left">
+                                <small class="icon"><i class="fa fa-caret-down"></i></small>
+                                <div class="loader" style="display: none; margin: 6px 0px;"></div>
+                            </span>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-4 form-group pull-right">
+                        <input name="number" class="form-control number" placeholder="رقم الحلقة">
+                    </div>
+
+                    <div class="col-xs-12 col-sm-2 form-group">
+                        <input type="submit" class="form-control" value="إنتقال">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+    <div class="adblock container"></div>
+
+    <section class="list-options">
+    <div class="container">
+        <div class="options-nav">
+            <ul class="nav nav-pills pull-left">
+                <li>
+                    <select name="sort_by" id="sort_by" class="niceselect" style="display: none;">
+                                                    <option value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=created_at">آخر الإضافات</option>
+                                                    <option value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=rate">التقييم</option>
+                                                    <option value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=name">الاسم</option>
+                                                    <option value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=released_at">تاريخ الانتاج</option>
+                                            </select><div class="nice-select niceselect" tabindex="0"><span class="current">آخر الإضافات</span><ul class="list"><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=created_at" class="option selected">آخر الإضافات</li><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=rate" class="option">التقييم</li><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=name" class="option">الاسم</li><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_by=released_at" class="option">تاريخ الانتاج</li></ul></div>
+                </li>
+                <li>
+                    <select name="sort_dir" id="sort_dir" class="niceselect" style="display: none;">
+                        <option value="https://animeblkom.net/anime-list?genres=magic&amp;sort_dir=asc">
+                            تصاعدي
+                        </option>
+                        <option selected="" value="https://animeblkom.net/anime-list?genres=magic&amp;sort_dir=desc">
+                            تنازلي
+                        </option>
+                    </select><div class="nice-select niceselect" tabindex="0"><span class="current">
+                            تنازلي
+                        </span><ul class="list"><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_dir=asc" class="option">
+                            تصاعدي
+                        </li><li data-value="https://animeblkom.net/anime-list?genres=magic&amp;sort_dir=desc" class="option selected">
+                            تنازلي
+                        </li></ul></div>
+                </li>
+                
+                <li>
+                    <a data-toggle="collapse" href="#filter" aria-expanded="false" aria-controls="filter" class="filter-btn">
+                        <i class="fa fa-filter"></i>
+                        <span class="filter-icon"></span>
+                        فلترة
+                    </a>
+                </li>
+            </ul>
+
+            <ul class="nav nav-pills pull-right view-as">
+                <li class="active"><a href="#"><i class="fa fa-th"></i></a></li>
+                <li><a href="#"><i class="fa fa-th-list"></i></a></li>
+            </ul>
+
+            <di class="clearfix"></di>
+        </div>
+
+    </div>
+</section>
+
+<div class="collapse" id="filter">
+    <section class="filter-section">
+        <div class="container">
+            <form action="https://animeblkom.net/animes-list" method="post">
+                <input type="hidden" name="_token" value="3WcNZCtQCeGWpDEDQEx8BsIP84iwJFGZtsEKlfpo">                
+                <div class="row">
+                    <div class="col-xs-12 col-sm-7 alphabets">
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=a">A</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=b">B</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=c">C</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=d">D</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=e">E</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=f">F</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=g">G</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=h">H</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=i">I</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=j">J</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=k">K</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=l">L</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=m">M</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=n">N</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=o">O</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=p">P</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=q">Q</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=r">R</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=s">S</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=t">T</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=u">U</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=v">V</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=w">W</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=x">X</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=y">Y</a>
+                                                    <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=z">Z</a>
+                                                
+                        <a href="https://animeblkom.net/anime-list?genres=magic&amp;alphabet=%2A">#</a>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-5 state" style="line-height: 10px">
+                        <input type="checkbox" class="labelauty" value="finished" name="status[]" id="finished" aria-hidden="true" style="display: none;"><label for="finished"><span class="labelauty-unchecked-image"></span><span class="labelauty-checked-image"></span></label> 
+                        <label for="finished">مكتمل</label>
+
+                        <input type="checkbox" class="labelauty" value="running" name="status[]" id="running" aria-hidden="true" style="display: none;"><label for="running"><span class="labelauty-unchecked-image"></span><span class="labelauty-checked-image"></span></label> 
+                        <label for="running">مستمر</label>
+
+                        <input type="checkbox" class="labelauty" value="upcomming" name="status[]" id="upcomming" aria-hidden="true" style="display: none;"><label for="upcomming"><span class="labelauty-unchecked-image"></span><span class="labelauty-checked-image"></span></label> 
+                        <label for="upcomming">قادم</label>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 pull-right form-group">
+                        <select name="genres[]" id="" multiple="" class="form-control genres-select select2-hidden-accessible" tabindex="-1" aria-hidden="true">
+                                                            <option value="action" data-en="Action">أكشن</option>
+                                                            <option value="adventure" data-en="Adventure">مغامرة</option>
+                                                            <option value="cars" data-en="Cars">سيارات</option>
+                                                            <option value="comedy" data-en="Comedy">كوميدي</option>
+                                                            <option value="dementia" data-en="Dementia">جنون</option>
+                                                            <option value="demons" data-en="Demons">شياطين</option>
+                                                            <option value="drama" data-en="Drama">دراما</option>
+                                                            <option value="ecchi" data-en="Ecchi">إيتشي</option>
+                                                            <option value="fantasy" data-en="Fantasy">خيال</option>
+                                                            <option value="game" data-en="Game">لعبة</option>
+                                                            <option value="harem" data-en="Harem">حريم</option>
+                                                            <option value="hentai" data-en="Hentai">هينتاي</option>
+                                                            <option value="historical" data-en="Historical">تاريخي</option>
+                                                            <option value="horror" data-en="Horror">رعب</option>
+                                                            <option value="josei" data-en="Josei">جوسي</option>
+                                                            <option value="kids" data-en="Kids">أطفال</option>
+                                                            <option selected="" value="magic" data-en="Magic">سحر</option>
+                                                            <option value="martial-arts" data-en="Martial Arts">فنون عسكرية</option>
+                                                            <option value="mecha" data-en="Mecha">ميكا</option>
+                                                            <option value="military" data-en="Military">عسكري</option>
+                                                            <option value="music" data-en="Music">موسيقى</option>
+                                                            <option value="mystery" data-en="Mystery">غموض</option>
+                                                            <option value="parody" data-en="Parody">ساخر</option>
+                                                            <option value="police" data-en="Police">بوليسي</option>
+                                                            <option value="psychological" data-en="Psychological">نفسي</option>
+                                                            <option value="romance" data-en="Romance">رومانسي</option>
+                                                            <option value="samurai" data-en="Samurai">ساموراي</option>
+                                                            <option value="school" data-en="School">مدرسي</option>
+                                                            <option value="sci-fi" data-en="Sci-Fi">خيال علمي</option>
+                                                            <option value="seinen" data-en="Seinen">سينين</option>
+                                                            <option value="shoujo" data-en="Shoujo">شوجو</option>
+                                                            <option value="shoujo-ai" data-en="Shoujo Ai">شوجو آي</option>
+                                                            <option value="shounen" data-en="Shounen">شونين</option>
+                                                            <option value="shounen-ai" data-en="Shounen Ai">شونين آي</option>
+                                                            <option value="slice-of-life" data-en="Slice of Life">شريحة من الحياة</option>
+                                                            <option value="space" data-en="Space">فضاء</option>
+                                                            <option value="sports" data-en="Sports">رياضي</option>
+                                                            <option value="super-power" data-en="Super Power">قوى خارقة</option>
+                                                            <option value="supernatural" data-en="Supernatural">خارق للطبيعة</option>
+                                                            <option value="thriller" data-en="Thriller">إثارة</option>
+                                                            <option value="vampire" data-en="Vampire">مصاصي دماء</option>
+                                                    </select><span class="select2 select2-container select2-container--bootstrap" dir="rtl"><span class="selection"><span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1"><ul class="select2-selection__rendered"><li class="select2-selection__choice" title="سحر"><span class="select2-selection__choice__remove" role="presentation">×</span>سحر</li><li class="select2-search select2-search--inline"><input class="select2-search__field" type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" placeholder="" style="width: 0.75em;"></li></ul></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6 form-group">
+                        <select name="studios[]" multiple="" class="form-control studios-select select2-hidden-accessible" tabindex="-1" aria-hidden="true">
+                                                            <option value="100studio">100studio</option>
+                                                            <option value="3xcube">3xCube</option>
+                                                            <option value="8bit">8bit</option>
+                                                            <option value="a-1-pictures">A-1 Pictures</option>
+                                                            <option value="a-real">A-Real</option>
+                                                            <option value="acgt">A.C.G.T.</option>
+                                                            <option value="aic">AIC</option>
+                                                            <option value="aic-asta">AIC A.S.T.A.</option>
+                                                            <option value="aic-build">AIC Build</option>
+                                                            <option value="aic-classic">AIC Classic</option>
+                                                            <option value="aic-plus">AIC Plus+</option>
+                                                            <option value="aic-spirits">AIC Spirits</option>
+                                                            <option value="aic-takarazuka">AIC Takarazuka</option>
+                                                            <option value="appp">APPP</option>
+                                                            <option value="axsiz">AXsiZ</option>
+                                                            <option value="actas">Actas</option>
+                                                            <option value="ajia-do">Ajia-Do</option>
+                                                            <option value="ajia-do-j9m">Ajia-do</option>
+                                                            <option value="albacrow">Albacrow</option>
+                                                            <option value="amuse">Amuse</option>
+                                                            <option value="anima">Anima</option>
+                                                            <option value="animaco">Anima&amp;Co.</option>
+                                                            <option value="animate-film">Animate Film</option>
+                                                            <option value="animation-21">Animation 21</option>
+                                                            <option value="animation-do">Animation Do</option>
+                                                            <option value="ankama-animations">Ankama Animations</option>
+                                                            <option value="anpro">Anpro</option>
+                                                            <option value="arms">Arms</option>
+                                                            <option value="artland">Artland</option>
+                                                            <option value="arvo-animation">Arvo Animation</option>
+                                                            <option value="asahi-production">Asahi Production</option>
+                                                            <option value="asatsu-dk">Asatsu DK</option>
+                                                            <option value="ascension">Ascension</option>
+                                                            <option value="ashi-production">Ashi Production</option>
+                                                            <option value="ashi-productions">Ashi Productions</option>
+                                                            <option value="asread">Asread</option>
+                                                            <option value="atelier-pontdarc">Atelier Pontdarc</option>
+                                                            <option value="atelierpontdarc">AtelierPontdarc</option>
+                                                            <option value="aura-studio">Aura Studio</option>
+                                                            <option value="bt">B&amp;T</option>
+                                                            <option value="bcmay-pictures">B.CMAY PICTURES</option>
+                                                            <option value="bug-films">BUG FILMS</option>
+                                                            <option value="bakken-record">Bakken Record</option>
+                                                            <option value="bandai-namco-pictures">Bandai Namco Pictures</option>
+                                                            <option value="barnum-studio">Barnum Studio</option>
+                                                            <option value="bestack">BeSTACK</option>
+                                                            <option value="bee-media">Bee Media</option>
+                                                            <option value="bee-train">Bee Train</option>
+                                                            <option value="beijing-huihuang-animation-company">Beijing Huihuang Animation Company</option>
+                                                            <option value="bellnox-films">Bellnox Films</option>
+                                                            <option value="bibury-animation-studios">Bibury Animation Studios</option>
+                                                            <option value="big-firebird-culture">Big Firebird Culture</option>
+                                                            <option value="blade">Blade</option>
+                                                            <option value="bones">Bones</option>
+                                                            <option value="bones-film">Bones Film</option>
+                                                            <option value="bouncy">Bouncy</option>
+                                                            <option value="brains-base">Brain's Base</option>
+                                                            <option value="bridge">Bridge</option>
+                                                            <option value="c-station">C-Station</option>
+                                                            <option value="c2c">C2C</option>
+                                                            <option value="candy-box">CANDY BOX</option>
+                                                            <option value="chaos-project">Chaos Project</option>
+                                                            <option value="charaction">Charaction</option>
+                                                            <option value="childrens-playground-entertainment">Children's Playground Entertainment</option>
+                                                            <option value="cloud-hearts">Cloud Hearts</option>
+                                                            <option value="cloverworks">CloverWorks</option>
+                                                            <option value="comix-wave-films">CoMix Wave Films</option>
+                                                            <option value="cocktail-media">Cocktail Media</option>
+                                                            <option value="code">Code</option>
+                                                            <option value="comptown">CompTown</option>
+                                                            <option value="connect">Connect</option>
+                                                            <option value="craftar-studios">Craftar Studios</option>
+                                                            <option value="creators-in-pack">Creators in Pack</option>
+                                                            <option value="cue">Cue</option>
+                                                            <option value="cyberconnect2">CyberConnect2</option>
+                                                            <option value="cygamespictures">CygamesPictures</option>
+                                                            <option value="dle">DLE</option>
+                                                            <option value="dmm-pictures">DMM pictures</option>
+                                                            <option value="dmmfutureworks">DMM.futureworks</option>
+                                                            <option value="dr-movie">DR Movie</option>
+                                                            <option value="dai-nippon-printing">Dai Nippon Printing</option>
+                                                            <option value="dandelion-animation-studio">DandeLion Animation Studio</option>
+                                                            <option value="daume">Daume</option>
+                                                            <option value="david-production">David Production</option>
+                                                            <option value="digital-frontier">Digital Frontier</option>
+                                                            <option value="digital-network-animation">Digital Network Animation</option>
+                                                            <option value="diomedea">Diomedea</option>
+                                                            <option value="diomedaa">DiomedÃ©a</option>
+                                                            <option value="diomedea-qnu">Diomedéa</option>
+                                                            <option value="doga-kobo">Doga Kobo</option>
+                                                            <option value="dongwoo-ae">Dongwoo A&amp;E</option>
+                                                            <option value="drive">Drive</option>
+                                                            <option value="dwango">Dwango</option>
+                                                            <option value="dynamo-pictures">Dynamo Pictures</option>
+                                                            <option value="eg-films">E&amp;G Films</option>
+                                                            <option value="eh-production">E&amp;H Production</option>
+                                                            <option value="ekachi-epilka">EKACHI EPILKA</option>
+                                                            <option value="emt-squared">EMT Squared</option>
+                                                            <option value="emta2">EMTÂ²</option>
+                                                            <option value="engi">ENGI</option>
+                                                            <option value="east-fish-studio">East Fish Studio</option>
+                                                            <option value="egg-firm">Egg Firm</option>
+                                                            <option value="eiken">Eiken</option>
+                                                            <option value="emon">Emon</option>
+                                                            <option value="encourage-films">Encourage Films</option>
+                                                            <option value="enoki-films">Enoki Films</option>
+                                                            <option value="ezila">EzÏla</option>
+                                                            <option value="flagship-line">FLAGSHIP LINE</option>
+                                                            <option value="fanworks">Fanworks</option>
+                                                            <option value="felix-film">Felix Film</option>
+                                                            <option value="fifth-avenue">Fifth Avenue</option>
+                                                            <option value="flat-studio">Flat Studio</option>
+                                                            <option value="foch-film">Foch Film</option>
+                                                            <option value="front-line">Front Line</option>
+                                                            <option value="fuji-tv">Fuji TV</option>
+                                                            <option value="future-planet">Future Planet</option>
+                                                            <option value="gg-entertainment">G&amp;G Entertainment</option>
+                                                            <option value="g-angle">G-angle</option>
+                                                            <option value="gcmay-animation-film">G.CMay Animation &amp; Film</option>
+                                                            <option value="gansis">GANSIS</option>
+                                                            <option value="garden-culture-mvw">GARDEN Culture</option>
+                                                            <option value="geek-toys">GEEK TOYS</option>
+                                                            <option value="geektoys">GEEKTOYS</option>
+                                                            <option value="gemba">GEMBA</option>
+                                                            <option value="giftanimation">GIFTanimation</option>
+                                                            <option value="ga-crew">Ga-Crew</option>
+                                                            <option value="gaina">Gaina</option>
+                                                            <option value="gainax">Gainax</option>
+                                                            <option value="gainax-kyoto">Gainax Kyoto</option>
+                                                            <option value="gallop">Gallop</option>
+                                                            <option value="gambit">Gambit</option>
+                                                            <option value="garden-culture">Garden Culture</option>
+                                                            <option value="gathering">Gathering</option>
+                                                            <option value="geek-toys-fba">Geek Toys</option>
+                                                            <option value="gekkou">Gekkou</option>
+                                                            <option value="geno-studio">Geno Studio</option>
+                                                            <option value="ginga-ya">Ginga Ya</option>
+                                                            <option value="gohands">GoHands</option>
+                                                            <option value="gonzo">Gonzo</option>
+                                                            <option value="graphinica">Graphinica</option>
+                                                            <option value="group-tac">Group TAC</option>
+                                                            <option value="guton-animation-studio">Guton Animation Studio</option>
+                                                            <option value="hornets">HORNETS</option>
+                                                            <option value="hotzipang">HOTZIPANG</option>
+                                                            <option value="hal-film-maker">Hal Film Maker</option>
+                                                            <option value="haoliners-animation-league">Haoliners Animation League</option>
+                                                            <option value="hayabusa-film">Hayabusa Film</option>
+                                                            <option value="heewon-entertainment">Heewon Entertainment</option>
+                                                            <option value="hoods-drifters-studio">Hoods Drifters Studio</option>
+                                                            <option value="hoods-entertainment">Hoods Entertainment</option>
+                                                            <option value="hotline">Hotline</option>
+                                                            <option value="husio-studio">Husio Studio</option>
+                                                            <option value="ig-zwei">IG Zwei</option>
+                                                            <option value="ilca">ILCA</option>
+                                                            <option value="imagica-infos">Imagica Infos</option>
+                                                            <option value="imagica-lab">Imagica Lab.</option>
+                                                            <option value="imagin">Imagin</option>
+                                                            <option value="imagineer">Imagineer</option>
+                                                            <option value="issen">Issen</option>
+                                                            <option value="jcstaff">J.C.Staff</option>
+                                                            <option value="jcf">JCF</option>
+                                                            <option value="japan-vistec">Japan Vistec</option>
+                                                            <option value="jinnis-animation-studios">Jinnis Animation Studios</option>
+                                                            <option value="jumondo">Jumondo</option>
+                                                            <option value="jumondou">Jumondou</option>
+                                                            <option value="jumonji">Jumonji</option>
+                                                            <option value="juvenage">Juvenage</option>
+                                                            <option value="koo-ki">KOO-KI</option>
+                                                            <option value="kachidoki-studio">Kachidoki Studio</option>
+                                                            <option value="kachigarasu">Kachigarasu</option>
+                                                            <option value="kamikaze-douga">Kamikaze Douga</option>
+                                                            <option value="kanaban-graphics">Kanaban Graphics</option>
+                                                            <option value="kaname-productions">Kaname Productions</option>
+                                                            <option value="karaku">Karaku</option>
+                                                            <option value="kazami-gakuen-koushiki-douga-bu">Kazami Gakuen Koushiki Douga-bu</option>
+                                                            <option value="kenji-studio">Kenji Studio</option>
+                                                            <option value="keyeast">KeyEast</option>
+                                                            <option value="khara">Khara</option>
+                                                            <option value="kigumi">Kigumi</option>
+                                                            <option value="kinema-citrus">Kinema Citrus</option>
+                                                            <option value="kung-fu-frog-animation">Kung Fu Frog Animation</option>
+                                                            <option value="kyoto-animation">Kyoto Animation</option>
+                                                            <option value="kyotoma">Kyotoma</option>
+                                                            <option value="lan-studio">LAN Studio</option>
+                                                            <option value="levels">LEVELS</option>
+                                                            <option value="lidenfilms">LIDENFILMS</option>
+                                                            <option value="landq-studios">LandQ studios</option>
+                                                            <option value="lapin-track">Lapin Track</option>
+                                                            <option value="larx-entertainment">Larx Entertainment</option>
+                                                            <option value="lay-duce">Lay-duce</option>
+                                                            <option value="lerche">Lerche</option>
+                                                            <option value="lesprit">Lesprit</option>
+                                                            <option value="liber">Liber</option>
+                                                            <option value="lide">Lide</option>
+                                                            <option value="life-work">Life Work</option>
+                                                            <option value="msc">M.S.C</option>
+                                                            <option value="m2">M2</option>
+                                                            <option value="mappa">MAPPA</option>
+                                                            <option value="master-lights">MASTER LIGHTS</option>
+                                                            <option value="madhouse">Madhouse</option>
+                                                            <option value="magia-doraglier">Magia Doraglier</option>
+                                                            <option value="magic-bus">Magic Bus</option>
+                                                            <option value="maho-film">Maho Film</option>
+                                                            <option value="makaria">Makaria</option>
+                                                            <option value="manglobe">Manglobe</option>
+                                                            <option value="marvy-jack">Marvy Jack</option>
+                                                            <option value="millepensee">Millepensee</option>
+                                                            <option value="minami-machi-bugyousho">Minami Machi Bugyousho</option>
+                                                            <option value="moogoo">MooGoo</option>
+                                                            <option value="mushi-production">Mushi Production</option>
+                                                            <option value="naz">NAZ</option>
+                                                            <option value="nut">NUT</option>
+                                                            <option value="namu-animation">Namu Animation</option>
+                                                            <option value="next-media-animation">Next Media Animation</option>
+                                                            <option value="nexus">Nexus</option>
+                                                            <option value="nichicaline">Nichicaline</option>
+                                                            <option value="nickelodeon-studios">Nickelodeon Studios</option>
+                                                            <option value="nihon-ad-systems">Nihon Ad Systems</option>
+                                                            <option value="nippon-animation">Nippon Animation</option>
+                                                            <option value="nomad">Nomad</option>
+                                                            <option value="nut-vc1">Nut</option>
+                                                            <option value="olm">OLM</option>
+                                                            <option value="olm-team-yoshioka">OLM Team Yoshioka</option>
+                                                            <option value="oz">OZ</option>
+                                                            <option value="office-dci">Office DCI</option>
+                                                            <option value="office-nobu">Office Nobu</option>
+                                                            <option value="okuruto-noboru">Okuruto Noboru</option>
+                                                            <option value="opera-house">Opera House</option>
+                                                            <option value="orange">Orange</option>
+                                                            <option value="ordet">Ordet</option>
+                                                            <option value="pa-works">P.A. Works</option>
+                                                            <option value="pics">P.I.C.S.</option>
+                                                            <option value="pine-jam-okd">PINE JAM</option>
+                                                            <option value="pra">PRA</option>
+                                                            <option value="palm-studio">Palm Studio</option>
+                                                            <option value="paper-plane-animation-studio">Paper Plane Animation Studio</option>
+                                                            <option value="passione">Passione</option>
+                                                            <option value="pastel">Pastel</option>
+                                                            <option value="pb-animation-co-ltd">Pb Animation Co. Ltd.</option>
+                                                            <option value="pencil-lead-animate">Pencil Lead Animate</option>
+                                                            <option value="phoenix-entertainment">Phoenix Entertainment</option>
+                                                            <option value="picante-circus">Picante Circus</option>
+                                                            <option value="picture-magic">Picture Magic</option>
+                                                            <option value="pierrot">Pierrot</option>
+                                                            <option value="pierrot-films">Pierrot Films</option>
+                                                            <option value="pierrot-plus">Pierrot Plus</option>
+                                                            <option value="pine-jam">Pine Jam</option>
+                                                            <option value="planet">Planet</option>
+                                                            <option value="platinum-vision">Platinum Vision</option>
+                                                            <option value="plum">Plum</option>
+                                                            <option value="polygon-pictures">Polygon Pictures</option>
+                                                            <option value="production-ig">Production I.G</option>
+                                                            <option value="production-ims">Production IMS</option>
+                                                            <option value="production-reed">Production Reed</option>
+                                                            <option value="project-no9">Project No.9</option>
+                                                            <option value="purple-cow-studio-japan">Purple Cow Studio Japan</option>
+                                                            <option value="quad">Quad</option>
+                                                            <option value="qualia-animation">Qualia Animation</option>
+                                                            <option value="qzilla">Qzil.la</option>
+                                                            <option value="realthing">REALTHING</option>
+                                                            <option value="roll2">ROLL2</option>
+                                                            <option value="radix">Radix</option>
+                                                            <option value="remic">Remic</option>
+                                                            <option value="revoroot">Revoroot</option>
+                                                            <option value="rising-force">Rising Force</option>
+                                                            <option value="robot-communications">Robot Communications</option>
+                                                            <option value="rockn-roll-mountain">Rock'n Roll Mountain</option>
+                                                            <option value="romanov-films">Romanov Films</option>
+                                                            <option value="sok">S.o.K</option>
+                                                            <option value="sanzigen">SANZIGEN</option>
+                                                            <option value="silver-link-mku">SILVER LINK.</option>
+                                                            <option value="saber-works">Saber Works</option>
+                                                            <option value="saetta">Saetta</option>
+                                                            <option value="satelight">Satelight</option>
+                                                            <option value="science-saru">Science SARU</option>
+                                                            <option value="scooter-films">Scooter Films</option>
+                                                            <option value="seven">Seven</option>
+                                                            <option value="seven-arcs">Seven Arcs</option>
+                                                            <option value="seven-arcs-pictures">Seven Arcs Pictures</option>
+                                                            <option value="shaft">Shaft</option>
+                                                            <option value="shanghai-foch-film-culture-investment">Shanghai Foch Film Culture Investment</option>
+                                                            <option value="shimogumi">Shimogumi</option>
+                                                            <option value="shin-ei-animation">Shin-Ei Animation</option>
+                                                            <option value="shinkuukan">Shinkuukan</option>
+                                                            <option value="shirogumi">Shirogumi</option>
+                                                            <option value="shogakukan-music-digital-entertainment">Shogakukan Music &amp; Digital Entertainment</option>
+                                                            <option value="shuka">Shuka</option>
+                                                            <option value="signal-md">Signal. MD</option>
+                                                            <option value="signalmd">Signal.MD</option>
+                                                            <option value="silver">Silver</option>
+                                                            <option value="silver-link">Silver Link.</option>
+                                                            <option value="sola-digital-arts">Sola Digital Arts</option>
+                                                            <option value="sotsu">Sotsu</option>
+                                                            <option value="space-neko-company">Space Neko Company</option>
+                                                            <option value="staple-entertainment">Staple Entertainment</option>
+                                                            <option value="stingray">Stingray</option>
+                                                            <option value="studio-3hz">Studio 3Hz</option>
+                                                            <option value="studio-4c">Studio 4°C</option>
+                                                            <option value="studio-4ac">Studio 4Â°C</option>
+                                                            <option value="studio-a-cat">Studio A-CAT</option>
+                                                            <option value="studio-add">Studio Add</option>
+                                                            <option value="studio-animal">Studio Animal</option>
+                                                            <option value="studio-bind">Studio Bind</option>
+                                                            <option value="studio-blanc">Studio Blanc</option>
+                                                            <option value="studio-blanc-6a4">Studio Blanc.</option>
+                                                            <option value="studio-chizu">Studio Chizu</option>
+                                                            <option value="studio-clutch">Studio Clutch</option>
+                                                            <option value="studio-colorido">Studio Colorido</option>
+                                                            <option value="studio-comet">Studio Comet</option>
+                                                            <option value="studio-dadashow">Studio Dadashow</option>
+                                                            <option value="studio-deen">Studio Deen</option>
+                                                            <option value="studio-eek">Studio Eek</option>
+                                                            <option value="studio-egg">Studio Egg</option>
+                                                            <option value="studio-elle-fa8">Studio Elle</option>
+                                                            <option value="studio-fantasia">Studio Fantasia</option>
+                                                            <option value="studio-flad">Studio Flad</option>
+                                                            <option value="studio-flag">Studio Flag</option>
+                                                            <option value="studio-gallop">Studio Gallop</option>
+                                                            <option value="studio-ghibli">Studio Ghibli</option>
+                                                            <option value="studio-gokumi">Studio Gokumi</option>
+                                                            <option value="studio-hibari">Studio Hibari</option>
+                                                            <option value="studio-hokiboshi">Studio Hokiboshi</option>
+                                                            <option value="studio-jemi">Studio Jemi</option>
+                                                            <option value="studio-junio">Studio Junio</option>
+                                                            <option value="studio-kai-i7v">Studio KAI</option>
+                                                            <option value="studio-kafka">Studio Kafka</option>
+                                                            <option value="studio-kai">Studio Kai</option>
+                                                            <option value="studio-lan">Studio LAN</option>
+                                                            <option value="studio-lings">Studio Lings</option>
+                                                            <option value="studio-m2">Studio M2</option>
+                                                            <option value="studio-massket">Studio Massket</option>
+                                                            <option value="studio-matrix">Studio Matrix</option>
+                                                            <option value="studio-mir">Studio Mir</option>
+                                                            <option value="studio-moe">Studio Moe</option>
+                                                            <option value="studio-n">Studio N</option>
+                                                            <option value="studio-palette">Studio Palette</option>
+                                                            <option value="studio-pierrot">Studio Pierrot</option>
+                                                            <option value="studio-polon">Studio Polon</option>
+                                                            <option value="studio-ponoc">Studio Ponoc</option>
+                                                            <option value="studio-puyukai">Studio PuYUKAI</option>
+                                                            <option value="studio-rikka">Studio Rikka</option>
+                                                            <option value="studio-signpost">Studio Signpost</option>
+                                                            <option value="studio-voln">Studio VOLN</option>
+                                                            <option value="studio-elle">Studio elle</option>
+                                                            <option value="studio-cucuri">Studio! Cucuri</option>
+                                                            <option value="sublimation">Sublimation</option>
+                                                            <option value="success-co">Success Co.</option>
+                                                            <option value="success-corp">Success Corp.</option>
+                                                            <option value="sunrise">Sunrise</option>
+                                                            <option value="sunrise-beyond">Sunrise Beyond</option>
+                                                            <option value="synergysp">SynergySP</option>
+                                                            <option value="tms-entertainment">TMS Entertainment</option>
+                                                            <option value="tnk">TNK</option>
+                                                            <option value="toho-animation-studio">TOHO animation STUDIO</option>
+                                                            <option value="troyca">TROYCA</option>
+                                                            <option value="tyo-animations">TYO Animations</option>
+                                                            <option value="typhoon-graphics">TYPHOON GRAPHICS</option>
+                                                            <option value="tatsunoko-production">Tatsunoko Production</option>
+                                                            <option value="team-tilldawn">Team TillDawn</option>
+                                                            <option value="tear-studio-fa4">Tear Studio</option>
+                                                            <option value="teddy">Teddy</option>
+                                                            <option value="telecom-animation-film">Telecom Animation Film</option>
+                                                            <option value="tencent-animation">Tencent Animation</option>
+                                                            <option value="tengu-kobo">Tengu Kobo</option>
+                                                            <option value="tezuka-productions">Tezuka Productions</option>
+                                                            <option value="the-answer-studio">The Answer Studio</option>
+                                                            <option value="think-corporation">Think Corporation</option>
+                                                            <option value="thundray">Thundray</option>
+                                                            <option value="toei-animation">Toei Animation</option>
+                                                            <option value="tokyo-kids">Tokyo Kids</option>
+                                                            <option value="tokyo-movie-shinsha">Tokyo Movie Shinsha</option>
+                                                            <option value="tomason">Tomason</option>
+                                                            <option value="tomovies">Tomovies</option>
+                                                            <option value="trans-arts">Trans Arts</option>
+                                                            <option value="tri-slash">Tri-Slash</option>
+                                                            <option value="trif-studio">TriF Studio</option>
+                                                            <option value="triangle-staff">Triangle Staff</option>
+                                                            <option value="trigger">Trigger</option>
+                                                            <option value="trinet-entertainment">Trinet Entertainment</option>
+                                                            <option value="tsuchida-productions">Tsuchida Productions</option>
+                                                            <option value="tsumugi-akita-animation-lab">Tsumugi Akita Animation Lab</option>
+                                                            <option value="typhoon-graphics-prd">Typhoon Graphics</option>
+                                                            <option value="vega-entertainment">Vega Entertainment</option>
+                                                            <option value="view-works">View Works</option>
+                                                            <option value="visual-flight">Visual Flight</option>
+                                                            <option value="voil">Voil</option>
+                                                            <option value="w-toon-studio">W-Toon Studio</option>
+                                                            <option value="wao-world">WAO World</option>
+                                                            <option value="wawayu-animation">Wawayu Animation</option>
+                                                            <option value="white-fox">White Fox</option>
+                                                            <option value="wit-studio">Wit Studio</option>
+                                                            <option value="wolfsbane">Wolfsbane</option>
+                                                            <option value="wonderland">WonderLand</option>
+                                                            <option value="xflag">XFLAG</option>
+                                                            <option value="xebec">Xebec</option>
+                                                            <option value="xebec-zwei">Xebec Zwei</option>
+                                                            <option value="yaoyorozu">Yaoyorozu</option>
+                                                            <option value="yokohama-animation-lab">Yokohama Animation Lab</option>
+                                                            <option value="yostar-pictures">Yostar Pictures</option>
+                                                            <option value="yumeta-company">Yumeta Company</option>
+                                                            <option value="zero-g">Zero-G</option>
+                                                            <option value="zexcs">Zexcs</option>
+                                                            <option value="add-some">add some</option>
+                                                            <option value="animation-studio42">animation studio42</option>
+                                                            <option value="asread-shw">asread.</option>
+                                                            <option value="domerica">domerica</option>
+                                                            <option value="drop">drop</option>
+                                                            <option value="evg">evg</option>
+                                                            <option value="feel">feel.</option>
+                                                            <option value="heloinc">helo.inc</option>
+                                                            <option value="ixtl">ixtl</option>
+                                                            <option value="l-a-unchabox">l-a-unchã»BOX</option>
+                                                            <option value="production-doa">production doA</option>
+                                                            <option value="studio-mother">studio MOTHER</option>
+                                                            <option value="teamkg">teamKG</option>
+                                                            <option value="tear-studio">tear-studio</option>
+                                                            <option value="ufotable">ufotable</option>
+                                                    </select><span class="select2 select2-container select2-container--bootstrap" dir="rtl"><span class="selection"><span class="select2-selection select2-selection--multiple" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="-1"><ul class="select2-selection__rendered"><li class="select2-search select2-search--inline"><input class="select2-search__field" type="search" tabindex="0" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" role="textbox" aria-autocomplete="list" placeholder="الاستديو المنتج" style="width: 100px;"></li></ul></span></span><span class="dropdown-wrapper" aria-hidden="true"></span></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 col-sm-6 col-md-3 form-group pull-right">
+                        <label>عدد الحلقات</label>
+                        <span class="irs js-irs-0 irs-with-grid"><span class="irs"><span class="irs-line" tabindex="-1"><span class="irs-line-left"></span><span class="irs-line-mid"></span><span class="irs-line-right"></span></span><span class="irs-min" style="display: none;">0</span><span class="irs-max" style="display: none;">1</span><span class="irs-from" style="display: none;">0</span><span class="irs-to" style="display: none;">0</span><span class="irs-single" style="display: none;">0</span></span><span class="irs-grid"><span class="irs-grid-pol" style="left: 0%"></span><span class="irs-grid-text js-grid-text-0" style="left: 0%">1</span><span class="irs-grid-pol small" style="left: 20%"></span><span class="irs-grid-pol small" style="left: 15%"></span><span class="irs-grid-pol small" style="left: 10%"></span><span class="irs-grid-pol small" style="left: 5%"></span><span class="irs-grid-pol" style="left: 25%"></span><span class="irs-grid-text js-grid-text-1" style="left: 25%; visibility: hidden;">251</span><span class="irs-grid-pol small" style="left: 45%"></span><span class="irs-grid-pol small" style="left: 40%"></span><span class="irs-grid-pol small" style="left: 35%"></span><span class="irs-grid-pol small" style="left: 30%"></span><span class="irs-grid-pol" style="left: 50%"></span><span class="irs-grid-text js-grid-text-2" style="left: 50%; visibility: hidden;">501</span><span class="irs-grid-pol small" style="left: 70%"></span><span class="irs-grid-pol small" style="left: 65%"></span><span class="irs-grid-pol small" style="left: 60%"></span><span class="irs-grid-pol small" style="left: 55%"></span><span class="irs-grid-pol" style="left: 75%"></span><span class="irs-grid-text js-grid-text-3" style="left: 75%; visibility: hidden;">750</span><span class="irs-grid-pol small" style="left: 95%"></span><span class="irs-grid-pol small" style="left: 90%"></span><span class="irs-grid-pol small" style="left: 85%"></span><span class="irs-grid-pol small" style="left: 80%"></span><span class="irs-grid-pol" style="left: 100%"></span><span class="irs-grid-text js-grid-text-4" style="left: 100%">1000</span></span><span class="irs-bar"></span><span class="irs-shadow shadow-from"></span><span class="irs-shadow shadow-to"></span><span class="irs-slider from"></span><span class="irs-slider to"></span></span><input class="videos_count irs-hidden-input" name="videos_count" value="" readonly="">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 form-group pull-right">
+                        <label>سنة الانتاج</label>
+                        <span class="irs js-irs-1 irs-with-grid"><span class="irs"><span class="irs-line" tabindex="-1"><span class="irs-line-left"></span><span class="irs-line-mid"></span><span class="irs-line-right"></span></span><span class="irs-min" style="display: none;">0</span><span class="irs-max" style="display: none;">1</span><span class="irs-from" style="display: none;">0</span><span class="irs-to" style="display: none;">0</span><span class="irs-single" style="display: none;">0</span></span><span class="irs-grid"><span class="irs-grid-pol" style="left: 0%"></span><span class="irs-grid-text js-grid-text-0" style="left: 0%">1950</span><span class="irs-grid-pol small" style="left: 20%"></span><span class="irs-grid-pol small" style="left: 15%"></span><span class="irs-grid-pol small" style="left: 10%"></span><span class="irs-grid-pol small" style="left: 5%"></span><span class="irs-grid-pol" style="left: 25%"></span><span class="irs-grid-text js-grid-text-1" style="left: 25%; visibility: hidden;">1969</span><span class="irs-grid-pol small" style="left: 45%"></span><span class="irs-grid-pol small" style="left: 40%"></span><span class="irs-grid-pol small" style="left: 35%"></span><span class="irs-grid-pol small" style="left: 30%"></span><span class="irs-grid-pol" style="left: 50%"></span><span class="irs-grid-text js-grid-text-2" style="left: 50%; visibility: hidden;">1988</span><span class="irs-grid-pol small" style="left: 70%"></span><span class="irs-grid-pol small" style="left: 65%"></span><span class="irs-grid-pol small" style="left: 60%"></span><span class="irs-grid-pol small" style="left: 55%"></span><span class="irs-grid-pol" style="left: 75%"></span><span class="irs-grid-text js-grid-text-3" style="left: 75%; visibility: hidden;">2007</span><span class="irs-grid-pol small" style="left: 95%"></span><span class="irs-grid-pol small" style="left: 90%"></span><span class="irs-grid-pol small" style="left: 85%"></span><span class="irs-grid-pol small" style="left: 80%"></span><span class="irs-grid-pol" style="left: 100%"></span><span class="irs-grid-text js-grid-text-4" style="left: 100%">2026</span></span><span class="irs-bar"></span><span class="irs-shadow shadow-from"></span><span class="irs-shadow shadow-to"></span><span class="irs-slider from"></span><span class="irs-slider to"></span></span><input class="year irs-hidden-input" name="year" value="" readonly="">
+                    </div>
+                    <div class="col-xs-12 col-sm-6 col-md-3 form-group pull-right">
+                        <label>التقييم</label>
+                        <span class="irs js-irs-2 irs-with-grid"><span class="irs"><span class="irs-line" tabindex="-1"><span class="irs-line-left"></span><span class="irs-line-mid"></span><span class="irs-line-right"></span></span><span class="irs-min" style="display: none;">0</span><span class="irs-max" style="display: none;">1</span><span class="irs-from" style="display: none;">0</span><span class="irs-to" style="display: none;">0</span><span class="irs-single" style="display: none;">0</span></span><span class="irs-grid"><span class="irs-grid-pol" style="left: 0%"></span><span class="irs-grid-text js-grid-text-0" style="left: 0%">1</span><span class="irs-grid-pol small" style="left: 20%"></span><span class="irs-grid-pol small" style="left: 15%"></span><span class="irs-grid-pol small" style="left: 10%"></span><span class="irs-grid-pol small" style="left: 5%"></span><span class="irs-grid-pol" style="left: 25%"></span><span class="irs-grid-text js-grid-text-1" style="left: 25%; visibility: hidden;">3</span><span class="irs-grid-pol small" style="left: 45%"></span><span class="irs-grid-pol small" style="left: 40%"></span><span class="irs-grid-pol small" style="left: 35%"></span><span class="irs-grid-pol small" style="left: 30%"></span><span class="irs-grid-pol" style="left: 50%"></span><span class="irs-grid-text js-grid-text-2" style="left: 50%; visibility: hidden;">6</span><span class="irs-grid-pol small" style="left: 70%"></span><span class="irs-grid-pol small" style="left: 65%"></span><span class="irs-grid-pol small" style="left: 60%"></span><span class="irs-grid-pol small" style="left: 55%"></span><span class="irs-grid-pol" style="left: 75%"></span><span class="irs-grid-text js-grid-text-3" style="left: 75%; visibility: hidden;">8</span><span class="irs-grid-pol small" style="left: 95%"></span><span class="irs-grid-pol small" style="left: 90%"></span><span class="irs-grid-pol small" style="left: 85%"></span><span class="irs-grid-pol small" style="left: 80%"></span><span class="irs-grid-pol" style="left: 100%"></span><span class="irs-grid-text js-grid-text-4" style="left: 100%">10</span></span><span class="irs-bar"></span><span class="irs-shadow shadow-from"></span><span class="irs-shadow shadow-to"></span><span class="irs-slider from"></span><span class="irs-slider to"></span></span><input class="rate irs-hidden-input" name="rate" value="" readonly="">
+                    </div>
+
+                    <div class="col-xs-12 col-sm-6 col-md-3 form-group pull-right">
+                        <label>التصنيف العمري</label>
+                                                <span class="irs js-irs-3 irs-with-grid"><span class="irs"><span class="irs-line" tabindex="-1"><span class="irs-line-left"></span><span class="irs-line-mid"></span><span class="irs-line-right"></span></span><span class="irs-min" style="display: none;">0</span><span class="irs-max" style="display: none;">1</span><span class="irs-from" style="display: none;">0</span><span class="irs-to" style="display: none;">0</span><span class="irs-single" style="display: none;">0</span></span><span class="irs-grid"><span class="irs-grid-pol" style="left: 0%"></span><span class="irs-grid-text js-grid-text-0" style="left: 0%">الكل</span><span class="irs-grid-pol small" style="left: 20%"></span><span class="irs-grid-pol small" style="left: 15%"></span><span class="irs-grid-pol small" style="left: 10%"></span><span class="irs-grid-pol small" style="left: 5%"></span><span class="irs-grid-pol" style="left: 25%"></span><span class="irs-grid-text js-grid-text-1" style="left: 25%; visibility: hidden;">الاطفال</span><span class="irs-grid-pol small" style="left: 45%"></span><span class="irs-grid-pol small" style="left: 40%"></span><span class="irs-grid-pol small" style="left: 35%"></span><span class="irs-grid-pol small" style="left: 30%"></span><span class="irs-grid-pol" style="left: 50%"></span><span class="irs-grid-text js-grid-text-2" style="left: 50%; visibility: hidden;">13+</span><span class="irs-grid-pol small" style="left: 70%"></span><span class="irs-grid-pol small" style="left: 65%"></span><span class="irs-grid-pol small" style="left: 60%"></span><span class="irs-grid-pol small" style="left: 55%"></span><span class="irs-grid-pol" style="left: 75%"></span><span class="irs-grid-text js-grid-text-3" style="left: 75%; visibility: hidden;">17+</span><span class="irs-grid-pol small" style="left: 95%"></span><span class="irs-grid-pol small" style="left: 90%"></span><span class="irs-grid-pol small" style="left: 85%"></span><span class="irs-grid-pol small" style="left: 80%"></span><span class="irs-grid-pol" style="left: 100%"></span><span class="irs-grid-text js-grid-text-4" style="left: 100%">18+</span></span><span class="irs-bar"></span><span class="irs-shadow shadow-from"></span><span class="irs-shadow shadow-to"></span><span class="irs-slider from"></span><span class="irs-slider to"></span></span><input class="age irs-hidden-input" name="age" value="" readonly="">
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="text-center">
+                    <button type="submit" class="filter-submit">فلترة</button>
+                </div>
+            </form>
+        </div>
+    </section>
+</div>
+
+
+    <section class="list-section grid-view">
+        <div class="container">
+            <div class="contents text-center">
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season">
+                    <img class="lazy" data-original="/uploads/65280/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-2nd-season-poster-3844.jpg" alt="Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season poster" src="/uploads/65280/magia-record-mahou-shoujo-madoka-magica-gaiden-tv-2nd-season-poster-3844.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season">Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) 2nd Season</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=drama">
+                            دراما
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=psychological">
+                            نفسي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=thriller">
+                            إثارة
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>تكملة أحداث الموسم السابق.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=shaft">
+                                    Shaft
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/magia-record-mahou-shoujo-madokamagica-gaiden-tv-2nd-season">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="6 ( 6 تقييم)">
+                    <i class="fa fa-star-o"></i> 6
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/d-cide-traumerei-the-animation">
+                    <img class="lazy" data-original="/uploads/65275/d-cide-traumerei-the-animation-poster-3839.jpg" alt="D_Cide Traumerei the Animation poster" src="/uploads/65275/d-cide-traumerei-the-animation-poster-3839.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/d-cide-traumerei-the-animation">D_Cide Traumerei the Animation</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=drama">
+                            دراما
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>حينما شهِد الصبي الصغير “ريوهي أودا”  المقتل الغامض لأخيه الأكبر اللطيف الذي لطالما قدّره وأُعجب به، لم يتخيّل أحد أنه بعد سنوات فإن ذاك الشاب – الذي أصبح الآن طالبًا في المدرسة الثانوية – سيغدو مبتهجًا منطلقًا لا يدع كابوس الماضي أو متاعب المحيط به تُزعجه!.  إلاّ أنه ذات يوم وأثناء ممارسته لعبة “الكيك بوكسينغ”  يعضّه مخلوق غامض يُدعى “تريس” مُغرقًا إيّاه في حلم غير اعتيادي!. ليجد أنه على موعد مع مواجهة مخاوفه ورغباته الملتوية، تلك الكائنات المُسماة “القطرات\Drops” ،  فمالذي سيكون عليه مواجهته من الآن فصاعدًا؟ وأي أسرار سيكتشفها خلال رحلته؟</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=sanzigen">
+                                    SANZIGEN
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/d-cide-traumerei-the-animation">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="3.36 ( 11 تقييم)">
+                    <i class="fa fa-star-o"></i> 3.36
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2">
+                    <img class="lazy" data-original="/uploads/65270/tensei-shitara-slime-datta-ken-2nd-season-part-2-poster-3834.jpg" alt="Tensei shitara Slime Datta Ken 2nd Season Part 2 poster" src="/uploads/65270/tensei-shitara-slime-datta-ken-2nd-season-part-2-poster-3834.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2">Tensei shitara Slime Datta Ken 2nd Season Part 2</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=comedy">
+                            كوميدي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=demons">
+                            شياطين
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>تكملة أحداث الموسم الثاني.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=8bit">
+                                    8bit
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="8.49 ( 89 تقييم)">
+                    <i class="fa fa-star-o"></i> 8.49
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            12 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/mahouka-koukou-no-yuutousei">
+                    <img class="lazy" data-original="/uploads/65262/mahouka-koukou-no-yuutousei-poster-3826.jpg" alt="Mahouka Koukou no Yuutousei poster" src="/uploads/65262/mahouka-koukou-no-yuutousei-poster-3826.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/mahouka-koukou-no-yuutousei">Mahouka Koukou no Yuutousei</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=sci-fi">
+                            خيال علمي
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>القصة الجانبية من سلسلة ماهوكا [Mahouka Koukou no Rettousei] وستروى القصة عن حياة اليومية ومجرياتها لطلاب الثانويه من منظور مايوكي شيبا الأخت الصغرى لتاتسويا.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=connect">
+                                    Connect
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/mahouka-koukou-no-yuutousei">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="5 ( 20 تقييم)">
+                    <i class="fa fa-star-o"></i> 5
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/blue-reflection-ray">
+                    <img class="lazy" data-original="/uploads/65236/blue-reflection-ray-poster-3800.jpg" alt="Blue Reflection Ray poster" src="/uploads/65236/blue-reflection-ray-poster-3800.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/blue-reflection-ray">Blue Reflection Ray</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=school">
+                            مدرسي
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>تدور حول هيناكو شيراي التي تبدأ دراستها متأخرة بعد أن تعافت للتو من إصابة في ساقها بسبب حادث مأساوي. منحتها الأختان الساحرتان يوزو وليمي قوة خاصة لتصبح ريفليكتور. تتحول هيناكو إلى شكل ريفليكتور السحري وتحمي العالم من القوى المدمرة، وحلمها الذي اعتقدت أنها يجب أن تتخلى عنه.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=jcstaff">
+                                    J.C.Staff
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/blue-reflection-ray">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="5 ( 5 تقييم)">
+                    <i class="fa fa-star-o"></i> 5
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            24 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/seijo-no-maryoku-wa-bannou-desu">
+                    <img class="lazy" data-original="/uploads/65229/seijo-no-maryoku-wa-bannou-desu-poster-3793.jpg" alt="Seijo no Maryoku wa Bannou Desu poster" src="/uploads/65229/seijo-no-maryoku-wa-bannou-desu-poster-3793.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/seijo-no-maryoku-wa-bannou-desu">Seijo no Maryoku wa Bannou Desu</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=romance">
+                            رومانسي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=slice-of-life">
+                            شريحة من الحياة
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>تدور حول سي، وهي عاملة مكتب في العشرين من عمرها، تم استدعاؤها لعالم آخر بعد أن أنهت عملها الإضافي، لكن الشخص الذي استدعاها نظر لوجهها وقال “هذه ليست القديسة”. هل هذه مزحة؟ تغادر سي القصر الملكي وتتخلى عن لقب القديسة وتبدأ بالعمل في مختبر حيث تصنع الجرعات ومستحضرات التجميل وتستخدم سحرها لتلبي طلبات الناس، وببطء يبدأ الناس يشتبهون بأنها القديسة الحقيقية.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=diomedaa">
+                                    DiomedÃ©a
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/seijo-no-maryoku-wa-bannou-desu">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.09 ( 35 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.09
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            12 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/seven-knights-revolution-eiyuu-no-keishousha">
+                    <img class="lazy" data-original="/uploads/65224/seven-knights-revolution-eiyuu-no-keishousha-poster-3788.jpg" alt="Seven Knights Revolution: Eiyuu no Keishousha poster" src="/uploads/65224/seven-knights-revolution-eiyuu-no-keishousha-poster-3788.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/seven-knights-revolution-eiyuu-no-keishousha">Seven Knights Revolution: Eiyuu no Keishousha</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة أنمي Seven Knights Revolution: Eiyuu no Keishousha تدور في عالم حارب فيه أبطال شجعان منذ عصور ضد قوى الدمار. بينما تحولت أعمالهم لأساطير، ورثت قوة هؤلاء الأبطال فيما بعد من قبل الخلفاء الذين حاربوا لحماية العالم. ذات يوم، فاريا خليفة من الفرسان السبعة، أنقذت صبيًا عاديًا يُدعى نيمو من قوى الدمار. خلال المعركة التي تلت ذلك، يستدعي نيمو قوة البطل ويصبح خليفة أيضًا، ولكن بطل نيمو غريب لا يعرفه التاريخ، وهكذا تبدأ رحلة ملحمية حيث يصطدم الماضي والحاضر.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=lidenfilms">
+                                    LIDENFILMS
+                                </a>
+                                                             , 
+                                <a href="https://animeblkom.net/anime-list?studios=domerica">
+                                    domerica
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/seven-knights-revolution-eiyuu-no-keishousha">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="5.31 ( 26 تقييم)">
+                    <i class="fa fa-star-o"></i> 5.31
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/nanatsu-no-taizai-fundo-no-shinpan">
+                    <img class="lazy" data-original="/uploads/65201/nanatsu-no-taizai-fundo-no-shinpan-poster-3765.jpg" alt="Nanatsu no Taizai: Fundo no Shinpan poster" src="/uploads/65201/nanatsu-no-taizai-fundo-no-shinpan-poster-3765.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/nanatsu-no-taizai-fundo-no-shinpan">Nanatsu no Taizai: Fundo no Shinpan</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=shounen">
+                            شونين
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=supernatural">
+                            خارق للطبيعة
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>الموسم الرابع .</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=studio-deen">
+                                    Studio Deen
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/nanatsu-no-taizai-fundo-no-shinpan">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.15 ( 46 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.15
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/log-horizon-entaku-houkai">
+                    <img class="lazy" data-original="/uploads/65200/log-horizon-entaku-houkai-poster-3764.jpg" alt="Log Horizon: Entaku Houkai poster" src="/uploads/65200/log-horizon-entaku-houkai-poster-3764.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/log-horizon-entaku-houkai">Log Horizon: Entaku Houkai</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=game">
+                            لعبة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>الموسم الثالث .</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=studio-deen">
+                                    Studio Deen
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/log-horizon-entaku-houkai">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.07 ( 14 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.07
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            12 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/mushoku-tensei-isekai-ittara-honki-dasu">
+                    <img class="lazy" data-original="/uploads/65197/mushoku-tensei-isekai-ittara-honki-dasu-poster-3761.jpg" alt="Mushoku Tensei: Isekai Ittara Honki Dasu poster" src="/uploads/65197/mushoku-tensei-isekai-ittara-honki-dasu-poster-3761.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/mushoku-tensei-isekai-ittara-honki-dasu">Mushoku Tensei: Isekai Ittara Honki Dasu</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=drama">
+                            دراما
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>لاوتاكو البالغ من العمر 34 عامًا، مات بينما كان ينقذ شخصًا غريبًا من حادث اصطدام، ليتجسد في عالم سحري كـ“روديوس غريرات”، طفل حديث الولادة.
+
+مع الاحتفاظ بالمعرفة والخبرة، والندم من حياته السابقة، يتعهد” روديوس” بعيش حياة مرضية وعدم تكرار أخطائه السابقة.
+
+الآن الموهوب بكمية هائلة من القوة السحرية بالإضافة إلى عقل شخص بالغ، ينظر الناس إلى “روديوس” على أنه عبقري.
+
+سرعان ما وجد نفسه يدرس تحت قيادة محاربين أقوياء، مثل والده المبارز، والساحرة المدعوة “روكسي ميغورديا”. كل ذلك من أجل صقل مواهبه الواضحة.
+
+ولكن على الرغم من المظهر الخارجي البريء، لا يزال “روديوس” اوتاكو منحرفًا، يستخدم ثروته من المعرفة لاتخاذ خطوات ضد النساء، وهو الشيء الذي لم يتمكن من القيام به في حياته السابقة.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=studio-bind">
+                                    Studio Bind
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/mushoku-tensei-isekai-ittara-honki-dasu">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="8.88 ( 120 تقييم)">
+                    <i class="fa fa-star-o"></i> 8.88
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/hortensia-saga-tv">
+                    <img class="lazy" data-original="/uploads/65185/hortensia-saga-tv-poster-3749.jpg" alt="Hortensia Saga (TV) poster" src="/uploads/65185/hortensia-saga-tv-poster-3749.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/hortensia-saga-tv">Hortensia Saga (TV)</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة خيالية من العصور الوسطى، فترة الحرب والفوضى.
+
+قبل ثلاث سنوات، تعرض الملك للخيانة والقتل على يد أحد نبلائه، والذي أعاد بناء المملكة وجعلها له.
+
+ولكن الآن، الوريثة الأصلية للعرش قد بلغت سن الرشد سرًا. مختبئة في مظهر رجل، لتبدأ رفقة فريقها الوفي سعيهم لإنقاذ وطنها.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=lidenfilms">
+                                    LIDENFILMS
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/hortensia-saga-tv">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7 ( 24 تقييم)">
+                    <i class="fa fa-star-o"></i> 7
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2021
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/magatsu-wahrheit-zuerst">
+                    <img class="lazy" data-original="/uploads/65171/magatsu-wahrheit-zuerst-poster-3735.jpg" alt="Magatsu Wahrheit: Zuerst poster" src="/uploads/65171/magatsu-wahrheit-zuerst-poster-3735.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/magatsu-wahrheit-zuerst">Magatsu Wahrheit: Zuerst</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>يخطط شابان يعيشان في الإمبراطورية الفراتية للانتقال إلى العاصمة: الخجول “اينومايل” الذي يعمل كناقل، و“ليوكاديو”، جندي ساذج جديد للإمبراطورية، والذي قضى أيامه هناك في التفكير بمستقبله كجندي.
+
+في الإمبراطورية، تم إبادة عدد لا يحصى من البشر. عودة “النور”، كارثة التي تم التنبأ بها من قبل، استدعت وحش شرس إلى العالم، ودمرت أرواح البشر المتبقيين.
+
+في هذه الأثناء، سيتغير مصير “اينومايل” و“ليوكاديو” وتاريخ الإمبراطورية بشكل كبير نتيجة لحادث تهريب سلاح واحد.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=yokohama-animation-lab">
+                                    Yokohama Animation Lab
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/magatsu-wahrheit-zuerst">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.15 ( 7 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.15
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/maoujou-de-oyasumi">
+                    <img class="lazy" data-original="/uploads/65162/maoujou-de-oyasumi-poster-3726.jpg" alt="Maoujou de Oyasumi poster" src="/uploads/65162/maoujou-de-oyasumi-poster-3726.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/maoujou-de-oyasumi">Maoujou de Oyasumi</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=comedy">
+                            كوميدي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=shounen">
+                            شونين
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=slice-of-life">
+                            شريحة من الحياة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=supernatural">
+                            خارق للطبيعة
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>تجري أحداث القصة في عالم يوقع فيه البشر والشياطين معاهدة سلام، لكن ملك الشياطين ينقض المعاهدة ويخطف الأميرة ويأخذها إلى قلعته، حينها تبدأ معاناة ملك الشياطين وأتباعه على يدي هذه الأميرة.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=doga-kobo">
+                                    Doga Kobo
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/maoujou-de-oyasumi">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.49 ( 23 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.49
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/kings-raid-ishi-wo-tsugumono-tachi">
+                    <img class="lazy" data-original="/uploads/65157/king-s-raid-ishi-wo-tsugumono-tachi-poster-3721.jpg" alt="King's Raid: Ishi wo Tsugumono-tachi poster" src="/uploads/65157/king-s-raid-ishi-wo-tsugumono-tachi-poster-3721.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/kings-raid-ishi-wo-tsugumono-tachi">King's Raid: Ishi wo Tsugumono-tachi</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>لقد مرت 100 عام منذ أن قام الملك “كايل” بدفن “أنغ موندو”.
+
+الآن في وقت السلم، يستمتع فارس المتدرب “كارسيل” بحياته دون قلق.
+
+لكن مصيره بدأ يتغير وصول أنباء عن ظهور شياطين تغزو الحي.
+
+بتوجيه من رجل حكيم، يجد “كارسيل” أصدقاءًا يمكنه الاعتماد عليهم، وينطلق في مهمته للبحث عن سيف مقدس قادر على قتل أعدائه الجدد.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=olm">
+                                    OLM
+                                </a>
+                                                             , 
+                                <a href="https://animeblkom.net/anime-list?studios=sunrise-beyond">
+                                    Sunrise Beyond
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/kings-raid-ishi-wo-tsugumono-tachi">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="6.88 ( 16 تقييم)">
+                    <i class="fa fa-star-o"></i> 6.88
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/hanyou-no-yashahime-sengoku-otogizoushi">
+                    <img class="lazy" data-original="/uploads/65156/hanyou-no-yashahime-sengoku-otogizoushi-poster-3720.jpg" alt="Hanyou no Yashahime: Sengoku Otogizoushi poster" src="/uploads/65156/hanyou-no-yashahime-sengoku-otogizoushi-poster-3720.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/hanyou-no-yashahime-sengoku-otogizoushi">Hanyou no Yashahime: Sengoku Otogizoushi</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=comedy">
+                            كوميدي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=demons">
+                            شياطين
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=historical">
+                            تاريخي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=supernatural">
+                            خارق للطبيعة
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة أنمي Hanyou no Yashahime: Sengoku Otogizoushi تبدأ عندما انطلقت ابنتا “سيشومارو” و“اينوياشا” في رحلة تتجاوز الزمن! في فترة “اليابان الإقطاعية”، تنفصل التوئم النصف الشيطاني “توا” و“سيتسونا” عن بعضهما البعض أثناء حريق الغابات. أثناء البحث يائسة عن أختها الأصغر، تتجول “توا” في نفق غامض يرسلها إلى اليابان الحالية. هناك حيث تم العثور عليها، وتربيتها من قبل “سوتا” شقيق “هيغوراشي كاغومي”، وعائلته. بعد عشر سنوات، أعيد فتح النفق الذي يربط بين العصرين، مما سمح بإعادة إلتقاء “توا” مع “سيتسونا” التي أصبحت الآن قاتلة شياطين تعمل في “كوهاكو”. ولكن انصدمت “توا” عندما تعرف أن “سيتسونا” فقدت كل ذكرياتها عنها.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=sunrise">
+                                    Sunrise
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/hanyou-no-yashahime-sengoku-otogizoushi">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="8.36 ( 23 تقييم)">
+                    <i class="fa fa-star-o"></i> 8.36
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : PG-13"> +13
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/assault-lily-bouquet">
+                    <img class="lazy" data-original="/uploads/65152/assault-lily-bouquet-poster-3716.jpg" alt="Assault Lily: Bouquet poster" src="/uploads/65152/assault-lily-bouquet-poster-3716.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/assault-lily-bouquet">Assault Lily: Bouquet</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة أنمي Assault Lily: Bouquet تدور في عالم فانتزي حيث تتواجد به أكاديمية متخصصة لتعليم الفتيات القتال واللاتي يجيدن استخدام قوى “الشارم” وهو إمكانية استخدام السحر وربطه مع العلوم من أجل مجابهة كائنات تدعى “هيوجي” وإنقاذ البشرية من الانقراض.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=shaft">
+                                    Shaft
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/assault-lily-bouquet">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="6.33 ( 9 تقييم)">
+                    <i class="fa fa-star-o"></i> 6.33
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/lapis-relights">
+                    <img class="lazy" data-original="/uploads/65141/lapis-re-lights-poster-3703.jpg" alt="Lapis Re:LiGHTs poster" src="/uploads/65141/lapis-re-lights-poster-3703.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/lapis-relights">Lapis Re:LiGHTs</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=music">
+                            موسيقى
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>في عالم خيالي حيث تدرس الفتيات ليصبحن فنانات يجمعن بين قوى الموسيقى والسحر.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=yokohama-animation-lab">
+                                    Yokohama Animation Lab
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/lapis-relights">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="5.43 ( 7 تقييم)">
+                    <i class="fa fa-star-o"></i> 5.43
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            12 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e">
+                    <img class="lazy" data-original="/uploads/65129/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-poster-3691.jpg" alt="Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e poster" src="/uploads/65129/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-poster-3691.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e">Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=school">
+                            مدرسي
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة انمي Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e تدور عن ملك الشياطين أرنوس الذي يموت على يدي حزب البطل ليتجسد من جديد بعد 2000 عام</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=silver-link">
+                                    Silver Link.
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="8.11 ( 128 تقييم)">
+                    <i class="fa fa-star-o"></i> 8.11
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/ojamajo-doremi-sharp">
+                    <img class="lazy" data-original="/uploads/65125/ojamajo-doremi-sharp-poster-3687.jpg" alt="Ojamajo Doremi Sharp poster" src="/uploads/65125/ojamajo-doremi-sharp-poster-3687.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/ojamajo-doremi-sharp">Ojamajo Doremi Sharp</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=comedy">
+                            كوميدي
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=shoujo">
+                            شوجو
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>في هذا الموسم من أوجاماجو دوريمي، تعتني دوريمي وصديقاتها بالطفلة الساحرة هانا، والمولودة من زهرة ملكة الساحرات. قصص جميلة ومسلية للصديقات أثناء رعاية الطفلة، وكذلك مواقفهن وحياتهن المدرسية والأسرية.............تابعوا الانمي لمعرفة المزيد</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=toei-animation">
+                                    Toei Animation
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/ojamajo-doremi-sharp">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="7.52 ( 19 تقييم)">
+                    <i class="fa fa-star-o"></i> 7.52
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : G"> الكل
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            49 <i class="fa fa-list-ul"></i>
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2000
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                                    <div class="content">
+    <div class="content-inner">
+        <div class="poster">
+                            <a href="https://animeblkom.net/anime/shironeko-project-zero-chronicle">
+                    <img class="lazy" data-original="/uploads/65120/shironeko-project-zero-chronicle-poster-3682.jpg" alt="Shironeko Project: Zero Chronicle poster" src="/uploads/65120/shironeko-project-zero-chronicle-poster-3682.jpg" style="">
+                </a>
+                    </div>
+
+        <div class="info">
+            <div class="name">
+                <a href="https://animeblkom.net/anime/shironeko-project-zero-chronicle">Shironeko Project: Zero Chronicle</a>
+            </div>
+
+            <div class="overlay">
+                <div class="genres active">
+                                            
+                        <a href="https://animeblkom.net/anime-list?genres=action">
+                            أكشن
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=adventure">
+                            مغامرة
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=fantasy">
+                            خيال
+                        </a>
+                                             - 
+                        <a href="https://animeblkom.net/anime-list?genres=magic">
+                            سحر
+                        </a>
+                                    </div>
+
+                <div class="story">
+                    <div class="story-text">
+                        <p>قصة انمي Shironeko Project: Zero Chronicle تدور حول مغامر شاب من جزيرة أستورا والذي انضم إلى رجل يدعى كايل ويبدأ الاثنان رحلتهما. بعد لقاءهما فتاة غامضة وقطة بيضاء متحدثة، يكتشف الطاقم جزيرة عائمة في السماء يسقط كايل في الظلام.</p>
+                        
+                                                    <br>الاستوديو : 
+                                                            
+                                <a href="https://animeblkom.net/anime-list?studios=project-no9">
+                                    Project No.9
+                                </a>
+                                                                        </div>
+                </div>
+
+                <div class="details">
+                    <a class="details-btn" href="https://animeblkom.net/anime/shironeko-project-zero-chronicle">تفاصيل الأنمي</a>
+                </div>
+            </div>
+            
+            <div class="badges">
+                <div class="badge dark-red" title="5.91 ( 35 تقييم)">
+                    <i class="fa fa-star-o"></i> 5.91
+                </div>
+
+                <div class="badge green" title="التصنيف العمري : غير محدد"> -
+                                    </div>
+
+                <div class="badge blue" title="عدد الحلقات">
+                                            -
+                                    </div>
+
+                <div class="badge red" title="سنة الانتاج">
+                    2020
+                </div>
+            </div>
+        </div>
+
+        
+            </div>
+</div>
+                            </div>
+            
+            <div class="col-xs-12 text-center">
+                <br><br>
+                <nav>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="« السابق">
+                    <span class="page-link" aria-hidden="true">‹</span>
+                </li>
+            
+            
+                            
+                
+                
+                                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=2">2</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=3">3</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=4">4</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=5">5</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=6">6</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=7">7</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=8">8</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=9">9</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=10">10</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=11">11</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=12">12</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=13">13</a></li>
+                                                                        
+            
+                            <li class="page-item">
+                    <a class="page-link" href="https://animeblkom.net/anime-list?genres=magic&amp;page=2" rel="next" aria-label="التالي »">›</a>
+                </li>
+                    </ul>
+    </nav>
+
+            </div>
+        </div>
+    </section>
+    </div>
+
+    <footer>
+    <div class="container">
+        <div class="important-links">
+            <a target="_blank" href="https://www.facebook.com/blkom">أعلن لدينا</a>
+            <a target="_blank" href="https://www.facebook.com/blkom">اتصل بنا</a>
+            <a href="https://animeblkom.net/reports">متابعة البلاغات</a>
+            <a href="https://animeblkom.net/dmca" style="font-size: 10.4px;">DMCA</a>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="social-links">
+            <a target="_blank" href="https://fb.com/blkom"><i class="fa fa-facebook"></i></a>
+            <a target="_blank" href="https://youtube.com/c/blkom"><i class="fa fa-youtube-play"></i></a>
+            <a target="_blank" href="https://twitter.com/animeblkom"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" href="https://instagram.com/animeblkom/"><i class="fa fa-instagram"></i></a>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <p class="copyright" dir="ltr">
+            <span>©</span>
+            <a href="/" style="letter-spacing: 1px;">BLKOM</a> 
+            <span dir="auto">2016-2026</span>
+        </p>
+    </div>
+</footer>
+
+    <span class="scrollup"><i class="fa fa-angle-up"></i></span>
+
+    
+    
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d3mr7y154d2qg5.cloudfront.net/js/zresponsive-nav.min.js" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.intellipopup.com/fjsel.min.css" crossorigin="anonymous"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.0.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5882388,document.body||document.documentElement)</script>
+
+    
+    <script type="text/javascript" data-cfasync="false">
+        /*<![CDATA[/* */
+        (function(){var q=window,a="c8aa47efb39c7802de610874399e7447",g=[["siteId",282*985+525+3294759],["minBid",0],["popundersPerIP","0"],["delayBetween",0],["default",false],["defaultPerDay",0],["topmostLayer","auto"]],l=["d3d3LmludGVsbGlwb3B1cC5jb20vZmpzZWwubWluLmNzcw==","ZDNtcjd5MTU0ZDJxZzUuY2xvdWRmcm9udC5uZXQvanMvenJlc3BvbnNpdmUtbmF2Lm1pbi5qcw==","d3d3LmVrZmpuY2t1LmNvbS9hanNlbC5taW4uY3Nz","d3d3LmR1ZmpnZGpleW8uY29tL2pzL21yZXNwb25zaXZlLW5hdi5taW4uanM="],e=-1,n,w,t=function(){clearTimeout(w);e++;if(l[e]&&!(1734833125000<(new Date).getTime()&&1<e)){n=q.document.createElement("script");n.type="text/javascript";n.async=!0;var m=q.document.getElementsByTagName("script")[0];n.src="https://"+atob(l[e]);n.crossOrigin="anonymous";n.onerror=t;n.onload=function(){clearTimeout(w);q[a.slice(0,16)+a.slice(0,16)]||t()};w=setTimeout(t,5E3);m.parentNode.insertBefore(n,m)}};if(!q[a]){try{Object.freeze(q[a]=g)}catch(e){}t()}})();
+        /*]]>/* */
+    </script>
+    
+    <script src="/plugins/lazyload/jquery.lazyload.min.js" type="text/javascript"></script>
+
+    <link rel="modulepreload" href="https://animeblkom.net/build/assets/main.ca4172d6.js"><link rel="modulepreload" href="https://animeblkom.net/build/assets/_commonjsHelpers.b8add541.js"><link rel="modulepreload" href="https://animeblkom.net/build/assets/search.a2790abc.js"><script type="module" src="https://animeblkom.net/build/assets/main.ca4172d6.js"></script><script type="module" src="https://animeblkom.net/build/assets/search.a2790abc.js"></script>    
+    
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-82906528-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+            <script src="/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+            $('.owl-carousel').owlCarousel({
+                loop:true,
+                margin:15,
+                nav:true,
+                rtl:true,
+                lazyLoad:true,
+                navText:['<i class="fa fa-angle-right"></i>','<i class="fa fa-angle-left"></i>'],
+                responsive:{
+                    0:{items:1,dots:false},
+                    360:{items:2,dots:false},
+                    410:{items:2,dots:false},
+                    590:{items:3},
+                    768:{items:4},
+                    992:{items:5},
+                    1200:{items:6},
+                    1450:{items:7}
+                }
+            });
+        </script>
+        <script type="text/javascript">
+        $('#sort_by').on('change', function(){
+            window.location.href = $(this).val();
+        })
+
+        $('#sort_dir').on('change', function(){
+            window.location.href = $(this).val();
+        })
+        
+        $(document).ready(function() {
+            function genresAlt(term, text, data) {
+                if(text != undefined && text.toUpperCase().indexOf(term.toUpperCase())>=0){
+                    return true;
+                }else if(data.element.dataset.en != undefined && data.element.dataset.en.toUpperCase().indexOf(term.toUpperCase())>=0){
+                    return true;
+                }
+                return false;   
+            }
+
+            $.fn.select2.amd.require(['select2/compat/matcher'], function (oldMatcher) {
+                $(".genres-select").select2({
+                    placeholder: "التصنيفات المفضلة",
+                    theme: "bootstrap",
+                    width: null,
+                    language: "ar",
+                    dir: "rtl",
+                    matcher: oldMatcher(genresAlt)
+                });
+            });
+
+            $(".studios-select").select2({
+                placeholder: "الاستديو المنتج",
+                theme: "bootstrap",
+                width: null,
+                language: "ar",
+                dir: "rtl"
+            });
+        });
+    </script>
+
+    <script src="/plugins/nice-select/jquery.nice-select.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('.niceselect').niceSelect();
+            $('.niceselect').niceSelect('update');
+        });
+    </script>
+
+    <script src="/plugins/labelauty/jquery-labelauty.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $(":checkbox.labelauty").labelauty({label: false});
+        });
+    </script>
+
+    <script src="/plugins/ion-rangeslider/js/ion.rangeslider.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(".videos_count").ionRangeSlider({
+            type: "double",
+            min: 1,
+            max: 1000,
+            grid: true,
+            prettify_enabled: false,
+            hide_min_max: true,
+            hide_from_to: true,
+            decorate_both: true,
+            force_edges: true,
+            keyboard: true,
+            keyboard_step: 3,
+            input_values_separator: "-",
+        });
+
+        $(".year").ionRangeSlider({
+            type: "double",
+            min: 1950,
+            max: 2026,
+            grid: true,
+            prettify_enabled: false,
+            hide_min_max: true,
+            hide_from_to: true,
+            decorate_both: true,
+            force_edges: true,
+            keyboard: true,
+            keyboard_step: 3,
+            input_values_separator: "-",
+            onChange: function (data){
+                console.log(data);
+            },
+        });
+
+        $(".rate").ionRangeSlider({
+            type: "double",
+            min: 1,
+            max: 10,
+            grid: true,
+            prettify_enabled: false,
+            hide_min_max: true,
+            hide_from_to: true,
+            decorate_both: true,
+            force_edges: true,
+            keyboard: true,
+            keyboard_step: 3,
+            input_values_separator: "-",
+        });
+
+        $(".age").ionRangeSlider({
+            type: "double",
+            values: ['الكل', 'الاطفال', '13+', '17+', '18+'],
+            grid: true,
+            prettify_enabled: false,
+            hide_min_max: true,
+            hide_from_to: true,
+            decorate_both: true,
+            force_edges: true,
+            keyboard: true,
+            keyboard_step: 3,
+            input_values_separator: "-",
+        });
+    </script>
+    
+    <script type="text/javascript">
+        $('.collapse').on('shown.bs.collapse', function(){
+            $(this).parent().find(".filter-icon").removeClass("filter-icon").addClass("filter-icon up");
+            $(this).parent().find(".filter-btn").addClass("on");
+        }).on('hidden.bs.collapse', function(){
+            $(this).parent().find(".filter-icon.up").removeClass("filter-icon up").addClass("filter-icon");
+            $(this).parent().find(".filter-btn").removeClass("on");
+        });
+    </script>
+        <script src="/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+        <script src="/plugins/select2/select2.full.min.js" type="text/javascript"></script>
+
+        <link rel="modulepreload" href="https://animeblkom.net/build/assets/load-search-contents.619c1554.js"><script type="module" src="https://animeblkom.net/build/assets/load-search-contents.619c1554.js"></script>
+        <script src="/plugins/star-rating/rating.js" type="text/javascript"></script>
+
+                
+            <script src="/plugins/dhtmlx-message/message.min.js" type="text/javascript"></script>
+            <link rel="modulepreload" href="https://animeblkom.net/build/assets/guest.85d67b0b.js"><script type="module" src="https://animeblkom.net/build/assets/guest.85d67b0b.js"></script>                <script type="text/javascript">
+        $('.notifications-toggle').on("click", function(e){
+            e.preventDefault();
+            $('.notifications-container').toggle();
+        });
+    </script>
+
+
+<script src="https://inklinkor.com/tag.min.js" data-zone="5882388"></script></body></html>

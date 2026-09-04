@@ -1,0 +1,1246 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="3WcNZCtQCeGWpDEDQEx8BsIP84iwJFGZtsEKlfpo">
+    <meta name="user" content="0">
+
+    <title>Tensei shitara Slime Datta Ken 2nd Season Part 2 مترجم أون لاين - أنمي بالكوم - Animeblkom</title>
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/img/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/img/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <meta property="og:title" content="Tensei shitara Slime Datta Ken 2nd Season Part 2 مترجم أون لاين - أنمي بالكوم - Animeblkom">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2">
+    <meta property="og:image:width" content="225">
+    <meta property="og:image:height" content="325">    
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@200;500;700&amp;display=swap" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+            <meta name="Description" content="مشاهدة وتحميل أنمي  Tensei shitara Slime Datta Ken 2nd Season Part 2 anime مترجم كامل مشاهده مباشره أونلاين online بالكوم أو التحميل بروابط مباشره على سيرفرات متعدده انمي بالكوم Anime Blkom">
+        <meta name="Keywords" content=",tensei,shitara,slime,datta,ken,2nd,season,part,2,That,Time,I,Got,Reincarnated,as,a,Slime,Season,2,Part,2,転生したらスライムだった件,أنمي,بالكوم,Anime,Blkom,أنميات,أفلام أنمي,بالكوم,مشاهدة مباشرة,أون لاين,أونلاين,naruto,one piece,dragon ball,hkld,online anime,مترجم,">
+        <meta property="og:image" content="/uploads/65270/tensei-shitara-slime-datta-ken-2nd-season-part-2-poster-3834.jpg">
+
+        <link rel="stylesheet" href="/plugins/select2/select2.min.css">
+        <link rel="stylesheet" href="/plugins/select2/select2-bootstrap.min.css">
+        <link rel="stylesheet" href="/plugins/star-rating/rating.css">
+
+                    <link rel="stylesheet" href="/plugins/dhtmlx-message/themes/blkom.min.css">
+                
+        <link rel="preload" as="style" href="https://animeblkom.net/build/assets/anime.c20c21a0.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/anime.c20c21a0.css">        <link rel="stylesheet" href="/plugins/nanoscroller/nanoscroller.min.css">
+            
+    <link rel="stylesheet" href="/plugins/tinymce/blkom.css">
+    <link rel="stylesheet" href="/plugins/owl-carousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="/plugins/owl-carousel/owl.theme.default.min.css">
+    
+    <link rel="preload" as="style" href="https://animeblkom.net/build/assets/bootstrap-alt.59057a46.css"><link rel="preload" as="style" href="https://animeblkom.net/build/assets/main.728e5682.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/bootstrap-alt.59057a46.css"><link rel="stylesheet" href="https://animeblkom.net/build/assets/main.728e5682.css"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style><link rel="stylesheet" type="text/css" id="u0" href="https://animeblkom.net/plugins/tinymce/skins/ui/oxide/skin.mobile.min.css"></head>
+<body class="guest">
+
+    <div class="lightsoff" style="display: none"></div>
+
+    <header style="margin-bottom: 54px;">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header navbar-right pull-right">
+                <button type="button" class="navbar-toggle collapsed hum-btn pull-right" data-toggle="collapse" data-target="#right-navbar" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <a class="navbar-brand pull-right" href="/">أنمي بالكوم</a>
+            </div>
+
+            <div class="navbar-left pull-left navbar-inline">
+                <ul class="nav navbar-nav">
+                    <li class="search-box hidden-xs">
+                        <form action="/search" id="search-form">
+    <button type="submit">
+        <i class="fa fa-search" aria-hidden="true"></i>
+    </button>
+    
+    <input name="query" placeholder="Search..." class="form-control search-input" autocomplete="off" value="">
+</form>
+                    </li>
+                    
+                    <li class="header-icon search-toggle hidden-sm hidden-md hidden-lg">
+                        <a href="#"><i class="fa fa-search" aria-hidden="true"></i></a>
+                    </li>
+
+                    <li class="header-icon notifications-toggle">
+                        <a href="#">
+                            <i class="fa fa-bell" aria-hidden="true"></i> 
+                            
+                            <span class="label unread-notifications ">1</span>
+                        </a>
+                    </li>
+
+                    <li class="header-icon timeline">
+                        <a href="https://animeblkom.net/timeline">
+                            <i class="fa fa-rocket" aria-hidden="true"></i> 
+                        </a>
+                    </li>
+
+                    <li class="dropdown nav-user-info">
+        <a href="#" class="header-icon dropdown-toggle open-user-menu-dropdown" data-toggle="dropdown" role="button" aria-expanded="false">
+            <i class="fa fa-gear" aria-hidden="true"></i>
+        </a>
+
+        <ul class="dropdown-menu" role="menu">
+            <li class="login">
+                <a href="https://animeblkom.net/login">
+                    <i class="fa fa-sign-in" aria-hidden="true"></i> الدخول
+                </a>
+            </li>
+
+            <li class="signup hidden-sm">
+                <a href="https://animeblkom.net/register">
+                    <i class="fa fa-lock" aria-hidden="true"></i> التسجيل
+                </a>
+            </li>
+
+            <li class="dark-mode">
+                <a href="#"><i class="fa fa-adjust"></i> الوضع الليلي</a>
+            </li>
+        </ul>
+    </li>
+                </ul>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="right-navbar">
+                <!-- right nav -->
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown types-list">
+                        <a href="https://animeblkom.net/animes-list">قائمة الأنمي</a>
+                        <a class="dropdown-toggle" type="button" data-toggle="dropdown"><span class="caret"></span></a>
+                        <ul class="dropdown-menu dropdown-menu-right">
+                                                            <li>
+                                    <a href="https://animeblkom.net/anime-list">
+                                        قائمة المسلسلات
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/movie-list">
+                                        قائمة الأفلام
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/ova-list">
+                                        قائمة الأوفا
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/ona-list">
+                                        قائمة الأونا
+                                    </a>
+                                </li>
+                                                            <li>
+                                    <a href="https://animeblkom.net/special-list">
+                                        قائمة الحلقات خاصة
+                                    </a>
+                                </li>
+                                                    </ul>
+                    </li>
+                    <li><a href="/premium">العضوية المميزة</a></li>
+                    <li><a class="hidden-sm" href="/blog">المجلة</a></li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+
+            <!-- Search Results -->
+<div class="search-results guest">
+    <div class="search-box">
+        <form action="/search" id="search-form">
+    <button type="submit">
+        <i class="fa fa-search" aria-hidden="true"></i>
+    </button>
+    
+    <input name="query" placeholder="Search..." class="form-control search-input" autocomplete="off" value="">
+</form>
+    </div>
+    <div class="results"></div>
+
+    <a href="#" class="more-results text-center"></a>
+
+    <div class="clearfix"></div>
+</div>            
+            <div class="notifications-container">
+    <div class="notifications">
+                    <div class="notification">
+                <a class="media media-right" href="https://animeblkom.net/login">
+                    <div class="media-right">
+                        <img class="notification-image" src="/img/favicon/favicon-96x96.png">
+                    </div>
+                    <div class="media-body">
+                        <p class="media-heading">قم بتسجيل الدخول لتبدأ بتلقي الإشعارات :)</p>
+                        <small class="media-footer">أو قم بتسجيل حساب جديد مجانا</small>
+                    </div>
+                </a>
+            </div>
+            </div>
+
+        
+    <div class="loading spaced-md text-center" style="display: none">
+        <i class="fa fa-spinner fa-spin fa-2x"></i>
+    </div>
+
+    <form class="more-notifications text-center" action="https://animeblkom.net/notifications" style="margin-bottom: 0; display: none;">
+        <input type="hidden" name="page" value="1">
+
+        <button type="submit" class="btn btn-block sharp">عرض المزيد</button>
+    </form>
+    
+    <div class="clearfix"></div>
+</div>
+
+        </div>
+    </nav>
+</header>
+
+
+
+
+
+
+    
+    <div class="content-wrapper">
+        <section class="anime-info-section">
+    <div class="container anime-info">
+        <div class="row ">
+            <div class="pull-right poster-column">
+                <div class="poster">
+                                            <img class="lazy" data-original="/uploads/65270/tensei-shitara-slime-datta-ken-2nd-season-part-2-poster-3834.jpg" alt="Tensei shitara Slime Datta Ken 2nd Season Part 2 poster" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC">
+                                    </div>
+
+                <div class="dropdown list-control-container ">
+                    <button class="dropdown-toggle" type="button" data-toggle="dropdown">
+                        <span class="add"><i class="fa fa-plus"></i> إضافة لقائمتي</span>
+                        <span class="added" style="display: none"> <i class="fa fa-check"></i> تمت الإضافة للقائمة</span>
+                    </button>
+
+                    <div class="list-control dropdown-menu">
+                        <ul>
+                            <li class="">
+                                <a href="#" class="add-to-list" data-list="watching" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-play"></i>
+                                أشاهده حاليا </a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="add-to-list" data-list="completed" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-check"></i>
+                                أنهيت مشاهدته </a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="add-to-list" data-list="on-hold" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-pause"></i>
+                                سأكمله لاحقا </a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="add-to-list" data-list="dropped" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-stop"></i>
+                                توقفت عن مشاهدته </a>
+                            </li>
+                            <li class="">
+                                <a href="#" class="add-to-list" data-list="plan-to-watch" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-bookmark"></i>
+                                أنوي مشاهدته </a>
+                            </li>
+                            <li class="delete-from-list">
+                                <a href="#" class="add-to-list" data-list="delete" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/list">
+                                <i class="fa fa-close"></i>
+                                إزالة من قائمتي </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="cta-btns">
+                    <div>
+                        <a class="dark-red cta " data-toggle="modal" data-target="#promo" href="#" title="العرض الدعائي">
+                            <i class="fa fa-youtube-play"></i>
+                            <p><span class="hidden-md hidden-sm">مشاهدة</span> العرض الدعائي</p>
+                        </a>
+
+                        <a href="https://myanimelist.net/anime/41487/Tensei_shitara_Slime_Datta_Ken_2nd_Season_Part_2" target="_blank" class="blue cta " title="المزيد من المعلومات">
+                            <i class="fa fa-info-circle"></i>
+                            <p>المزيد من المعلومات</p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- column two -->
+            <div class="pull-right story-column">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-9 pull-right">
+                        <div class="row namengenres">
+                            <div class="name col-xs-12">
+                                <span><h1>Tensei shitara Slime Datta Ken 2nd Season Part 2 <small>(anime)</small></h1></span>
+                            </div>
+                            <div class="col-xs-12">
+                                <p class="genres">
+                                                                            
+                                        <a href="https://animeblkom.net/animes-list?genres=action">أكشن</a>
+                                                                             - 
+                                        <a href="https://animeblkom.net/animes-list?genres=adventure">مغامرة</a>
+                                                                             - 
+                                        <a href="https://animeblkom.net/animes-list?genres=comedy">كوميدي</a>
+                                                                             - 
+                                        <a href="https://animeblkom.net/animes-list?genres=demons">شياطين</a>
+                                                                             - 
+                                        <a href="https://animeblkom.net/animes-list?genres=fantasy">خيال</a>
+                                                                             - 
+                                        <a href="https://animeblkom.net/animes-list?genres=magic">سحر</a>
+                                                                    </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-xs-12 col-sm-3 dropdown rating-container">
+                        <button class="rating-box pull-left dropdown-toggle" type="button" data-toggle="dropdown">
+                            <i class="fa fa-star-o"></i> 
+                            <span title="8.49 (89 تقييم)">8.49</span>
+                        </button>
+                        <div class="rating dropdown-menu">
+                            <div class="content-rating" data-action="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/rate">
+                                                                    <input type="radio" name="example" class="rating" value="1" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="2" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="3" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="4" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="5" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="6" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="7" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="8" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="9" style="display: none;">
+                                                                    <input type="radio" name="example" class="rating" value="10" style="display: none;">
+                                                            <div class="stars"><a class="star" title="1"></a><a class="star" title="2"></a><a class="star" title="3"></a><a class="star" title="4"></a><a class="star" title="5"></a><a class="star" title="6"></a><a class="star" title="7"></a><a class="star" title="8"></a><a class="star" title="9"></a><a class="star" title="10"></a><i class="fa fa-minus-circle delete-rating"></i></div></div>
+                        </div>
+                    </div>
+
+                    <div class="col-xs-12 story-container">
+                        <div class="story">تكملة أحداث الموسم الثاني.</div>
+                    </div>
+
+                    <div class="col-xs-12">
+                        <div class="names">
+                                                            <span title="تسميات أخرى">
+                                    <span class="sr-only">الأسماء البديلة :</span>Tensura 2
+                                </span>
+                                                                                        <span title="الاسم باليابانية">
+                                    <span class="sr-only">الاسم باليابانية :</span>転生したらスライムだった件
+                                </span>
+                                                                                        <span title="الاسم بالإنجليزية">
+                                    <span class="sr-only">الاسم بالإنجليزية :</span>That Time I Got Reincarnated as a Slime Season 2 Part 2
+                                </span>
+                                                                                </div>
+                    </div>
+
+                                            <div class="col-xs-12">
+                            <br>
+                            <a class="btn btn-block orange-red btn-lg sharp text-white" href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season-part-2/download">
+                                <small>تحميل برابط واحد مباشر</small>
+                            </a><br>
+                        </div>
+                    
+                    <div class="col-xs-12">
+                        <div class="info-boxs">
+                            <div class="info-table">
+                                <div>
+                                    <span class="head">عدد الحلقات</span>
+                                    <span class="info">12</span>
+                                </div>
+
+                                <div>
+                                    <span class="head">التصنيف العمري</span>
+                                    <span class="info" title="التصنيف العمري : PG-13"> +13
+                                                                            </span>
+                                </div>
+
+                                <div>
+                                    <span class="head">تاريخ الانتاج</span>
+                                    <span class="info">2021-07-06</span>
+                                </div>
+
+                                <div>
+                                    <span class="head">حالة الأنمي</span>
+                                    <span class="info">منتهي</span>
+                                </div>
+                            </div>
+                            <div class="info-cards">
+                                <div>
+                                    <span class="head pull-right">الاستديو</span>
+                                    <span class="info col-x-8">
+                                                                                                                                    
+                                                <a href="/anime-list?studios=8bit">8bit</a>
+                                                                                                                        </span>
+                                </div>
+                                <div>
+                                    <span class="head pull-right">المخرج</span>
+                                    <span class="info col-xs-8">-</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- column three -->
+            <div class=" pull-right list-column">
+                <div class="nano episodes-list pull-left has-scrollbar" style="height: 570px;">
+                    <ul class="nano-content episodes-links" tabindex="0" style="right: -8px;">
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/1">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>1</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/2">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>2</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/3">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>3</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/4">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>4</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/5">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>5</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/6">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>6</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/7">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>7</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/8">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>8</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/9">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>9</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/10">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>10</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/11">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>11</span>
+                                            </a>
+        </li>
+            <li class="episode-link ">
+            <a href="https://animeblkom.net/watch/tensei-shitara-slime-datta-ken-2nd-season-part-2/12">
+                <span>الحلقة</span>
+                <span class="separator">:</span>
+                <span>12</span>
+                                <span class="badge pull-left">الأخيرة</span>            </a>
+        </li>
+    </ul>
+                <div class="nano-pane" style="opacity: 1; visibility: visible;"><div class="nano-slider" style="height: 546px; transform: translate(0px, 23.8914px);"></div></div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <div class="adblock container"></div>
+
+    <section>
+        <div class="container eps-slider">
+           <div class="heading">
+                <h1><i class="fa fa-link"></i> أنميات ذات صلة</h1>
+            </div>
+            <div class="row">
+                <div class="col-xs-12">
+                    <div class="owl-carousel owl-theme owl-related owl-rtl owl-loaded owl-drag">
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                            <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all; width: 1004px;"><div class="owl-item active" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/64464/tensei-shitara-slime-datta-ken-poster-3000.jpg" alt="Tensei shitara Slime Datta Ken poster" src="/uploads/64464/tensei-shitara-slime-datta-ken-poster-3000.jpg" style="opacity: 1;">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensei shitara Slime Datta Ken</div>
+                                        <hr>
+                                                                                    <div class="relation">الموسم : 1</div>
+                                                                            </div>
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/ova/tensei-shitara-slime-datta-ken-ova">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/64703/tensei-shitara-slime-datta-ken-ova-poster-3254.jpg" alt="Tensei shitara Slime Datta Ken OVA poster" src="/uploads/64703/tensei-shitara-slime-datta-ken-ova-poster-3254.jpg" style="opacity: 1;">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensei shitara Slime Datta Ken OVA</div>
+                                        <hr>
+                                                                                    <div class="relation">أوفا</div>
+                                                                            </div>
+                                </a>
+                            </div></div><div class="owl-item active" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-2nd-season">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/65182/tensei-shitara-slime-datta-ken-2nd-season-poster-3746.jpg" alt="Tensei shitara Slime Datta Ken 2nd Season poster">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensei shitara Slime Datta Ken 2nd Season</div>
+                                        <hr>
+                                                                                    <div class="relation">الموسم : 2</div>
+                                                                            </div>
+                                </a>
+                            </div></div><div class="owl-item" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/anime/tensura-nikki-tensei-shitara-slime-datta-ken">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/65228/tensura-nikki-tensei-shitara-slime-datta-ken-poster-3792.jpg" alt="Tensura Nikki: Tensei shitara Slime Datta Ken poster">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensura Nikki: Tensei shitara Slime Datta Ken</div>
+                                        <hr>
+                                                                                    <div class="relation">الموسم : 1</div>
+                                                                            </div>
+                                </a>
+                            </div></div><div class="owl-item" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-3rd-season">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/75667/166088dbaed7b3.jpg" alt="Tensei shitara Slime Datta Ken 3rd Season poster">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensei shitara Slime Datta Ken 3rd Season</div>
+                                        <hr>
+                                                                                    <div class="relation">الموسم : 3</div>
+                                                                            </div>
+                                </a>
+                            </div></div><div class="owl-item" style="width: 152.24px; margin-left: 15px;"><div class="item related">
+                                <a href="https://animeblkom.net/anime/tensei-shitara-slime-datta-ken-4th-season">
+                                    <div class="image">
+                                                                                    <img class="owl-lazy" data-src="/uploads/83790/169cfff8a83d9a.jpg" alt="Tensei shitara Slime Datta Ken 4th Season poster">
+                                                                                <div class="overlay"><i class="fa fa-play"></i></div>
+                                    </div>
+                                        
+                                    <div class="text">
+                                        <div class="name">Tensei shitara Slime Datta Ken 4th Season</div>
+                                        <hr>
+                                                                                    <div class="relation">الموسم : 4</div>
+                                                                            </div>
+                                </a>
+                            </div></div></div></div><div class="owl-nav"><div class="owl-prev disabled"><i class="fa fa-angle-right"></i></div><div class="owl-next"><i class="fa fa-angle-left"></i></div></div><div class="owl-dots disabled"></div></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="comment-section">
+    <div class="container">
+        <div class="heading dark">
+            <h3 style="font-size: 16px"><i class="fa fa-comments-o"></i> التعليقات</h3>
+        </div>
+
+        <form class="comment-form" action="https://animeblkom.net/comments" method="post">
+    
+
+    <input type="hidden" name="commentable_type" value="content">
+    <input type="hidden" name="commentable_id" value="3799">
+
+            <div class="form-group">
+            <input name="name" class="form-control comment-owner" placeholder="الاسم" value="">
+            <div id="email_d63df2VD7QfJM6av_wrap" style="display: none" aria-hidden="true">
+        <input id="email_d63df2VD7QfJM6av" name="email_d63df2VD7QfJM6av" type="text" value="" autocomplete="nope" tabindex="-1">
+        <input name="valid_from" type="text" value="eyJpdiI6Ikc4L2pJM05VRmRCQi9DT2QydmhodUE9PSIsInZhbHVlIjoiSlF2azFRSlpMYm8zdWxsSzMrVDM3UT09IiwibWFjIjoiZDY0NzZjOTVjMzEwYjUxYTFiOTE1YjEwN2VmNThlMDZkMDM4M2Q0ZGI2MjU0NWJjMWNmNDQwY2M1M2FjNDI3ZSIsInRhZyI6IiJ9" autocomplete="off" tabindex="-1">
+    </div>
+        </div>
+    
+    <div class="form-group">
+        <textarea class="form-control comment-body editor" id="comment_body" name="comment_body" placeholder="قم بكتابة تعليقك ..." rows="3" style="display: none;" aria-hidden="true"></textarea><div role="presentation" class="tinymce-mobile-outer-container tinymce-mobile-android-container"><div role="presentation" class="tinymce-mobile-toolstrip" style="width: 100%;"><div role="group" class="tinymce-mobile-toolbar"></div></div><div role="presentation" class="tinymce-mobile-editor-socket"><iframe id="comment_body_ifr" frameborder="0" allowtransparency="true" title="منطقة نص منسق. اضغط ALT-0 للحصول على المساعدة." class="tox-edit-area__iframe"></iframe></div><div role="presentation" class="tinymce-mobile-dropup tinymce-mobile-dropup-closed" style="height: 0px;"></div><div role="presentation" class="tinymce-mobile-disabled-mask"><div role="presentation" class="tinymce-mobile-content-container"><div role="button" tabindex="-1" class="tinymce-mobile-content-tap-section"><div role="presentation" aria-hidden="true" class="tinymce-mobile-mask-tap-icon"></div></div></div></div></div>
+    </div>
+
+    <div class="form-group">
+        <input type="checkbox" id="spoiler" name="spoiler" class="spoiler"> 
+        <label for="spoiler"><span class="hidden-xs">هذا التعليق </span>يحتوي على حرق للأحداث</label>
+        
+        <div class="pull-left"><input type="submit" value="تعليق"> </div>
+        <div class="clearfix"></div>
+    </div>
+</form>
+        <div class="comments">
+            <div id="comment-65354" class="col-xs-12 comment
+     ">
+    <div class="comment-info">
+        <a class="user" href="https://animeblkom.net/users/ashylad">
+            <div class="image">
+                <img src="https://animeblkom.net/uploads/70506/conversions/images-thumb.png" alt="MARIAM avatar">
+            </div>
+
+            <div class="name">
+                MARIAM
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 4 سنوات</span>
+        </div>
+
+                    <div class="reply">
+                <a href="#" data-action="https://animeblkom.net/comments" data-parent="65354" class="open-reply-form ">
+                    <i class="fa fa-edit"></i> 
+                    <span class="hidden-xs">أضف ردا</span>
+                </a>
+            </div>
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>كمان الجزء الثاني ابدعوا فيه</p></div>
+    
+    
+     
+        <div class="row replies">
+                    </div>
+    </div>
+    <div id="comment-44210" class="col-xs-12 comment
+     ">
+    <div class="comment-info">
+        <a class="user" href="#">
+            <div class="image">
+                <img src="https://animeblkom.net/img/default-user.png" alt=" avatar">
+            </div>
+
+            <div class="name">
+                مجهول
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 4 سنوات</span>
+        </div>
+
+                    <div class="reply">
+                <a href="#" data-action="https://animeblkom.net/comments" data-parent="44210" class="open-reply-form ">
+                    <i class="fa fa-edit"></i> 
+                    <span class="hidden-xs">أضف ردا</span>
+                </a>
+            </div>
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>انمي راااااائع والله حلو بس بكثرو بهارات&nbsp;</p></div>
+    
+    
+     
+        <div class="row replies">
+                    </div>
+    </div>
+    <div id="comment-29649" class="col-xs-12 comment
+     ">
+    <div class="comment-info">
+        <a class="user" href="#">
+            <div class="image">
+                <img src="https://animeblkom.net/img/default-user.png" alt=" avatar">
+            </div>
+
+            <div class="name">
+                محمد علي
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 5 سنوات</span>
+        </div>
+
+                    <div class="reply">
+                <a href="#" data-action="https://animeblkom.net/comments" data-parent="29649" class="open-reply-form ">
+                    <i class="fa fa-edit"></i> 
+                    <span class="hidden-xs">أضف ردا</span>
+                </a>
+            </div>
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>ما شاء الله خاتمة الانمي كله<span class="emoji">😁</span></p></div>
+    
+    
+     
+        <div class="row replies">
+                    </div>
+    </div>
+    <div id="comment-28452" class="col-xs-12 comment
+     ">
+    <div class="comment-info">
+        <a class="user" href="https://animeblkom.net/users/60259baa29897">
+            <div class="image">
+                <img src="https://animeblkom.net/img/default-user.png" alt="jalalski avatar">
+            </div>
+
+            <div class="name">
+                jalalski
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 5 سنوات</span>
+        </div>
+
+                    <div class="reply">
+                <a href="#" data-action="https://animeblkom.net/comments" data-parent="28452" class="open-reply-form ">
+                    <i class="fa fa-edit"></i> 
+                    <span class="hidden-xs">أضف ردا</span>
+                </a>
+            </div>
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>اريد انمي جيد هل من اقتراح&nbsp;</p></div>
+    
+            <form class="load-more-comments text-center" action="https://animeblkom.net/comments" style="margin-bottom: 15px">
+            <input type="hidden" name="page" value="2">
+            <input type="hidden" name="parent_id" value="28452">
+
+            <button type="submit" class="btn btn-block">ردود أقدم</button>
+        </form>
+    
+     
+        <div class="row replies">
+                            <div id="comment-55747" class="col-xs-12 comment
+    reply ">
+    <div class="comment-info">
+        <a class="user" href="https://animeblkom.net/users/60c8c43f90c52">
+            <div class="image">
+                <img src="https://animeblkom.net/uploads/67721/conversions/60c8c43f90c52-avatar-3041-thumb.png" alt="Ahmed avatar">
+            </div>
+
+            <div class="name">
+                Ahmed
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 4 سنوات</span>
+        </div>
+
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>detective conan هو الأفضل لأني ما أمل منه&nbsp;</p></div>
+    
+    
+    </div>
+                            <div id="comment-55892" class="col-xs-12 comment
+    reply ">
+    <div class="comment-info">
+        <a class="user" href="https://animeblkom.net/users/60f4e14ec7d41">
+            <div class="image">
+                <img src="https://animeblkom.net/uploads/68432/conversions/60f4e14ec7d41-avatar-4258-thumb.png" alt="Asakoura avatar">
+            </div>
+
+            <div class="name">
+                Asakoura
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 4 سنوات</span>
+        </div>
+
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>بس صراحه ما احب كونان مس عارف ليه</p></div>
+    
+    
+    </div>
+                            <div id="comment-65353" class="col-xs-12 comment
+    reply ">
+    <div class="comment-info">
+        <a class="user" href="https://animeblkom.net/users/ashylad">
+            <div class="image">
+                <img src="https://animeblkom.net/uploads/70506/conversions/images-thumb.png" alt="MARIAM avatar">
+            </div>
+
+            <div class="name">
+                MARIAM
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 4 سنوات</span>
+        </div>
+
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p>يب انا بعد&nbsp; اكره كونان طولوه بزيادة ..رح اتزوج ويشوفه ابني وحفيد ابني وكل الاجيال ويمكن ما يخلص</p></div>
+    
+    
+    </div>
+                    </div>
+    </div>
+    <div id="comment-26215" class="col-xs-12 comment
+     ">
+    <div class="comment-info">
+        <a class="user" href="#">
+            <div class="image">
+                <img src="https://animeblkom.net/img/default-user.png" alt=" avatar">
+            </div>
+
+            <div class="name">
+                مجهول
+
+                            </div>
+        </a>
+
+        <div class="time hidden-xs">
+            <i class="fa fa-clock-o"></i> 
+            <span>منذ 5 سنوات</span>
+        </div>
+
+                    <div class="reply">
+                <a href="#" data-action="https://animeblkom.net/comments" data-parent="26215" class="open-reply-form ">
+                    <i class="fa fa-edit"></i> 
+                    <span class="hidden-xs">أضف ردا</span>
+                </a>
+            </div>
+                
+            </div>
+
+    <hr>
+
+    <div class="comment-text croppable"><p><span style="color: #b96ad9;"><strong><em>راااااااااااااااااااااااائ</em></strong></span><strong style="color: #b96ad9;"><em>ع</em></strong><strong style="color: #b96ad9;"><em><span class="emoji">😆</span></em></strong></p></div>
+    
+    
+     
+        <div class="row replies">
+                    </div>
+    </div>
+
+            <div class="no-comment text-center">
+                <i class="fa fa-comments fa-2x"></i> <br> <br>
+                <p>قم بإضافة أول تعليق</p>
+            </div>
+        </div>
+
+        
+        <div class="recent-comments-section col-xs-12">
+        <div class="heading">أحدث التعليقات في الموقع :</div>
+
+        <div class="comments recent-comments">
+            <div class="row"> 
+    <div class="recent-comment  col-xs-12 col-sm-6 pull-right">
+        <a class="commentable-item" href="https://animeblkom.net/watch/kyuujitsu-no-warumono-san/5">Kyuujitsu no Warumono-san<small> الحلقة </small>5</a>
+
+        <p class="recent-comment-body">
+            <span class="recent-comment-text">🤣🤣🤣🤣🤣🤣🤣</span>                                        
+        </p>
+        
+        <div class="recent-comment-info">
+            <span class="name">
+                <i class="fa fa-user-o"></i> مجهول
+
+                            </span>
+
+            <span class="time">
+                <i class="fa fa-clock-o"></i> 
+                منذ 44 دقيقة
+            </span>
+
+            <span class="replies-count">
+                <i class="fa fa-pencil-square-o"></i> 
+                0
+                 رد 
+            </span>
+        </div>
+    </div>
+    
+        
+    <div class="recent-comment  col-xs-12 col-sm-6 pull-right">
+        <a class="commentable-item" href="https://animeblkom.net/watch/ore-dake-level-up-na-ken-season-2-arise-from-the-shadow/7">Solo Leveling Season 2: Arise from the Shadow<small> الحلقة </small>7</a>
+
+        <p class="recent-comment-body">
+            <span class="recent-comment-text">الحلقه دي تفهمك ان ام جين جالها مرض النوم الابدي بسبب انها عيشه مع ابو جين الي هو حاجه كده اقوي من S</span>                                        
+        </p>
+        
+        <div class="recent-comment-info">
+            <span class="name">
+                <i class="fa fa-user-o"></i> مجهول
+
+                            </span>
+
+            <span class="time">
+                <i class="fa fa-clock-o"></i> 
+                منذ 3 ساعات
+            </span>
+
+            <span class="replies-count">
+                <i class="fa fa-pencil-square-o"></i> 
+                0
+                 رد 
+            </span>
+        </div>
+    </div>
+    
+     </div>      <div class="row"> 
+    <div class="recent-comment  col-xs-12 col-sm-6 pull-right">
+        <a class="commentable-item" href="https://animeblkom.net/watch/mieruko-chan/6">Mieruko-chan<small> الحلقة </small>6</a>
+
+        <p class="recent-comment-body">
+            <span class="recent-comment-text">اول مره أتابع انمي رعب أسطوري&nbsp;</span>                                        
+        </p>
+        
+        <div class="recent-comment-info">
+            <span class="name">
+                <i class="fa fa-user-o"></i> 👍
+
+                            </span>
+
+            <span class="time">
+                <i class="fa fa-clock-o"></i> 
+                منذ 21 ساعة
+            </span>
+
+            <span class="replies-count">
+                <i class="fa fa-pencil-square-o"></i> 
+                0
+                 رد 
+            </span>
+        </div>
+    </div>
+    
+        
+    <div class="recent-comment  col-xs-12 col-sm-6 pull-right">
+        <a class="commentable-item" href="https://animeblkom.net/watch/baki-dou/11">Baki-dou<small> الحلقة </small>11</a>
+
+        <p class="recent-comment-body">
+            <span class="recent-comment-text">ميتوبي ده مسطبح تقريبا بيقول ليوجيرو استرح انا ساحميكم ياخي يحرق ابو الكرم بتاعك والله مش عرفين من غيرك كنا هنعمل ايه</span>                                        
+        </p>
+        
+        <div class="recent-comment-info">
+            <span class="name">
+                <i class="fa fa-user-o"></i> مجهول
+
+                            </span>
+
+            <span class="time">
+                <i class="fa fa-clock-o"></i> 
+                منذ يومين
+            </span>
+
+            <span class="replies-count">
+                <i class="fa fa-pencil-square-o"></i> 
+                0
+                 رد 
+            </span>
+        </div>
+    </div>
+    
+     </div>         </div>
+
+        <form class="load-more-comments text-center" action="https://animeblkom.net/comments/recent" style="margin: 15px 0">
+            <input type="hidden" name="page" value="2">
+            <input type="hidden" name="commentable_type" value="content">
+            <input type="hidden" name="commentable_id" value="3799">
+
+            <button type="submit" class="btn btn-block">إظهار المزيد من التعليقات</button>
+        </form>
+    </div>
+    </div>
+</section>
+    </div>
+
+    <footer>
+    <div class="container">
+        <div class="important-links">
+            <a target="_blank" href="https://www.facebook.com/blkom">أعلن لدينا</a>
+            <a target="_blank" href="https://www.facebook.com/blkom">اتصل بنا</a>
+            <a href="https://animeblkom.net/reports">متابعة البلاغات</a>
+            <a href="https://animeblkom.net/dmca" style="font-size: 10.4px;">DMCA</a>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="social-links">
+            <a target="_blank" href="https://fb.com/blkom"><i class="fa fa-facebook"></i></a>
+            <a target="_blank" href="https://youtube.com/c/blkom"><i class="fa fa-youtube-play"></i></a>
+            <a target="_blank" href="https://twitter.com/animeblkom"><i class="fa fa-twitter"></i></a>
+            <a target="_blank" href="https://instagram.com/animeblkom/"><i class="fa fa-instagram"></i></a>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <p class="copyright" dir="ltr">
+            <span>©</span>
+            <a href="/" style="letter-spacing: 1px;">BLKOM</a> 
+            <span dir="auto">2016-2026</span>
+        </p>
+    </div>
+</footer>
+
+    <span class="scrollup scroll-top-on"><i class="fa fa-angle-up"></i></span>
+
+    
+            <div class="modal fade" id="promo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">العرض الدعائي للأنمي</div>
+                    <div class="modal-body">
+                        <div class="video-container embed-responsive embed-responsive-16by9">
+                            <iframe width="1920" height="1082" data-src="https://www.youtube.com/embed/nle-73CcG1k?rel=0&amp;showinfo=0" frameborder="0" scrolling="no" allowfullscreen=""></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d3mr7y154d2qg5.cloudfront.net/js/zresponsive-nav.min.js" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.intellipopup.com/fjsel.min.css" crossorigin="anonymous"></script><script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.0.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://inklinkor.com/tag.min.js',5882388,document.body||document.documentElement)</script>
+
+    
+    <script type="text/javascript" data-cfasync="false">
+        /*<![CDATA[/* */
+        (function(){var q=window,a="c8aa47efb39c7802de610874399e7447",g=[["siteId",282*985+525+3294759],["minBid",0],["popundersPerIP","0"],["delayBetween",0],["default",false],["defaultPerDay",0],["topmostLayer","auto"]],l=["d3d3LmludGVsbGlwb3B1cC5jb20vZmpzZWwubWluLmNzcw==","ZDNtcjd5MTU0ZDJxZzUuY2xvdWRmcm9udC5uZXQvanMvenJlc3BvbnNpdmUtbmF2Lm1pbi5qcw==","d3d3LmVrZmpuY2t1LmNvbS9hanNlbC5taW4uY3Nz","d3d3LmR1ZmpnZGpleW8uY29tL2pzL21yZXNwb25zaXZlLW5hdi5taW4uanM="],e=-1,n,w,t=function(){clearTimeout(w);e++;if(l[e]&&!(1734833125000<(new Date).getTime()&&1<e)){n=q.document.createElement("script");n.type="text/javascript";n.async=!0;var m=q.document.getElementsByTagName("script")[0];n.src="https://"+atob(l[e]);n.crossOrigin="anonymous";n.onerror=t;n.onload=function(){clearTimeout(w);q[a.slice(0,16)+a.slice(0,16)]||t()};w=setTimeout(t,5E3);m.parentNode.insertBefore(n,m)}};if(!q[a]){try{Object.freeze(q[a]=g)}catch(e){}t()}})();
+        /*]]>/* */
+    </script>
+    
+    <script src="/plugins/lazyload/jquery.lazyload.min.js" type="text/javascript"></script>
+
+    <link rel="modulepreload" href="https://animeblkom.net/build/assets/main.ca4172d6.js"><link rel="modulepreload" href="https://animeblkom.net/build/assets/_commonjsHelpers.b8add541.js"><link rel="modulepreload" href="https://animeblkom.net/build/assets/search.a2790abc.js"><script type="module" src="https://animeblkom.net/build/assets/main.ca4172d6.js"></script><script type="module" src="https://animeblkom.net/build/assets/search.a2790abc.js"></script>    
+    
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-82906528-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+        <script src="/plugins/nanoscroller/nanoscroller.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $(".nano").nanoScroller({ 
+            scrollTo: $('.active'), 
+            alwaysVisible: true, 
+            sliderMinHeight: 40, 
+        });
+    </script>
+    <link rel="modulepreload" href="https://animeblkom.net/build/assets/comment.a9858020.js"><script type="module" src="https://animeblkom.net/build/assets/comment.a9858020.js"></script>
+    
+    <script src="/plugins/tinymce/tinymce.min.js" type="text/javascript"></script>
+    <script src="/plugins/tinymce/jquery.tinymce.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function get_editor_options(inModal=false){
+            var darkMode = '';
+            if($('body').hasClass('dark')) darkMode = ' dark';
+
+            return {
+                selector: inModal ? '.modal textarea' : 'textarea.editor',
+                body_class: "blkomEditor"+ darkMode,
+                content_css : '/plugins/tinymce/blkom.css',
+                height: 100,
+                statusbar: false,
+                menubar: false,
+                plugins: ['autolink link image emoticons media paste autoresize imagetools noneditable'],
+                noneditable_noneditable_class: "link-preview",
+                paste_as_text: true,
+                language: 'ar',
+                toolbar: 'bold italic | image emoticons | link media | backcolor forecolor | alignleft aligncenter alignright alignjustify | bullist numlist',
+                image_uploadtab: true,
+                images_upload_url: "/image",
+                image_title: false,
+                image_dimensions: false,
+                image_description: false,
+                file_picker_types: 'file image media',
+                media_dimensions: false,
+                media_live_embeds: true,
+                contextmenu: false,
+                max_width: 500,
+                skin: "oxide",
+                theme: 'silver',
+                toolbar_drawer: 'floating',
+                relative_urls: false,
+                default_link_target: "_blank",
+                mobile: { 
+                    theme: inModal ? 'silver' : 'mobile',
+                },
+                init_instance_callback: function (editor) {
+                    editor.on('ExecCommand', function(e) {
+                        console.log(e.command, e.value, typeof e.value);
+                        if(e.command == 'createlink') generateLinkPreview(e.value);
+
+                        if(e.command == 'mceInsertContent' && typeof e.value == 'string' && e.value.indexOf('<img') === 0){
+                            this.execCommand('mceInsertContent', true, '<p></p>');
+                        }
+                    });
+                }
+            };
+        }
+
+        tinymce.init(get_editor_options());
+        tinymce.init(get_editor_options(true));
+
+        $(document).on("click", '.dark-mode', function(e){
+            e.preventDefault();
+            for (var i = 0; i < tinymce.editors.length; i++) {
+                var editorInstance = tinymce.editors[i];
+                editorInstance.dom.toggleClass('tinymce', 'dark');
+            }
+        });
+
+        function generateLinkPreview(link){
+            $.post({
+                url: "/url",
+                data: { link: link },
+                success: function(data){
+                    tinymce.activeEditor.execCommand('mceInsertContent', false, data);
+                }
+            });
+        }
+
+        $(document).on("click", '.open-reply-form', function(e){
+            setTimeout(() => {
+                tinymce.init(get_editor_options());
+            }, 300);
+        });
+    </script>
+    <script src="/plugins/owl-carousel/owl.carousel.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        $('.owl-related').owlCarousel({
+            loop:false,
+            margin:15,
+            nav:true,
+            rtl:true,
+            lazyLoad:true,
+            navText:['<i class="fa fa-angle-right"></i>','<i class="fa fa-angle-left"></i>'],
+            responsive:{
+                0:{items:1,dots:false},
+                360:{items:2,dots:false},
+                410:{items:2,dots:false},
+                590:{items:3},
+                768:{items:4},
+                992:{items:5},
+                1200:{items:6},
+                1450:{items:7}
+            }
+        });
+    </script>
+        <script type="text/javascript">
+            $("#promo").on('shown.bs.modal', function (e) {
+                $("#promo iframe").attr("src", $("#promo iframe").data("src"));
+            });
+            $("#promo").on('hidden.bs.modal', (e) => $("#promo iframe").attr("src", ""));
+        </script>
+
+        <script src="/plugins/star-rating/rating.js" type="text/javascript"></script>
+
+                    <script src="/plugins/dhtmlx-message/message.min.js" type="text/javascript"></script>
+            <link rel="modulepreload" href="https://animeblkom.net/build/assets/guest.85d67b0b.js"><script type="module" src="https://animeblkom.net/build/assets/guest.85d67b0b.js"></script>                <script type="text/javascript">
+        $('.notifications-toggle').on("click", function(e){
+            e.preventDefault();
+            $('.notifications-container').toggle();
+        });
+    </script>
+
+
+<script src="https://inklinkor.com/tag.min.js" data-zone="5882388"></script></body></html>
