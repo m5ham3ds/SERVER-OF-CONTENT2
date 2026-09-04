@@ -1,0 +1,429 @@
+بعد تحليل ملفات موقع z1.almeshkah.net بعناية، سأقوم بإنشاء ملف مصدر Almeshkah.kt كامل ومتكامل، يعمل بنفس آلية الملفات السابقة مع تكييفه مع هيكل هذا الموقع الذي يدعم المسلسلات المتعددة المواسم والحلقات.
+
+---
+
+📁 ملف Almeshkah.kt – الكود الكامل
+
+```kotlin
+package eu.kanade.tachiyomi.animeextension.ar.almeshkah
+
+import android.util.Log
+import androidx.preference.ListPreference
+import androidx.preference.PreferenceScreen
+import eu.kanade.tachiyomi.animesource.ConfigurableAnimeSource
+import eu.kanade.tachiyomi.animesource.model.AnimeFilter
+import eu.kanade.tachiyomi.animesource.model.AnimeFilterList
+import eu.kanade.tachiyomi.animesource.model.SAnime
+import eu.kanade.tachiyomi.animesource.model.SEpisode
+import eu.kanade.tachiyomi.animesource.model.Video
+import eu.kanade.tachiyomi.animesource.online.ParsedAnimeHttpSource
+import eu.kanade.tachiyomi.network.GET
+import eu.kanade.tachiyomi.network.await
+import eu.kanade.tachiyomi.network.awaitSuccess
+import keiyoushi.utils.getPreferencesLazy
+import keiyoushi.utils.parallelCatchingFlatMap
+import keiyoushi.utils.useAsJsoup
+import okhttp3.Request
+import okhttp3.Response
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
+
+class Almeshkah :
+    ParsedAnimeHttpSource(),
+    ConfigurableAnimeSource {
+
+    override val name = "فنون tv (Almeshkah)"
+
+    override val baseUrl = "https://z1.almeshkah.net"
+
+    override val lang = "ar"
+
+    override val supportsLatest = true
+
+    private val preferences by getPreferencesLazy()
+
+    // ================================== Popular (الصفحة الرئيسية) ==================================
+
+    override fun popularAnimeSelector(): String = "ul.pm-ul-browse-videos li"
+
+    override fun popularAnimeNextPageSelector(): String = "div.pagination ul.page-numbers li a.next"
+
+    override fun popularAnimeRequest(page: Int): Request =
+        GET("$baseUrl/main3?page=$page/")
+
+    override fun popularAnimeFromElement(element: Element): SAnime {
+        val anime = SAnime.create()
+        val link = element.select("div.thumbnail a").first()
+        if (link != null) {
+            anime.setUrlWithoutDomain(link.attr("href"))
+        }
+        anime.title = element.select("div.caption h3 a").text()
+        anime.thumbnail_url = element.select("div.pm-video-thumb img").attr("src")
+        return anime
+    }
+
+    // ================================== Episodes (دعم المسلسلات والأفلام) ==================================
+
+    override fun episodeListSelector(): String = "div.tabcontent a" // سيتم استخدامه لاحقاً
+
+    override fun episodeFromElement(element: Element): SEpisode {
+        val episode = SEpisode.create()
+        episode.setUrlWithoutDomain(element.attr("href"))
+        episode.name = element.text()
+        return episode
+    }
+
+    override fun episodeListParse(response: Response): List<SEpisode> {
+        val document = response.useAsJsoup()
+        val episodes = mutableListOf<SEpisode>()
+
+        // التحقق من وجود المواسم (يعني أنه مسلسل)
+        val seasonsBox = document.selectFirst("div.SeasonsBox")
+        if (seasonsBox != null) {
+            // استخراج أزرار المواسم
+            val seasonButtons = seasonsBox.select("button.tablinks")
+            seasonButtons.forEach { button ->
+                val seasonId = button.attr("onclick")
+                    .substringAfter("openCity(event, '")
+                    .substringBefore("')")
+                if (seasonId.isNotEmpty()) {
+                    // استخراج الحلقات من القسم الخاص بهذا الموسم
+                    val seasonContent = document.getElementById(seasonId)
+                    if (seasonContent != null) {
+                        val episodeLinks = seasonContent.select("a")
+                        episodeLinks.forEach { link ->
+                            val episode = episodeFromElement(link)
+                            // إضافة اسم الموسم للحلقة
+                            val seasonName = button.text().trim()
+                            episode.name = "$seasonName ${episode.name}"
+                            episodes.add(episode)
+                        }
+                    }
+                }
+            }
+            // إذا لم توجد حلقات، نعيد قائمة فارغة (لكن نفضل إرجاع حلقة واحدة افتراضية)
+            if (episodes.isEmpty()) {
+                // محاولة استخراج الحلقات من أي رابط في الصفحة (حالة نادرة)
+                document.select("div.tabcontent a").forEach {
+                    episodes.add(episodeFromElement(it))
+                }
+            }
+        } else {
+            // فيلم (حلقة واحدة)
+            val episode = SEpisode.create()
+            episode.setUrlWithoutDomain(response.request.url.toString())
+            episode.name = "مشاهدة الفيلم"
+            episodes.add(episode)
+        }
+
+        // ترتيب الحلقات حسب رقمها (اختياري)
+        return episodes.sortedBy { it.episode_number }
+    }
+
+    // ================================== Video URLs (استخراج روابط السيرفرات) ==================================
+
+    override suspend fun getVideoList(episode: SEpisode): List<Video> {
+        val document = client.newCall(GET(baseUrl + episode.url))
+            .await()
+            .useAsJsoup()
+
+        // استخراج جميع السيرفرات من ul.list_servers
+        val serverElements = document.select("ul.list_servers li")
+        return serverElements.parallelCatchingFlatMap { server ->
+            val embedHtml = server.attr("data-embed")
+            if (embedHtml.isNotEmpty()) {
+                // استخراج src من iframe
+                val srcRegex = Regex("src\\s*=\\s*[\"']([^\"']+)[\"']")
+                val srcMatch = srcRegex.find(embedHtml)
+                val embedUrl = srcMatch?.groupValues?.get(1)
+                if (embedUrl != null) {
+                    extractVideoFromUrl(embedUrl)
+                } else {
+                    emptyList()
+                }
+            } else {
+                emptyList()
+            }
+        }
+    }
+
+    private suspend fun extractVideoFromUrl(embedUrl: String): List<Video> {
+        return try {
+            // محاولة استخدام extractors معروفة إن أمكن
+            when {
+                embedUrl.contains("uqload") -> {
+                    // مشابه لـ Uqload
+                    extractUqload(embedUrl)
+                }
+                embedUrl.contains("vidaraa") || embedUrl.contains("abyssplayer") ||
+                embedUrl.contains("hglink") || embedUrl.contains("dhtpre") ||
+                embedUrl.contains("upbolt") || embedUrl.contains("the.tube") ||
+                embedUrl.contains("goodstream") || embedUrl.contains("luluvid") ||
+                embedUrl.contains("myvidplay") -> {
+                    // خدمات غير معروفة، نستخدم التحليل العام
+                    extractGeneric(embedUrl)
+                }
+                else -> {
+                    extractGeneric(embedUrl)
+                }
+            }
+        } catch (e: Exception) {
+            Log.e("Almeshkah", "Error extracting from $embedUrl", e)
+            emptyList()
+        }
+    }
+
+    // ===== Extractors خاصة =====
+
+    private suspend fun extractUqload(url: String): List<Video> {
+        // Uqload غالباً يحتوي على فيديو داخل iframe، نحتاج إلى تحليل الصفحة
+        // يمكن تنفيذ تحليل خاص لـ uqload إذا كان شائعاً، وإلا نستخدم generic
+        return extractGeneric(url)
+    }
+
+    private suspend fun extractGeneric(url: String): List<Video> {
+        val doc = client.newCall(GET(url))
+            .awaitSuccess()
+            .useAsJsoup()
+
+        // 1. البحث عن عنصر video مباشر
+        val videoElement = doc.selectFirst("video source, video")
+        if (videoElement != null) {
+            val src = videoElement.attr("src")
+            if (src.isNotEmpty()) {
+                return listOf(Video(src, "مصدر مباشر", src))
+            }
+        }
+
+        // 2. البحث في script عن sources أو file
+        val scripts = doc.select("script:containsData(sources), script:containsData(file), script:containsData(video_url)")
+        for (script in scripts) {
+            val data = script.data()
+            val patterns = listOf(
+                Regex("sources:\\s*\\[\\{.*?file:\\s*[\"']([^\"']+)"),
+                Regex("file:\\s*[\"']([^\"']+)"),
+                Regex("video_url:\\s*[\"']([^\"']+)"),
+                Regex("src:\\s*[\"']([^\"']+)")
+            )
+            for (pattern in patterns) {
+                val match = pattern.find(data)
+                if (match != null) {
+                    val videoUrl = match.groupValues[1]
+                    if (videoUrl.startsWith("http")) {
+                        val quality = "HD" // أو استخراج الجودة إن وجدت
+                        return listOf(Video(videoUrl, quality, videoUrl))
+                    }
+                }
+            }
+        }
+
+        // 3. البحث عن iframe آخر داخل الصفحة (قد يكون هناك مشغل آخر)
+        val iframe = doc.selectFirst("iframe")
+        if (iframe != null) {
+            val iframeSrc = iframe.attr("src")
+            if (iframeSrc.isNotEmpty() && iframeSrc != url) {
+                // محاولة استخراج من iframe الداخلي (استدعاء ذاتي)
+                return extractGeneric(iframeSrc)
+            }
+        }
+
+        // 4. إذا لم نجد شيئاً، نعيد الرابط الأصلي كـ "رابط غير مباشر"
+        return listOf(Video(url, "رابط السيرفر", url))
+    }
+
+    // ================================== Search ==================================
+
+    override fun searchAnimeNextPageSelector(): String = "div.pagination ul.page-numbers li a.next"
+
+    override fun searchAnimeSelector(): String = "ul.pm-ul-browse-videos li"
+
+    override fun searchAnimeRequest(page: Int, query: String, filters: AnimeFilterList): Request {
+        val url = if (query.isNotBlank()) {
+            "$baseUrl/search.php?page=$page&keywords=$query"
+        } else {
+            "$baseUrl/main3?page=$page/"
+        }
+        return GET(url)
+    }
+
+    override fun searchAnimeFromElement(element: Element): SAnime {
+        return popularAnimeFromElement(element)
+    }
+
+    // ================================== Latest Updates ==================================
+
+    override fun latestUpdatesSelector(): String = "ul.pm-ul-browse-videos li"
+
+    override fun latestUpdatesNextPageSelector(): String = "div.pagination ul.page-numbers li a.next"
+
+    override fun latestUpdatesRequest(page: Int): Request =
+        GET("$baseUrl/main3?page=$page/") // الصفحة الرئيسية تعرض الأحدث
+
+    override fun latestUpdatesFromElement(element: Element): SAnime {
+        return popularAnimeFromElement(element)
+    }
+
+    // ================================== Details ==================================
+
+    override fun animeDetailsParse(document: Document): SAnime {
+        val anime = SAnime.create()
+
+        // العنوان من meta أو h1
+        anime.title = document.select("meta[property=og:title]").attr("content")
+            .ifEmpty { document.select("h1").text() }
+
+        // الصورة
+        anime.thumbnail_url = document.select("meta[property=og:image]").attr("content")
+            .ifEmpty { document.select("div.pm-video-thumb img").attr("src") }
+
+        // الوصف
+        anime.description = document.select("meta[property=og:description]").attr("content")
+            .ifEmpty { document.select("div.pm-video-description").text() }
+
+        // التصنيفات (من dl.dl-horizontal أو من الروابط)
+        val categoryLinks = document.select("dl.dl-horizontal dd a")
+        if (categoryLinks.isNotEmpty()) {
+            anime.genre = categoryLinks.joinToString(", ") { it.text() }
+        } else {
+            // محاولة من الـ breadcrumb أو من video-info
+            val breadcrumb = document.select("ul.breadcrumbNav li a")
+            if (breadcrumb.size > 1) {
+                anime.genre = breadcrumb.drop(1).joinToString(", ") { it.text() }
+            }
+        }
+
+        // تحديد الحالة: إذا كان يحتوي على "موسم" أو "حلقات" نعتبره مستمراً، وإلا مكتمل
+        val title = anime.title ?: ""
+        anime.status = if (title.contains("موسم") || title.contains("الحلقة")) {
+            SAnime.ONGOING
+        } else {
+            SAnime.COMPLETED
+        }
+
+        return anime
+    }
+
+    // ================================== Preferences ==================================
+
+    override fun setupPreferenceScreen(screen: PreferenceScreen) {
+        val videoQualityPref = ListPreference(screen.context).apply {
+            key = "preferred_quality"
+            title = "الجودة المفضلة"
+            entries = arrayOf("1080p", "720p", "480p", "360p")
+            entryValues = arrayOf("1080", "720", "480", "360")
+            setDefaultValue("720")
+            summary = "%s"
+        }
+        screen.addPreference(videoQualityPref)
+    }
+
+    // ================================== Overrides غير مستخدمة ==================================
+
+    override fun videoListSelector() = "ul.list_servers li" // غير مستخدم لأننا نتعامل مع data-embed
+
+    override fun videoFromElement(element: Element) = throw UnsupportedOperationException()
+
+    override fun videoUrlParse(document: Document) = throw UnsupportedOperationException()
+}
+```
+
+---
+
+🧠 شرح آلية العمل بالتفصيل
+
+1. جلب قائمة المحتوى الشائع (Popular)
+
+· المحدد: ul.pm-ul-browse-videos li – يستهدف كل عنصر في القائمة الرئيسية.
+· استخراج البيانات:
+  · الرابط: من div.thumbnail a (الخاصية href).
+  · العنوان: من div.caption h3 a.
+  · الصورة: من div.pm-video-thumb img (الخاصية src).
+· الترقيم: يتم عبر ?page= في الرابط (مثل main3?page=2/).
+
+2. جلب الحلقات (الأكثر تعقيدًا – دعم المسلسلات)
+
+· التعامل مع المسلسلات:
+  · نفحص الصفحة بحثًا عن div.SeasonsBox.
+  · إذا وُجد، نستخرج جميع أزرار المواسم (button.tablinks) ونحصل على معرف كل موسم (مثل Season1, Season2) من دالة openCity في خاصية onclick.
+  · لكل موسم، نبحث عن العنصر div#SeasonX (حيث X هو المعرف) ونستخرج جميع الروابط a داخله (وهي الحلقات).
+  · ننشئ كائن SEpisode لكل حلقة، مع تعيين:
+    · setUrlWithoutDomain: الرابط النسبي للصفحة.
+    · name: اسم الحلقة مع إضافة رقم الموسم (مثل "الموسم 2 الحلقة 1").
+    · episode_number: يمكن استخراج رقم الحلقة من النص (مثل "الحلقة 1") باستخدام تعبير منتظم أو بسيط، لكننا نتركه اختياريًا.
+· التعامل مع الأفلام:
+  · إذا لم يوجد div.SeasonsBox، نعتبر المحتوى فيلمًا ونعيد حلقة واحدة باسم "مشاهدة الفيلم" مع رابط الصفحة نفسه.
+
+3. استخراج روابط الفيديو (السيرفرات)
+
+· في صفحة الحلقة/الفيلم، نجد قائمة السيرفرات داخل ul.list_servers li.
+· كل عنصر يحوي الخاصية data-embed التي تحتوي على كود HTML لـ <iframe> كامل.
+· نستخدم تعبيرًا منتظمًا لاستخراج قيمة src من الـ iframe.
+· لكل سيرفر، نمرر هذا الرابط إلى دالة extractVideoFromUrl.
+
+طريقة الاستخراج (extractVideoFromUrl):
+
+· الخدمات المعروفة: نتعرف على بعض الخدمات مثل uqload ونستخدم محولات خاصة (إن وجدت)، وإلا نستخدم التحليل العام.
+· التحليل العام (extractGeneric):
+  1. بحث مباشر عن <video> أو <source> واستخراج src.
+  2. البحث في أكواد JavaScript عن كلمات مفتاحية مثل sources, file, video_url واستخراج الرابط باستخدام تعبيرات منتظمة متعددة.
+  3. البحث عن <iframe> داخلي ومحاولة الاستخراج منه (استدعاء ذاتي) – قد يكون هناك تداخل.
+  4. إذا فشل كل شيء، نعيد الرابط الأصلي كـ "رابط غير مباشر" (قد لا يعمل، لكنه أفضل من لا شيء).
+
+التوازي:
+
+· نستخدم parallelCatchingFlatMap لمعالجة السيرفرات بالتوازي، مما يسرع العملية ويتجاهل السيرفرات التالفة.
+
+4. البحث (Search)
+
+· نستخدم search.php?keywords= مع ترقيم الصفحات.
+· نفس محددات العناصر المستخدمة في الصفحة الرئيسية.
+
+5. آخر الإضافات (Latest)
+
+· نستخدم الصفحة الرئيسية main3 (التي تعرض الأحدث) مع ترقيم الصفحات، ونفس محددات العناصر.
+
+6. تفاصيل المحتوى (Details)
+
+· العنوان: من <meta property="og:title"> أو <h1>.
+· الصورة: من <meta property="og:image"> أو الصورة المصغرة.
+· الوصف: من <meta property="og:description"> أو <div.pm-video-description>.
+· التصنيفات: من <dl.dl-horizontal dd a> أو من مسار التنقل (breadcrumb).
+· الحالة: إذا كان العنوان يحتوي على "موسم" أو "الحلقة" نعتبره مستمرًا (SAnime.ONGOING)، وإلا مكتمل (SAnime.COMPLETED).
+
+7. الإعدادات (Preferences)
+
+· نضيف خيارًا لاختيار الجودة المفضلة، ولكن نظرًا لأننا نستخرج فيديو واحدًا غالبًا، قد لا يُستخدم هذا الخيار كثيرًا، لكنه موجود للتوسع.
+
+8. معالجة الأخطاء والمرونة
+
+· استخدام try-catch في extractVideoFromUrl لمنع تعطل المصدر عند فشل سيرفر معين.
+· استخدام parallelCatchingFlatMap لتجاهل السيرفرات التالفة.
+· التعامل مع الحالات المختلفة (مسلسل / فيلم) بسلاسة.
+
+---
+
+🔧 ملاحظات إضافية لتطوير المصدر
+
+· تحسين استخراج الفيديو:
+  · يمكن إضافة محولات خاصة لمواقع مثل vidaraa.cc و abyssplayer.com إذا كانت شائعة، حيث أن تحليلها العام قد لا ينجح دائمًا.
+  · بعض المواقع تحمي الفيديو بـ JavaScript معقد، قد تحتاج إلى تنفيذ JavaScript (باستخدام محرك JS في التطبيق) أو استخدام طرق بديلة.
+· ترقيم الحلقات:
+  · يمكن استخراج رقم الحلقة من النص باستخدام تعبير منتظم مثل \\d+ وإضافته إلى episode_number لترتيبها.
+· دعم المزيد من الصفحات:
+  · الموقع يحتوي على صفحات للأفلام والمسلسلات المنفصلة (مثل movies.php, all-series.php) ويمكن استخدامها في popularAnime أو latestUpdates حسب الحاجة.
+· الاعتماد على extractors جاهزة:
+  · إذا توفرت مكتبات مثل DoodExtractor أو StreamWishExtractor، يمكن ربطها عند التعرف على نطاقاتها.
+
+---
+
+✅ الخلاصة
+
+لقد أنشأت ملفًا متكاملاً لموقع z1.almeshkah.net يدعم:
+
+· الأفلام (حلقة واحدة).
+· المسلسلات (مواسم وحلقات متعددة) مع استخراج الحلقات من أقسام المواسم.
+· استخراج الفيديو من مجموعة متنوعة من السيرفرات باستخدام تحليل عام ومرن.
+· البحث، آخر الإضافات، وتفاصيل المحتوى.
+· إعدادات لاختيار الجودة المفضلة.
+
+تم تصميم الكود ليكون قابلاً للتوسع والتعديل بسهولة، مع الحرص على معالجة الأخطاء والتعامل مع الهياكل المختلفة. 🚀
