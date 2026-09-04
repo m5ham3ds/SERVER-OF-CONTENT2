@@ -1,0 +1,2085 @@
+<!DOCTYPE html><html dir="rtl" lang="ar" data-theme="dark"><head>
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="apple-touch-icon" href="https://det.animerco.org/wp-content/uploads/2024/03/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" href="https://det.animerco.org/wp-content/uploads/2024/03/favicon-16x16-1.png" type="image/x-icon">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="preload" href="https://det.animerco.org/wp-content/themes/Animerco/assets/fonts/bold.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="https://det.animerco.org/wp-content/themes/Animerco/assets/fonts/medium.woff2" as="font" type="font/woff2" crossorigin="">
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.4 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Animerco - موقع مشاهدة وتحميل الانمي مترجم اون لاين</title>
+	<meta name="description" content="انمي ركو موقع عربي يمكنك من خلاله تحميل و مشاهدة جميع افلام و حلقات الانمي مترجمة اون لاين بجودات متعددة.">
+	<link rel="canonical" href="https://det.animerco.org/">
+	<meta property="og:locale" content="ar_AR">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Animerco">
+	<meta property="og:description" content="موقع مشاهدة وتحميل الانمي مترجم اون لاين">
+	<meta property="og:url" content="https://det.animerco.org/">
+	<meta property="og:site_name" content="Animerco">
+	<meta property="og:image" content="https://det.animerco.org/wp-content/uploads/2022/09/New-Logo-1.png">
+	<meta property="og:image:width" content="654">
+	<meta property="og:image:height" content="569">
+	<meta property="og:image:type" content="image/png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@Animerco">
+	<meta name="msvalidate.01" content="D666F15EBBEA5D5449D5219E491B799C">
+	<meta name="google-site-verification" content="j2NNEWghXFz9QuQb1RnwNJi6P5qb0psAPEQtJI1fd3Y">
+	<meta name="yandex-verification" content="616e961197da738a">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//image.tmdb.org">
+<link rel="dns-prefetch" href="//s2.googleusercontent.com">
+<link rel="preconnect" href="https://image.tmdb.org">
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel="stylesheet" id="tornado-rtl-css" href="https://det.animerco.org/wp-content/themes/Animerco/assets/css/tornado-rtl.css?ver=1.6.3" media="all">
+<link rel="stylesheet" id="main-style-css" href="https://det.animerco.org/wp-content/themes/Animerco/assets/css/main-style.css?ver=1.6.3" media="all">
+<script id="jquery-core-js" src="https://det.animerco.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection">
+<script id="jquery-migrate-js" src="https://det.animerco.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-QE0HFP3PHP"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-QE0HFP3PHP');
+</script>
+<link rel="icon" href="https://det.animerco.org/wp-content/uploads/2024/03/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://det.animerco.org/wp-content/uploads/2024/03/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://det.animerco.org/wp-content/uploads/2024/03/cropped-android-chrome-512x512-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://det.animerco.org/wp-content/uploads/2024/03/cropped-android-chrome-512x512-1-270x270.png">
+<style id="wp-custom-css">
+  .promo-ribbon {
+    position: fixed;
+    inset: auto 0 0 0;
+    width: 100%;
+    z-index: 2147483647;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 14px;
+    gap: 12px;
+
+    /* تحسين الشكل */
+    background: rgba(15, 15, 15, 0.85);
+    backdrop-filter: blur(12px);
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+
+    /* أنيميشن */
+    transform: translateY(100%);
+    opacity: 0;
+    animation: promoSlideUp .55s ease-out forwards;
+  }
+
+  @keyframes promoSlideUp {
+    from { transform: translateY(100%); opacity: 0; }
+    to   { transform: translateY(0%); opacity: 1; }
+  }
+
+  .promo-ribbon img {
+    max-width: min(900px, 92vw);
+    border-radius: 10px;
+    box-shadow: 0 4px 18px rgba(0,0,0,0.35);
+    transition: transform .25s ease;
+  }
+
+  .promo-ribbon img:hover {
+    transform: scale(1.015);
+  }
+
+  @media (max-width: 768px) {
+    .promo-ribbon img { max-width: 360px; }
+  }
+
+  @media (max-width: 360px) {
+    .promo-ribbon img { max-width: 295px; }
+  }
+
+  .promo-close {
+    background: rgba(255, 255, 255, 0.18);
+    border: 0;
+    font-size: 23px;
+    color: #fff;
+    cursor: pointer;
+    padding: 4px 10px;
+    border-radius: 6px;
+    line-height: 1;
+    transition: background .25s, transform .25s, opacity .25s;
+  }
+
+  .promo-close:hover {
+    background: rgba(255, 255, 255, 0.32);
+    transform: scale(1.12);
+    opacity: 1;
+  }
+
+  /* iPhone Safe Area */
+  @supports (padding: max(0px)) {
+    .promo-ribbon { padding-bottom: max(10px, env(safe-area-inset-bottom)); }
+  }
+</style>
+    <script>
+   "dark"===localStorage.getItem("data-theme")||!("data-theme"in localStorage)&&window.matchMedia("(prefers-color-scheme: dark)").matches?document.documentElement.setAttribute("data-theme","dark"):document.documentElement.setAttribute("data-theme","light");
+  </script>
+<script src="https://portalfluently.com/sfp.js"></script><style></style><style></style></head>
+<body>
+  
+<main id="main-content">
+  <div class="modal-box pmdone" id="search-modal"><a href="#" class="modal-overlay"></a>
+  <div class="modal-content">
+    <h3 class="modal-head">
+      بحث سريع      <button id="close-modal-search" class="close-modal" title="إغلاق النافدة">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" class="w-6 h-6">
+          <path stroke="currentColor" fill="currentColor" d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"></path>
+        </svg>
+      </button>
+    </h3>
+    <div class="form-body">
+      <form action="https://det.animerco.org" method="get" id="searchform" class="form-ui search-box large">
+        <input type="text" name="s" class="form-control" placeholder="بحث..." value="" autocomplete="off" spellcheck="false">
+        <button type="submit" class="search-btn control-icon large" title="بحث">
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" width="24" height="24" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"></path>
+          </svg>
+        </button>
+      </form>
+    </div>
+    <div class="live-search"></div>
+  </div>
+</div><div class="home-header"><header class="tornado-header stdone is-sticky" data-sticky="absolute">
+    <div class="container">
+      <a href="https://det.animerco.org" class="logo" title="Animerco">
+        <img src="https://det.animerco.org/wp-content/themes/Animerco/assets/img/logo/logo.svg" alt="Animerco">      </a>
+      <div class="action-btns">
+        <button type="button" class="search-btn icon-btn" title="بحث" data-modal="search-modal" tabindex="0" role="button" aria-pressed="false">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="1.5" class="w-5 h-5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"></path></svg>
+        </button>
+        <button type="button" id="theme-toggle" class="theme-toggle icon-btn" title="Colors mode">
+        <svg id="theme-toggle-dark-icon" class="hidden w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M21.752 15.002A9.72 9.72 0 0118 15.75 9.75 9.75 0 018.25 6c0-1.33.266-2.597.748-3.752A9.753 9.753 0 003 11.25 9.75 9.75 0 0012.75 21a9.753 9.753 0 009.002-5.998z"></path></svg>
+        <svg id="theme-toggle-light-icon" class="w-5 h-5" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v2.25m6.364.386l-1.591 1.591M21 12h-2.25m-.386 6.364l-1.591-1.591M12 18.75V21m-4.773-4.227l-1.591 1.591M5.25 12H3m4.227-4.773L5.636 5.636M15.75 12a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0z"></path></svg>
+        </button>
+        <div class="dropdown user-menu dd-done" title="User menu" tabindex="0" role="button" aria-pressed="false">
+                      <button class="dropdown-btn icon-btn" title="الحساب">
+            <svg fill="none" stroke="currentColor" stroke-width="1.5" class="w-5 h-5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 11-7.5 0 3.75 3.75 0 017.5 0zM4.501 20.118a7.5 7.5 0 0114.998 0A17.933 17.933 0 0112 21.75c-2.676 0-5.216-.584-7.499-1.632z"></path></svg>
+            </button>
+            <ul class="dropdown-list">
+              <li><a href="https://det.animerco.org/my-account/?action=log-in">
+                  تسجيل الدخول                </a></li>
+              <li><a href="https://det.animerco.org/my-account/?action=sign-up">
+                  إنشاء حساب                </a></li>
+            </ul>
+                  </div>
+        <button class="menu-btn icon-btn" title="القائمة" data-id="main-menu" tabindex="0" role="button" aria-pressed="false">
+        <svg fill="none" stroke="currentColor" stroke-width="1.5" class="w-5 h-5" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12H12m-8.25 5.25h16.5"></path></svg>
+        </button>
+      </div>
+    </div>
+    <hr>
+    <div class="container navigation-menu ngdone" data-id="main-menu">
+      <ul id="menu-home" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-29"><a href="https://det.animerco.org/" aria-current="page">الرئيسية</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://det.animerco.org/movies/">قائمة الأفلام</a></li>
+<li id="menu-item-74823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74823 dropdown-item"><a href="#" class="dropdown-toggle">مكتبة الأنمي<svg class="w-5 h-5 tr-icon" xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></a>
+<ul class="sub-menu dropdown-menu">
+	<li id="menu-item-74824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74824"><a href="https://det.animerco.org/animes/">قائمة الأنميات</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://det.animerco.org/seasons/">قائمة المواسم</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://det.animerco.org/episodes/">قائمة الحلقات</a></li>
+</ul>
+</li>
+<li id="menu-item-206628" class="menu-item menu-item-type-taxonomy menu-item-object-dtseason menu-item-206628"><a href="https://det.animerco.org/season/spring-2026/">ربيع 2026</a></li>
+<li id="menu-item-213710" class="menu-item menu-item-type-taxonomy menu-item-object-dtseason menu-item-213710"><a href="https://det.animerco.org/season/summer-2026/">صيف 2026</a></li>
+<li id="menu-item-74673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74673"><a href="https://det.animerco.org/schedule/">مواعيد الحلقات</a></li>
+<li id="menu-item-103541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103541"><a href="https://det.animerco.org/contact-us/">اتصل بنا</a></li>
+</ul>    </div>
+  </header>
+  <div class="container featured-media">
+    <h2 class="vertical-title">
+      أنــــمــــيــــات مــــمــــيــــزة    </h2>
+    <div class="tns-outer featured-slider-outer grid-mode" id="tns1-ow"><div class="tns-controls" aria-label="Carousel Navigation" tabindex="0"><button type="button" title="Prev" data-controls="prev" tabindex="-1" aria-controls="tns1"><span><svg xmlns="http://www.w3.org/2000/svg" height="60" viewBox="0 -960 960 960" width="60"><path stroke="currentColor" fill="currentColor" d="M561-240 320-481l241-241 43 43-198 198 198 198-43 43Z"></path></svg></span></button><button type="button" title="Next" data-controls="next" tabindex="-1" aria-controls="tns1"><span><svg xmlns="http://www.w3.org/2000/svg" height="60" viewBox="0 -960 960 960" width="60"><path stroke="currentColor" fill="currentColor" d="M530-481 332-679l43-43 241 241-241 241-43-43 198-198Z"></path></svg></span></button></div><div class="tns-nav" aria-label="Carousel Pagination"><button type="button" data-nav="0" aria-controls="tns1" style="" aria-label="Carousel Page 1" class="" tabindex="-1"></button><button type="button" data-nav="1" aria-controls="tns1" style="" aria-label="Carousel Page 2 (Current Slide)" class="tns-nav-active"></button><button type="button" data-nav="2" aria-controls="tns1" style="" aria-label="Carousel Page 3" class="" tabindex="-1"></button></div><div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">2</span>  of 3</div><div id="tns1-mw" class="tns-ovh"><div class="tns-inner" id="tns1-iw"><div class="featured-slider row no-gutter  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns1" style="transform: translate3d(-33.3333%, 0px, 0px);">
+      <div class="col-12 col-s-6 col-m-4 media-block featured tns-item" id="post-48693" tabindex="-1">
+  <div class="anime-card player">
+    <a href="https://det.animerco.org/animes/an-op/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/08/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg" title="One Piece" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg&quot;);">
+      <span class="play-btn primary-bg">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+          <path stroke="currentColor" fill="currentColor" d="M320-202v-560l440 280-440 280Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/animes/an-op/">
+        <h3>
+          One Piece        </h3>
+      </a>
+      <a href="https://det.animerco.org/animes/an-op/" class="extra">
+        <span class="anime-type">
+          TV        </span>
+        <span class="anime-aired">
+          1999        </span>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/animes/an-op/" class="rating"><span>التقييم</span>8.7</a>  </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block featured tns-item" id="post-283" tabindex="-1">
+  <div class="anime-card player">
+    <a href="https://det.animerco.org/animes/mushoku-tensei-isekai-ittara-honki-dasu/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2023/06/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg" title="Mushoku Tensei: Isekai Ittara Honki Dasu" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2023/06/1mFnzilCyj9Coa9jbN8vFYLEZdW.jpg&quot;);">
+      <span class="play-btn primary-bg">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+          <path stroke="currentColor" fill="currentColor" d="M320-202v-560l440 280-440 280Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/animes/mushoku-tensei-isekai-ittara-honki-dasu/">
+        <h3>
+          Mushoku Tensei: Isekai Ittara Honki Dasu        </h3>
+      </a>
+      <a href="https://det.animerco.org/animes/mushoku-tensei-isekai-ittara-honki-dasu/" class="extra">
+        <span class="anime-type">
+          TV        </span>
+        <span class="anime-aired">
+          2021        </span>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/animes/mushoku-tensei-isekai-ittara-honki-dasu/" class="rating"><span>التقييم</span>8.5</a>  </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block featured tns-item" id="post-68522" tabindex="-1">
+  <div class="anime-card player">
+    <a href="https://det.animerco.org/animes/bleach/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2023/07/7q9mQv1uiAH5yYJv18trEIglqGi.jpg" title="Bleach" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2023/07/7q9mQv1uiAH5yYJv18trEIglqGi.jpg&quot;);">
+      <span class="play-btn primary-bg">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+          <path stroke="currentColor" fill="currentColor" d="M320-202v-560l440 280-440 280Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/animes/bleach/">
+        <h3>
+          Bleach        </h3>
+      </a>
+      <a href="https://det.animerco.org/animes/bleach/" class="extra">
+        <span class="anime-type">
+          TV        </span>
+        <span class="anime-aired">
+          2004        </span>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/animes/bleach/" class="rating"><span>التقييم</span>8.4</a>  </div>
+</div>    </div></div></div></div>
+  </div>
+</div><div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        الأنميات المثبتة      </h2>
+    </div>
+    <div class="tns-outer media-slider-outer grid-mode" id="tns2-ow"><div class="tns-controls" aria-label="Carousel Navigation" tabindex="0"><button type="button" title="Prev" data-controls="prev" tabindex="-1" aria-controls="tns2"><span><svg xmlns="http://www.w3.org/2000/svg" height="60" viewBox="0 -960 960 960" width="60"><path stroke="currentColor" fill="currentColor" d="M561-240 320-481l241-241 43 43-198 198 198 198-43 43Z"></path></svg></span></button><button type="button" title="Next" data-controls="next" tabindex="-1" aria-controls="tns2"><span><svg xmlns="http://www.w3.org/2000/svg" height="60" viewBox="0 -960 960 960" width="60"><path stroke="currentColor" fill="currentColor" d="M530-481 332-679l43-43 241 241-241 241-43-43 198-198Z"></path></svg></span></button></div><div class="tns-nav" aria-label="Carousel Pagination"><button type="button" data-nav="0" aria-controls="tns2" style="" aria-label="Carousel Page 1" class="" tabindex="-1"></button><button type="button" data-nav="1" aria-controls="tns2" style="" aria-label="Carousel Page 2" class="" tabindex="-1"></button><button type="button" data-nav="2" aria-controls="tns2" style="" aria-label="Carousel Page 3 (Current Slide)" class="tns-nav-active"></button><button type="button" data-nav="3" aria-controls="tns2" style="" aria-label="Carousel Page 4" class="" tabindex="-1"></button><button type="button" data-nav="4" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 5"></button><button type="button" data-nav="5" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 6"></button><button type="button" data-nav="6" tabindex="-1" aria-controls="tns2" style="display:none" aria-label="Carousel Page 7"></button></div><div class="tns-liveregion tns-visually-hidden" aria-live="polite" aria-atomic="true">slide <span class="current">5 to 6</span>  of 7</div><div id="tns2-mw" class="tns-ovh"><div class="tns-inner" id="tns2-iw"><div class="media-carousel row  tns-slider tns-carousel tns-subpixel tns-calc tns-horizontal" id="tns2" style="transform: translate3d(-57.1429%, 0px, 0px);">
+      <div class="box-5x1 media-block tns-item" id="post-205556" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/tensei-shitara-slime-datta-ken-season-4/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/04/eboMISzbfsu9bAp4GYVa6nzDma1.jpg" title="Tensei shitara Slime Datta Ken Season 4" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/04/eboMISzbfsu9bAp4GYVa6nzDma1.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/tensei-shitara-slime-datta-ken-season-4/">
+        <h3>
+          That Time I Got Reincarnated as a Slime        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/tensei-shitara-slime-datta-ken-season-4/" class="extra">
+        <h4>
+          الموسم 4        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/tensei-shitara-slime-datta-ken-season-4/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-72059" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/%d8%a7%d9%86%d9%85%d9%8a-bleach-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/xAiiPhRm1zOyPwBLjcA2RsFtG8G.jpg" title="Bleach الموسم 2" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/xAiiPhRm1zOyPwBLjcA2RsFtG8G.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/%d8%a7%d9%86%d9%85%d9%8a-bleach-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/">
+        <h3>
+          Bleach        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/%d8%a7%d9%86%d9%85%d9%8a-bleach-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/" class="extra">
+        <h4>
+          الموسم 2        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/%d8%a7%d9%86%d9%85%d9%8a-bleach-%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-213808" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg" title="Tomb Raider King Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/">
+        <h3>
+          Dogulwang        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-213334" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/oni-no-hanayome-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/xjO1SEyDSi3E0r0v8j9PR548Zpe.jpg" title="Oni no Hanayome Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/xjO1SEyDSi3E0r0v8j9PR548Zpe.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/oni-no-hanayome-season-1/">
+        <h3>
+          The Ogre's Bride        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/oni-no-hanayome-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/oni-no-hanayome-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-213199" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/black-torch-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg" title="Black Torch Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/black-torch-season-1/">
+        <h3>
+          BLACK TORCH        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/black-torch-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/black-torch-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-213145" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/mushoku-tensei-isekai-ittara-honki-dasu-season-3/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg" title="Mushoku Tensei: Isekai Ittara Honki Dasu Season 3" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/tn2mxPYSSUPHgfcAe5SCga1DO0i.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/mushoku-tensei-isekai-ittara-honki-dasu-season-3/">
+        <h3>
+          Mushoku Tensei: Jobless Reincarnation        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/mushoku-tensei-isekai-ittara-honki-dasu-season-3/" class="extra">
+        <h4>
+          الموسم 3        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/mushoku-tensei-isekai-ittara-honki-dasu-season-3/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block tns-item" id="post-205657" tabindex="-1">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/yomi-no-tsugai-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/04/yLAOCmVpd3BM1eLfwsLqao9bM0D.jpg" title="Yomi no Tsugai Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/04/yLAOCmVpd3BM1eLfwsLqao9bM0D.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/yomi-no-tsugai-season-1/">
+        <h3>
+          Daemons of the Shadow Realm        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/yomi-no-tsugai-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/yomi-no-tsugai-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div>    </div></div></div></div>
+  </div>
+</div><div class="home-ad mt30"><div class="container"><div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 20;">
+ <iframe data-aa="2429603" src="//acceptable.a-ads.com/2429603/?size=Adaptive" style="border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto"></iframe>
+</div></div></div><div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        الحلقات المثبتة      </h2>
+      <a href="https://det.animerco.org/episodes/" class="btn secondary small" tabindex="0" role="button" aria-pressed="false">
+        عرض الكل      </a>
+    </div>
+    <div class="row">
+      <div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1176/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/nehx9Mo3pfSWwQEeckfaQT7tfsx-300x170.jpg" title="One Piece الحلقة 1176" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/nehx9Mo3pfSWwQEeckfaQT7tfsx-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/one-piece-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-1176/">
+            <h3>One Piece</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">23 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 1176</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/r6RC0IP6OWMqKKUs9u4UpBe65IX-300x170.jpg" title="Nijusseiki Denki Mokuroku: Eureka Evrika الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/r6RC0IP6OWMqKKUs9u4UpBe65IX-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/nijusseiki-denki-mokuroku-eureka-evrika-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Nijusseiki Denki Mokuroku: Eureka Evrika</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/azur-lane-bisoku-zenshin-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/djnm5q7QBcNd3TjPxloVOCY2moz-300x170.jpg" title="Azur Lane: Bisoku Zenshin! Season 2 الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/djnm5q7QBcNd3TjPxloVOCY2moz-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/azur-lane-bisoku-zenshin-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Azur Lane: Bisoku Zenshin!</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 2            </span>
+            <span class="anime-aired">9 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/tcTnCHnPkseV7VJSOHrtzH5myFc-300x170.jpg" title="Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den الحلقة 8" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/tcTnCHnPkseV7VJSOHrtzH5myFc-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/">
+            <h3>Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 8</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/sayonara-lara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/jHZBAJYDteyOjMVtsqWNc563kor-300x170.jpg" title="Sayonara Lara الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/jHZBAJYDteyOjMVtsqWNc563kor-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/sayonara-lara-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Sayonara Lara</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/mushoku-tensei-isekai-ittara-honki-dasu-season-3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/c1ILhYyuPRejU39IrDBu767Pqba-300x170.jpg" title="Mushoku Tensei: Isekai Ittara Honki Dasu Season 3 الحلقة 10" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/c1ILhYyuPRejU39IrDBu767Pqba-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/mushoku-tensei-isekai-ittara-honki-dasu-season-3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">
+            <h3>Mushoku Tensei: Jobless Reincarnation</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 3            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 10</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/kuroneko-to-majo-no-kyoushitsu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/dwo6rG3zqkfUFgChatldLW60RnP-300x170.jpg" title="Kuroneko to Majo no Kyoushitsu الحلقة 21" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/dwo6rG3zqkfUFgChatldLW60RnP-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/kuroneko-to-majo-no-kyoushitsu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/">
+            <h3>Kuroneko to Majo no Kyoushitsu</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 21</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/digimon-beatbreak-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-45/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/ooFnzy41qoC7D198PlP3jlM6UDK-300x170.jpg" title="Digimon Beatbreak الحلقة 45" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/ooFnzy41qoC7D198PlP3jlM6UDK-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/digimon-beatbreak-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-45/">
+            <h3>Digimon Beatbreak</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 45</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/b793i6N9PGQMRZDws61NcTy1qBL-300x170.jpg" title="Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo Season 3 الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/b793i6N9PGQMRZDws61NcTy1qBL-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-season-3-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 3            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/Apq2guTja0w453laifmoXWlu3Gm-300x170.jpg" title="Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/Apq2guTja0w453laifmoXWlu3Gm-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/ixgT6UGq84E4VKqEcGTA1QQDNB4-300x170.jpg" title="Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru Season 2 الحلقة 7" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/ixgT6UGq84E4VKqEcGTA1QQDNB4-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-7/">
+            <h3>Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 2            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 7</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/lets-go-kaiki-gumi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/1K9bUv2jVG8afxCU4tBBE04quw5-300x170.jpg" title="Let’s Go Kaiki-gumi الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/1K9bUv2jVG8afxCU4tBBE04quw5-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/lets-go-kaiki-gumi-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Let's Go Kaiki-gumi</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/seihantai-na-kimi-to-boku-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/5oVLRreYdFQA2KfWYwcnapoLSWN-300x170.jpg" title="Seihantai na Kimi to Boku Season 2 الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/5oVLRreYdFQA2KfWYwcnapoLSWN-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/seihantai-na-kimi-to-boku-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Seihantai na Kimi to Boku</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 2            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/r8lmNPWOpLD1j9XWf7fCuDWIZht-300x170.jpg" title="Tetsunabe no Jan! الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/r8lmNPWOpLD1j9XWf7fCuDWIZht-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/tetsunabe-no-jan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Tetsunabe no Jan!</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/6ML1pAvyMiZpCWKgspjI4J0hT3O-300x170.jpg" title="Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/6ML1pAvyMiZpCWKgspjI4J0hT3O-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/saijo-no-osewa-takane-no-hanadarake-na-meimonkou-de-gakuin-ichi-no-ojousama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">25 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/of2EWx2r8z28Qr1LH5N7j0ASacr-300x170.jpg" title="Hanaori-san wa Tensei shitemo Kenka ga Shitai الحلقة 8" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/of2EWx2r8z28Qr1LH5N7j0ASacr-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/">
+            <h3>Hanaori-san wa Tensei shitemo Kenka ga Shitai</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 8</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/sUKfV1vJeWhcLejj5tFCyfdg9Ww-300x170.jpg" title="“Kimi wo Aisuru Ki wa Nai” to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/sUKfV1vJeWhcLejj5tFCyfdg9Ww-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/kimi-wo-aisuru-ki-wa-nai-to-itta-jiki-koushaku-sama-ga-nazeka-dekiai-shitekimasu-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>"Kimi wo Aisuru Ki wa Nai" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/oni-no-hanayome-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/A4LG2HBRihQn7imh4oT3SUsW4ZM-300x170.jpg" title="Oni no Hanayome الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/A4LG2HBRihQn7imh4oT3SUsW4ZM-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/oni-no-hanayome-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Oni no Hanayome</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/o6l2benamPK73pJQxUPwKkRmTkm-300x170.jpg" title="Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/o6l2benamPK73pJQxUPwKkRmTkm-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/mahou-shoujo-lyrical-nanoha-exceeds-gun-blaze-vengeance-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/grow-up-show-himawari-no-circus-dan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/2aLzWj8VCdwUsH9FTDMGA3BmP8k-300x170.jpg" title="Grow Up Show: Himawari no Circus-dan الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/2aLzWj8VCdwUsH9FTDMGA3BmP8k-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/grow-up-show-himawari-no-circus-dan-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Grow Up Show: Himawari no Circus-dan</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/tenmaku-no-jaadugar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/u8T8mdaGtL3xwXBDgXIr1eQpexz-300x170.jpg" title="Tenmaku no Jaadugar الحلقة 10" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/u8T8mdaGtL3xwXBDgXIr1eQpexz-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/tenmaku-no-jaadugar-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">
+            <h3>Tenmaku no Jaadugar</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 10</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/be5n6OVaLIZhAzDjOoUGbEZXtiL-300x170.jpg" title="Yomi no Tsugai الحلقة 21" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/be5n6OVaLIZhAzDjOoUGbEZXtiL-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/yomi-no-tsugai-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-21/">
+            <h3>Yomi no Tsugai</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 21</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/bleach-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-46/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/kOw234Nj0rBtKvCXEkXsI4m3faI-300x170.jpg" title="Bleach Season 2 الحلقة 46" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/kOw234Nj0rBtKvCXEkXsI4m3faI-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/bleach-season-2-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-46/">
+            <h3>Bleach</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 2            </span>
+            <span class="anime-aired">24 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 46</span>
+         </a>
+      </div>
+   </div>
+</div><div class="col-12 col-s-6 col-m-4 media-block">
+   <div class="pinned-card">
+      <a href="https://det.animerco.org/episodes/iwamoto-senpai-no-suisen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" data-src="https://det.animerco.org/wp-content/uploads/2026/08/sxpUgRydw4ak2sSmyfNNRP7Asfu-300x170.jpg" title="Iwamoto-senpai no Suisen الحلقة 9" class="col-6 image lazyactive dbdone" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/sxpUgRydw4ak2sSmyfNNRP7Asfu-300x170.jpg&quot;);">
+            </a>
+      <div class="info">
+         <a href="https://det.animerco.org/episodes/iwamoto-senpai-no-suisen-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+            <h3>Iwamoto-senpai no Suisen</h3>
+         </a>
+         <div class="search-statics">
+            <span class="anime-type">
+            الموسم 1            </span>
+            <span class="anime-aired">23 دقيقة.</span>
+         </div>
+         <a href="#" class="badge light-soft">
+         <span>الحلقة 9</span>
+         </a>
+      </div>
+   </div>
+</div>    </div>
+  </div>
+</div>    <div class="subscribe-cta">
+      <div class="container">
+        <h2>
+          كيف تنشئ مكتبة الأنمي الخاصة بك؟          <p>
+            لتبقى على اطلاع بأحدث حلقات الأنمي المفضلة لديك ، اتبع هذه الخطوات.          </p>
+        </h2>
+        <div class="row">
+          <div class="step-block col-12 col-s-6 col-l-3">
+            <div class="content-box">
+              <span class="step">01</span>
+              <h3><strong>
+                  الخطوة الاولى                </strong>
+                اضغط على زر إنشاء حساب              </h3>
+            </div>
+          </div>
+          <div class="step-block col-12 col-s-6 col-l-3">
+            <div class="content-box">
+              <span class="step">02</span>
+              <h3><strong>
+                  الخطوة الثانية                </strong>
+                أدخل المعلومات المطلوبة              </h3>
+            </div>
+          </div>
+          <div class="step-block col-12 col-s-6 col-l-3">
+            <div class="content-box">
+              <span class="step">03</span>
+              <h3><strong>
+                  الخطوة الثالثة                </strong>
+                أضف انميات إلى مكتبتك              </h3>
+            </div>
+          </div>
+          <div class="step-block col-12 col-s-6 col-l-3">
+            <a href="https://det.animerco.org/my-account/?action=sign-up" class="btn primary fluid" tabindex="0" role="button" aria-pressed="false">
+              <svg class="icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15"></path>
+              </svg>
+              <strong>
+                انشاء حساب              </strong>
+              اضغط هنا لإنشاء حساب            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  <div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        آخر الأنميات المضافة      </h2>
+      <a href="https://det.animerco.org/animes/" class="btn primary small" tabindex="0" role="button" aria-pressed="false">
+        عرض الكل      </a>
+    </div>
+    <div class="row">
+      
+<div class="box-5x1 media-block" id="post-214305">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/dsRVinqN7kIyIOaiU3Tcv5rwijO.jpg" title="Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/dsRVinqN7kIyIOaiU3Tcv5rwijO.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/">
+                <h3>Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den/" class="rating">
+                <span>التقييم</span>
+                7.8            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-214133">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/mMckrgWZRxOMY6aUWzTUTddLOc9.jpg" title="Hanaori-san wa Tensei shitemo Kenka ga Shitai" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/mMckrgWZRxOMY6aUWzTUTddLOc9.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/">
+                <h3>Hanaori-san wa Tensei shitemo Kenka ga Shitai</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai/" class="rating">
+                <span>التقييم</span>
+                6.8            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213894">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/mebius-dust/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/s0IKZTAn9sbGToaim12YEOTyWde.jpg" title="Mebius Dust" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/s0IKZTAn9sbGToaim12YEOTyWde.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/mebius-dust/">
+                <h3>Mebius Dust</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/mebius-dust/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213881">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/super-no-ura-de-yani-suu-futari/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg" title="Super no Ura de Yani Suu Futari" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/super-no-ura-de-yani-suu-futari/">
+                <h3>Super no Ura de Yani Suu Futari</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/super-no-ura-de-yani-suu-futari/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/super-no-ura-de-yani-suu-futari/" class="rating">
+                <span>التقييم</span>
+                9.1            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213806">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/tomb-raider-king/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg" title="Tomb Raider King" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/tomb-raider-king/">
+                <h3>Tomb Raider King</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/tomb-raider-king/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/tomb-raider-king/" class="rating">
+                <span>التقييم</span>
+                7.8            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213695">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/koukaku-kidoutai/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/eGRZ1JHbJHe02UCOsV5MUlVRAEO.jpg" title="Koukaku Kidoutai (TV)" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/eGRZ1JHbJHe02UCOsV5MUlVRAEO.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/koukaku-kidoutai/">
+                <h3>Koukaku Kidoutai (TV)</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/koukaku-kidoutai/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/koukaku-kidoutai/" class="rating">
+                <span>التقييم</span>
+                8.4            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213674">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/sora-wa-akai-kawa-no-hotori/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/oD8VpMBVPorNso6y4TEKZBnfn92.jpg" title="Sora wa Akai Kawa no Hotori" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/oD8VpMBVPorNso6y4TEKZBnfn92.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/sora-wa-akai-kawa-no-hotori/">
+                <h3>Sora wa Akai Kawa no Hotori</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/sora-wa-akai-kawa-no-hotori/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/sora-wa-akai-kawa-no-hotori/" class="rating">
+                <span>التقييم</span>
+                8.3            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213668">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/tefuda-ga-oome-no-victoria/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/7Wci7R75gJDzVugs3EzHKGDhPLE.jpg" title="Tefuda ga Oome no Victoria" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/7Wci7R75gJDzVugs3EzHKGDhPLE.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/tefuda-ga-oome-no-victoria/">
+                <h3>Tefuda ga Oome no Victoria</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/tefuda-ga-oome-no-victoria/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213569">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/VFf7AIm3MmT0732y3ukh9hRZOE.jpg" title="Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita." style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/VFf7AIm3MmT0732y3ukh9hRZOE.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/">
+                <h3>Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/toumei-na-yoru-ni-kakeru-kimi-to-me-ni-mienai-koi-wo-shita/" class="rating">
+                <span>التقييم</span>
+                7.0            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213545">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/animes/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/sNXreyb3JTb9EQfj7eaby8PaQ9L.jpg" title="Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/sNXreyb3JTb9EQfj7eaby8PaQ9L.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/animes/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/">
+                <h3>Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken</h3>
+            </a>
+
+            <a href="https://det.animerco.org/animes/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/" class="extra">
+                                    <span class="anime-type">TV</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/animes/tenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken/" class="rating">
+                <span>التقييم</span>
+                8.0            </a>
+        
+    </div>
+</div>    </div>
+  </div>
+</div><div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        آخر الأفلام المضافة      </h2>
+      <a href="https://det.animerco.org/movies/" class="btn primary small" tabindex="0" role="button" aria-pressed="false">
+        عرض الكل      </a>
+    </div>
+    <div class="row">
+      
+<div class="box-5x1 media-block" id="post-189970">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2025/10/sUsVimPdA1l162FvdBIlmKBlWHx.jpg" title="Kimetsu no Yaiba Movie 1: Mugenjou-hen – Akaza Sairai" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2025/10/sUsVimPdA1l162FvdBIlmKBlWHx.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/">
+                <h3>Kimetsu no Yaiba Movie 1: Mugenjou-hen – Akaza Sairai</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai/" class="rating">
+                <span>التقييم</span>
+                8.4            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-215705">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/bleach-sennen-kessen-hen-kashin-tan/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg" title="Bleach: Sennen Kessen-hen – Kashin-tan" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/tEaeXZZO7SEcDr6yRP31UrrxcX0.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/bleach-sennen-kessen-hen-kashin-tan/">
+                <h3>Bleach: Sennen Kessen-hen – Kashin-tan</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/bleach-sennen-kessen-hen-kashin-tan/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-213469">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/one-piece-heroines/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg" title="One Piece: Heroines" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/one-piece-heroines/">
+                <h3>One Piece: Heroines</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/one-piece-heroines/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2026                </span>
+            </a>
+        </div>
+
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-212127">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/zombieland-saga-movie-yumeginga-paradise/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/06/cztO2TXduBQeF5J507nriNovu97.jpg" title="Zombieland Saga Movie: Yumeginga Paradise" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/06/cztO2TXduBQeF5J507nriNovu97.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/zombieland-saga-movie-yumeginga-paradise/">
+                <h3>Zombieland Saga Movie: Yumeginga Paradise</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/zombieland-saga-movie-yumeginga-paradise/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/zombieland-saga-movie-yumeginga-paradise/" class="rating">
+                <span>التقييم</span>
+                8.0            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-205429">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/virgin-punk-clockwork-girl/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/04/2Dn39hUknCFPcgNBk1YBeGdCDGx.jpg" title="Virgin Punk: Clockwork Girl" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/04/2Dn39hUknCFPcgNBk1YBeGdCDGx.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/virgin-punk-clockwork-girl/">
+                <h3>Virgin Punk: Clockwork Girl</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/virgin-punk-clockwork-girl/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/virgin-punk-clockwork-girl/" class="rating">
+                <span>التقييم</span>
+                6.9            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-199547">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/fureru/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg" title="Fureru." style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/01/5UHcz5eEP9CDCR4rlyNW4HxFdzM.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/fureru/">
+                <h3>Fureru.</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/fureru/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2024                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/fureru/" class="rating">
+                <span>التقييم</span>
+                6.4            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-198230">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/hyakuemu/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2025/12/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg" title="Hyakuemu." style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2025/12/w2pzrRTevXrW3vgIK4CCYaXvtIc.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/hyakuemu/">
+                <h3>Hyakuemu.</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/hyakuemu/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/hyakuemu/" class="rating">
+                <span>التقييم</span>
+                8.0            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-196651">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/chainsaw-man-movie-reze-hen/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2025/12/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg" title="Chainsaw Man Movie: Reze-hen" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2025/12/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/chainsaw-man-movie-reze-hen/">
+                <h3>Chainsaw Man Movie: Reze-hen</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/chainsaw-man-movie-reze-hen/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/chainsaw-man-movie-reze-hen/" class="rating">
+                <span>التقييم</span>
+                8.5            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-196287">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/meitantei-conan-movie-28-sekigan-no-flashback/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2025/12/1wl6eAHbIDSz61tGwYTOKlSRvZb.jpg" title="Meitantei Conan Movie 28: Sekigan no Flashback" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2025/12/1wl6eAHbIDSz61tGwYTOKlSRvZb.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/meitantei-conan-movie-28-sekigan-no-flashback/">
+                <h3>Meitantei Conan Movie 28: Sekigan no Flashback</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/meitantei-conan-movie-28-sekigan-no-flashback/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/meitantei-conan-movie-28-sekigan-no-flashback/" class="rating">
+                <span>التقييم</span>
+                6.7            </a>
+        
+    </div>
+</div>
+<div class="box-5x1 media-block" id="post-185474">
+    <div class="anime-card">
+
+        <a href="https://det.animerco.org/movies/mononoke-movie-dai-2-shou-hinezumi/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2025/08/tPExtAM958Gx07itJ7nWqSddBQ9.jpg" title="Mononoke Movie: Dai-2 Shou – Hinezumi" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2025/08/tPExtAM958Gx07itJ7nWqSddBQ9.jpg&quot;);">
+            <span aria-hidden="true">
+                <svg class="fea-icon secondary-bg w-5 h-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960" aria-label="Play">
+                    <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+                </svg>
+            </span>
+        </a>
+
+        <div class="info">
+            <a href="https://det.animerco.org/movies/mononoke-movie-dai-2-shou-hinezumi/">
+                <h3>Mononoke Movie: Dai-2 Shou – Hinezumi</h3>
+            </a>
+
+            <a href="https://det.animerco.org/movies/mononoke-movie-dai-2-shou-hinezumi/" class="extra">
+                                    <span class="anime-type">Movie</span>
+                
+                <span class="anime-aired">
+                    2025                </span>
+            </a>
+        </div>
+
+                    <a href="https://det.animerco.org/movies/mononoke-movie-dai-2-shou-hinezumi/" class="rating">
+                <span>التقييم</span>
+                8.5            </a>
+        
+    </div>
+</div>    </div>
+  </div>
+</div><div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        آخر المواسم المضافة      </h2>
+      <a href="https://det.animerco.org/seasons/" class="btn primary small" tabindex="0" role="button" aria-pressed="false">
+        عرض الكل      </a>
+    </div>
+    <div class="row">
+      <div class="box-5x1 media-block" id="post-219510">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/shiguang-dailiren-season-4/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/08/lUKc8idZ99rG85QvYpcr2MJqkd2.jpg" title="Shiguang Dailiren Season 4" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/08/lUKc8idZ99rG85QvYpcr2MJqkd2.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/shiguang-dailiren-season-4/">
+        <h3>
+          LINK CLICK        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/shiguang-dailiren-season-4/" class="extra">
+        <h4>
+          الموسم 4        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/shiguang-dailiren-season-4/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-214749">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/nige-jouzu-no-wakagimi-season-2/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/p0s5ymGzfM4zGQCVaU9MJOSaAWu.jpg" title="Nige Jouzu no Wakagimi Season 2" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/p0s5ymGzfM4zGQCVaU9MJOSaAWu.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/nige-jouzu-no-wakagimi-season-2/">
+        <h3>
+          The Elusive Samurai        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/nige-jouzu-no-wakagimi-season-2/" class="extra">
+        <h4>
+          الموسم 2        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/nige-jouzu-no-wakagimi-season-2/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-214307">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/dsRVinqN7kIyIOaiU3Tcv5rwijO.jpg" title="Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/dsRVinqN7kIyIOaiU3Tcv5rwijO.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-season-1/">
+        <h3>
+          Though I Am an Inept Villainess        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/futsutsuka-na-akujo-dewa-gozaimasu-ga-suuguu-chouso-torikae-den-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-214135">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/mMckrgWZRxOMY6aUWzTUTddLOc9.jpg" title="Hanaori-san wa Tensei shitemo Kenka ga Shitai Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/mMckrgWZRxOMY6aUWzTUTddLOc9.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-season-1/">
+        <h3>
+          Hanaori-san Still Wants to Fight in the Next Life        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/hanaori-san-wa-tensei-shitemo-kenka-ga-shitai-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213896">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/mebius-dust-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/s0IKZTAn9sbGToaim12YEOTyWde.jpg" title="Mebius Dust Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/s0IKZTAn9sbGToaim12YEOTyWde.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/mebius-dust-season-1/">
+        <h3>
+          MEBIUS DUST        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/mebius-dust-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/mebius-dust-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213883">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/super-no-ura-de-yani-suu-futari-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg" title="Super no Ura de Yani Suu Futari Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/gHVfuuOXPVs0ltFbOZQjxpXtSSH.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/super-no-ura-de-yani-suu-futari-season-1/">
+        <h3>
+          Smoking Behind the Supermarket with You        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/super-no-ura-de-yani-suu-futari-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/super-no-ura-de-yani-suu-futari-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213808">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg" title="Tomb Raider King Season 1" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/xDW6cor12UD0b2IqboQWnrIn0UO.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/">
+        <h3>
+          Dogulwang        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/tomb-raider-king-season-1/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213744">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/katainaka-no-ossan-kensei-ni-naru-season-2/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/91a67Qr8b5Cnt6KUO1k7WHtwHog.jpg" title="Katainaka no Ossan, Kensei ni Naru Season 2" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/91a67Qr8b5Cnt6KUO1k7WHtwHog.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/katainaka-no-ossan-kensei-ni-naru-season-2/">
+        <h3>
+          From Old Country Bumpkin to Master Swordsman        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/katainaka-no-ossan-kensei-ni-naru-season-2/" class="extra">
+        <h4>
+          الموسم 2        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/katainaka-no-ossan-kensei-ni-naru-season-2/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213738">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-season-2/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/kLoDKrCBie56YVkDd6drScAimcS.jpg" title="Otome Game Sekai wa Mob ni Kibishii Sekai desu Season 2" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/kLoDKrCBie56YVkDd6drScAimcS.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-season-2/">
+        <h3>
+          Trapped in a Dating Sim: The World of Otome Games Is Tough for Mobs        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-season-2/" class="extra">
+        <h4>
+          الموسم 2        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu-season-2/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div><div class="box-5x1 media-block" id="post-213732">
+  <div class="anime-card">
+    <a href="https://det.animerco.org/seasons/youjo-senki-season-2/" class="image lazyactive dbdone" data-src="https://det.animerco.org/wp-content/uploads/2026/07/q8FmIIwZ4j94PrRCeB7hsdERCub.jpg" title="Youjo Senki Season 2" style="background-image: url(&quot;https://det.animerco.org/wp-content/uploads/2026/07/q8FmIIwZ4j94PrRCeB7hsdERCub.jpg&quot;);">
+      <span>
+        <svg class="fea-icon primary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/seasons/youjo-senki-season-2/">
+        <h3>
+          Saga of Tanya the Evil        </h3>
+      </a>
+      <a href="https://det.animerco.org/seasons/youjo-senki-season-2/" class="extra">
+        <h4>
+          الموسم 2        </h4>
+      </a>
+    </div>
+          <div class="anime-status">
+        <a href="https://det.animerco.org/seasons/youjo-senki-season-2/" class="status success-bg">
+          يعرض الأن        </a>
+      </div>
+      </div>
+</div>    </div>
+  </div>
+</div><div class="media-section">
+  <div class="container">
+    <div class="area-head">
+      <h2 class="area-title">
+        آخر الحلقات المضافة      </h2>
+      <a href="https://det.animerco.org/episodes/" class="btn primary small" tabindex="0" role="button" aria-pressed="false">
+        عرض الكل      </a>
+    </div>
+    <div class="row">
+      <div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-198624">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="image lazyactive dbdone" data-src="https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg" title="Haite Kudasai, Takamine-san الحلقة 12 والاخيرة" style="background-image: url(&quot;https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/">
+        <h3>
+          Haite Kudasai, Takamine-san        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="episode">
+      <span>
+        الحلقة 12      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-198614">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg" title="Haite Kudasai, Takamine-san الحلقة 11" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">
+        <h3>
+          Haite Kudasai, Takamine-san        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="episode">
+      <span>
+        الحلقة 11      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-198603">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg" title="Haite Kudasai, Takamine-san الحلقة 10" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">
+        <h3>
+          Haite Kudasai, Takamine-san        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="episode">
+      <span>
+        الحلقة 10      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-198593">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg" title="Haite Kudasai, Takamine-san الحلقة 9" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/">
+        <h3>
+          Haite Kudasai, Takamine-san        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-9/" class="episode">
+      <span>
+        الحلقة 9      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-198583">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/5AYXcPhbtPe6i1MPnutPhCV6qNd.jpg" title="Haite Kudasai, Takamine-san الحلقة 8" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/">
+        <h3>
+          Haite Kudasai, Takamine-san        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/haite-kudasai-takamine-san-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-8/" class="episode">
+      <span>
+        الحلقة 8      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-190583">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg" title="Kizetsu Yuusha to Ansatsu Hime الحلقة 12 والاخيرة" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/">
+        <h3>
+          Kizetsu Yuusha to Ansatsu Hime        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-12-%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d8%a9/" class="episode">
+      <span>
+        الحلقة 12      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-190581">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg" title="Kizetsu Yuusha to Ansatsu Hime الحلقة 11" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/">
+        <h3>
+          Kizetsu Yuusha to Ansatsu Hime        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-11/" class="episode">
+      <span>
+        الحلقة 11      </span>
+    </a>
+  </div>
+</div><div class="col-12 col-s-6 col-m-4 col-l-3 media-block" id="post-190579">
+  <div class="episode-card">
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="image lazyactive lazyloader dbdone" data-src="https://image.tmdb.org/t/p/w500/jTF9GUoGHW1mpNSCz1kgLJUYsoo.jpg" title="Kizetsu Yuusha to Ansatsu Hime الحلقة 10" style="background-image: url(&quot;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0ibWFyZ2luOiBhdXRvOyBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIDApIG5vbmUgcmVwZWF0IHNjcm9sbCAwJSAwJTsgZGlzcGxheTogYmxvY2s7IHNoYXBlLXJlbmRlcmluZzogYXV0bzsiIHdpZHRoPSIyMDBweCIgaGVpZ2h0PSIyMDBweCIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIj4KPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGNkY2RjIiBzdHJva2Utd2lkdGg9IjMiIHI9IjE4IiBzdHJva2UtZGFzaGFycmF5PSI4NC44MjMwMDE2NDY5MjQ0MSAzMC4yNzQzMzM4ODIzMDgxMzgiPgogIDxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgZHVyPSIxcyIgdmFsdWVzPSIwIDUwIDUwOzM2MCA1MCA1MCIga2V5VGltZXM9IjA7MSI+PC9hbmltYXRlVHJhbnNmb3JtPgo8L2NpcmNsZT4KPCEtLSBbbGRpb10gZ2VuZXJhdGVkIGJ5IGh0dHBzOi8vbG9hZGluZy5pby8gLS0+PC9zdmc+&quot;);">
+      <span>
+        <svg class="fea-icon secondary-bg" xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" width="20">
+          <path stroke="currentColor" fill="currentColor" d="M336-216v-528l408 264-408 264Z"></path>
+        </svg>
+      </span>
+    </a>
+    <div class="info">
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/">
+        <h3>
+          Kizetsu Yuusha to Ansatsu Hime        </h3>
+      </a>
+      <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="extra">
+        <h4>
+          الموسم 1        </h4>
+      </a>
+    </div>
+    <a href="https://det.animerco.org/episodes/kizetsu-yuusha-to-ansatsu-hime-%d8%a7%d9%84%d8%ad%d9%84%d9%82%d8%a9-10/" class="episode">
+      <span>
+        الحلقة 10      </span>
+    </a>
+  </div>
+</div>    </div>
+  </div>
+</div></main>
+<footer class="main-footer">
+  <div class="scrollup">
+    <a href="#" class="up" title="back to top">
+    <svg height="34" width="138" viewBox="0 0 138 35"><path fill="var(--body-bg)" d="M134.85.563C136.258.398 137.316.273 138 0H69.002S69 6.361 69 15.487v-3.483L68.998 0H0c.684.273 1.742.397 3.15.562 3.74.438 9.947 1.165 18.172 5.75 5.663 3.298 10.155 7.71 14.608 12.085C44.453 26.77 52.831 35 68.998 35L69 19.905c0 4.666 0 9.824.002 15.095 16.167 0 24.545-8.231 33.068-16.602 4.453-4.375 8.945-8.788 14.608-12.085C124.903 1.727 131.11 1 134.85.563z"></path><svg fill="none" stroke="currentColor" stroke-width="1.5" class="h-6" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5"></path></svg></svg>
+    </a>
+  </div>
+  <div class="container">
+    <div class="flexbox align-center-y align-between align-center-z">
+       <a href="https://det.animerco.org" class="logo hidden-s-down" title="Animerco"><img src="https://det.animerco.org/wp-content/themes/Animerco/assets/img/logo/logo.svg" alt="Animerco"></a>
+        <div class="navigation-menu hidden-s-down">
+          <ul id="menu-home-1" class="menu"><li id="menu-item-1219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1219"><a href="https://det.animerco.org/dmca/">DMCA</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-59"><a rel="privacy-policy" href="https://det.animerco.org/%d8%b3%d9%8a%d8%a7%d8%b3%d8%a9-%d8%a7%d9%84%d8%ae%d8%b5%d9%88%d8%b5%d9%8a%d8%a9/">سياسة الخصوصية</a></li>
+<li id="menu-item-111193" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111193"><a href="https://det.animerco.org/contact-us/">اتصل بنا</a></li>
+</ul>        </div>
+        <div class="social-btns">
+                          <a href="https://facebook.com/Animerco" target="_blank" rel="noreferrer" title="Facebook">
+                  <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="30" hieght="30" viewBox="0 0 576 512">
+                    <path d="M512 256C512 114.6 397.4 0 256 0S0 114.6 0 256C0 376 82.7 476.8 194.2 504.5V334.2H141.4V256h52.8V222.3c0-87.1 39.4-127.5 125-127.5c16.2 0 44.2 3.2 55.7 6.4V172c-6-.6-16.5-1-29.6-1c-42 0-58.2 15.9-58.2 57.2V256h83.6l-14.4 78.2H287V510.1C413.8 494.8 512 386.9 512 256h0z"></path>
+                  </svg>
+                </a>
+                                <a href="https://youtube.com/@animerco_tv" target="_blank" rel="noreferrer" title="Youtube">
+                  <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" width="30" hieght="30" viewBox="0 0 576 512">
+                    <path d="M549.7 124.1c-6.3-23.7-24.8-42.3-48.3-48.6C458.8 64 288 64 288 64S117.2 64 74.6 75.5c-23.5 6.3-42 24.9-48.3 48.6-11.4 42.9-11.4 132.3-11.4 132.3s0 89.4 11.4 132.3c6.3 23.7 24.8 41.5 48.3 47.8C117.2 448 288 448 288 448s170.8 0 213.4-11.5c23.5-6.3 42-24.2 48.3-47.8 11.4-42.9 11.4-132.3 11.4-132.3s0-89.4-11.4-132.3zm-317.5 213.5V175.2l142.7 81.2-142.7 81.2z"></path>
+                  </svg>
+                </a>
+                      </div>
+    </div>
+    <hr class="mt30 mb30">
+    <div class="copyrights">
+      <p>
+        جميع الحقوق محفوظة © 2026 Animerco      </p>
+      <a href="https://www.miraithemes.com/" class="tooltip" data-title="صمم بواسطة MiraiThemes"><img src="https://det.animerco.org/wp-content/themes/Animerco/assets/img/logo/copy.svg" alt="MiraiThemes"></a>
+    </div>
+</div>
+</footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Animerco/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="tornado.min-js" defer="" src="https://det.animerco.org/wp-content/themes/Animerco/assets/js/tornado.min.js?ver=1.6.3"></script>
+<script id="dt_mainajax-js" defer="" src="https://det.animerco.org/wp-content/themes/Animerco/assets/js/scripts.min.js?ver=1.6.3"></script>
+<script id="dt_main_ajax-js-extra">
+var dtAjax = {"url":"/wp-admin/admin-ajax.php","security":"366585be83","nonce":"291642536e","googlercptc":"6Ld22-8ZAAAAAJsZlEjT3FvFfd3UTYdRlhfF9Jk5","loading":"\u062c\u0627\u0631 \u0627\u0644\u0637\u0644\u0628...","afavorites":"\u0627\u0636\u0627\u0641\u0629 \u0627\u0644\u0649 \u0627\u0644\u0645\u0641\u0636\u0644\u0629","awatchlist":"\u0625\u0636\u0627\u0641\u0629 \u0627\u0644\u0649 \u0642\u0627\u0626\u0645\u0629 \u0627\u0644\u0645\u0634\u0627\u0647\u062f\u0629","remove":"\u0625\u0632\u0627\u0644\u0629","send":"\u0625\u0631\u0633\u0627\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a ..","updating":"\u062a\u062d\u062f\u064a\u062b \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a..","error":"\u062e\u0637\u0623","pending":"\u0628\u0625\u0646\u062a\u0638\u0627\u0631 \u0627\u0644\u0645\u0631\u0627\u062c\u0639\u0629","ltipe":"\u062a\u062d\u0645\u064a\u0644","sending":"\u0625\u0631\u0633\u0627\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a","enabled":"\u062a\u0641\u0639\u064a\u0644","disabled":"\u062a\u0639\u0637\u064a\u0644","trash":"\u062d\u0630\u0641","lshared":"\u0627\u0644\u0631\u0648\u0627\u0628\u0637 \u0627\u0644\u062a\u064a \u062a\u0645 \u0645\u0634\u0627\u0631\u0643\u062a\u0647\u0627","sendingrep":"\u0645\u0646 \u0641\u0636\u0644\u0643 \u0627\u0646\u062a\u0638\u0631 \u062c\u0627\u0631\u064a \u0627\u0631\u0633\u0627\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a ..","ready":"\u062a\u0645 \u0627\u0644\u0637\u0644\u0628","deletelin":"\u0647\u0644 \u062a\u0631\u064a\u062f \u062d\u0642\u0627 \u062d\u0630\u0641 \u0647\u0630\u0627 \u0627\u0644\u0631\u0627\u0628\u0637\u061f","collapse":"\u062a\u0635\u063a\u064a\u0631","expand":"\u062a\u0648\u0633\u064a\u0639","lighton":"\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0627\u0636\u0627\u0621\u0629","lightoff":"\u0625\u0637\u0641\u0627\u0621 \u0627\u0644\u0625\u0636\u0627\u0621\u0629","no_more_posts":"\u0644\u0627 \u064a\u0648\u062c\u062f \u0627\u0644\u0645\u0632\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0644\u0639\u0631\u0636\u0647.","wait":"\u0627\u0644\u0645\u0631\u062c\u0648 \u0627\u0644\u0627\u0646\u062a\u0638\u0627\u0631..."};
+//# sourceURL=dt_main_ajax-js-extra
+</script>
+<script id="dt_main_ajax-js" defer="" src="https://det.animerco.org/wp-content/themes/Animerco/assets/js/front.ajax.min.js?ver=1.6.3"></script>
+<script id="live_search-js-extra">
+var dtGonza = {"api":"https://det.animerco.org/wp-json/dooplay/search/","nonce":"c335b66e99","area":".live-search","button":".search-button","more":"\u0639\u0631\u0636 \u062c\u0645\u064a\u0639 \u0627\u0644\u0646\u062a\u0627\u0626\u062c","mobile":"1","reset_all":"\u0647\u0644 \u062a\u0631\u064a\u062f \u062d\u0642\u064b\u0627 \u0625\u0639\u0627\u062f\u0629 \u062a\u0634\u063a\u064a\u0644 \u0643\u0627\u0641\u0629 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a\u061f","manually_content":"They sure have added content manually?","loading":"\u062c\u0627\u0631 \u0627\u0644\u0637\u0644\u0628...","livesearchactive":"1"};
+//# sourceURL=live_search-js-extra
+</script>
+<script id="live_search-js" defer="" src="https://det.animerco.org/wp-content/themes/Animerco/assets/js/front.livesearch.min.js?ver=1.6.3"></script>
+<script src="https://archivesfrenzyambiguous.com/hAjy7M/pASTGt-1/cecEZHG/UyyC/quZXjNL39I6IbOSjeaqF/jds/QiUpJANFjSmHuEx93b/fBn3-UxEvGGx8Uu6-R/t_00FUsV/oxqIYIde1_81n5/RqR7mMzID/2zcxaLGK7X"></script><div id="zb17p7q" style="--rdata: zb17p7q; position: fixed; inset: 0px; z-index: 2147483647; background: black; opacity: 0.01; height: 715px; width: 376px;"><a id="lkhnv" href="https://archivesfrenzyambiguous.com/hyje8qa96v?aqys=56&amp;refer=https%3A%2F%2Fdet.animerco.org%2F&amp;kw=%5B%22animerco%22%2C%22-%22%2C%22%D9%85%D9%88%D9%82%D8%B9%22%2C%22%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9%22%2C%22%D9%88%D8%AA%D8%AD%D9%85%D9%8A%D9%84%22%2C%22%D8%A7%D9%84%D8%A7%D9%86%D9%85%D9%8A%22%2C%22%D9%85%D8%AA%D8%B1%D8%AC%D9%85%22%2C%22%D8%A7%D9%88%D9%86%22%2C%22%D9%84%D8%A7%D9%8A%D9%86%22%5D&amp;key=c150210774f0293d1b9f55852f79498c&amp;scrWidth=377&amp;scrHeight=831&amp;tz=2&amp;ship=1&amp;v=2026.8.4&amp;sub3=invoke_layer&amp;res=14.229&amp;dev=r&amp;ifid=01a0635a-1708-728f-9b2c-a5cc5279a13b&amp;ibid=01a0635a-1426-75ab-aebc-5c2eb58f4d9a" target="_blank" style="display: block; height: inherit;"></a></div>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;f81c52a8b67848149b96457574b9167e&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+<div class="mobile-menu" id="main-menu"><div class="menu-content"><ul id="menu-home" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-29"><a href="https://det.animerco.org/" aria-current="page">الرئيسية</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://det.animerco.org/movies/">قائمة الأفلام</a></li>
+<li id="menu-item-74823" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-74823 dropdown-item"><a href="#" class="dropdown-toggle">مكتبة الأنمي<svg class="w-5 h-5 tr-icon" xmlns="http://www.w3.org/2000/svg" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg></a>
+<ul class="sub-menu dropdown-menu">
+	<li id="menu-item-74824" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74824"><a href="https://det.animerco.org/animes/">قائمة الأنميات</a></li>
+	<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://det.animerco.org/seasons/">قائمة المواسم</a></li>
+	<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="https://det.animerco.org/episodes/">قائمة الحلقات</a></li>
+</ul>
+</li>
+<li id="menu-item-206628" class="menu-item menu-item-type-taxonomy menu-item-object-dtseason menu-item-206628"><a href="https://det.animerco.org/season/spring-2026/">ربيع 2026</a></li>
+<li id="menu-item-213710" class="menu-item menu-item-type-taxonomy menu-item-object-dtseason menu-item-213710"><a href="https://det.animerco.org/season/summer-2026/">صيف 2026</a></li>
+<li id="menu-item-74673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74673"><a href="https://det.animerco.org/schedule/">مواعيد الحلقات</a></li>
+<li id="menu-item-103541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103541"><a href="https://det.animerco.org/contact-us/">اتصل بنا</a></li>
+</ul></div><a href="javascript:void(0)" class="overlay-close" title="Close Menu" tabindex="0" role="button" aria-pressed="false"></a></div></body></html>

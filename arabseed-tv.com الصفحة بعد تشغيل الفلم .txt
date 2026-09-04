@@ -1,0 +1,883 @@
+<!DOCTYPE html><html lang="ar" dir="rtl"><head>
+    <meta charset="UTF-8">
+    <title>مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD</title>
+    <meta name="description" content="حصرياً على موقع عرب سيد الرسمي: مسلسل Outer Banks الموسم الخامس الحلقة 10 العاشرة مترجمة بجودة Full HD.">
+    <!-- SEO Basics -->
+    <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+    <meta name="googlebot" content="index, follow">
+    <meta name="rating" content="General">
+    <meta name="language" content="ar">
+    <meta http-equiv="Content-Language" content="ar-eg">
+    <meta name="revisit-after" content="1 hour">
+    <meta name="distribution" content="Global">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ed3c3c">
+    <meta name="msapplication-navbutton-color" content="#ed3c3c">
+    <meta name="apple-mobile-web-app-status-bar-style" content="#ed3c3c">
+    <meta name="resource-type" content="document">
+    <!-- copyright -->
+    <meta name="copyright" content="عرب سيد - Arabseed">
+    <meta name="author" content="عرب سيد - Arabseed">
+    <!-- Canonical -->
+    <link rel="canonical" href="https://arabseed-tv.com/series-outer-banks-s05-e10">
+    <!-- icon -->
+    <link rel="icon" href="https://arabseed-tv.com/static/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="https://arabseed-tv.com/static/img/logo.webp">
+    <!-- preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//www.facebook.com">
+    <link rel="dns-prefetch" href="//twitter.com">
+    <!-- Open Graph (Facebook & WhatsApp) -->
+    <meta property="og:locale" content="ar_AR">
+    <meta property="og:type" content="video.episode">
+    <meta property="og:title" content="مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD">
+    <meta property="og:description" content="حصرياً على موقع عرب سيد الرسمي: مسلسل Outer Banks الموسم الخامس الحلقة 10 العاشرة مترجمة بجودة Full HD.">
+    <meta property="og:site_name" content="عرب سيد - Arabseed">
+    <meta property="og:url" content="https://arabseed-tv.com/series-outer-banks-s05-e10">
+    <meta property="og:image" content="https://arabseed-tv.com/pics/covers/67046.webp">
+    <meta property="og:image:secure_url" content="https://arabseed-tv.com/pics/covers/67046.webp">
+    <meta property="og:image:width" content="1280">
+    <meta property="og:image:height" content="720">
+    <meta property="og:image:alt" content="مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD">
+    <meta property="og:image:type" content="image/webp">
+    <meta property="article:published_time" content="2026-09-01T18:50:08+00:00">
+    <meta property="article:modified_time" content="2026-09-01T18:50:08+00:00">
+    <meta property="article:publisher" content="https://www.facebook.com/Arabseed.net/">
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD">
+    <meta name="twitter:description" content="حصرياً على موقع عرب سيد الرسمي: مسلسل Outer Banks الموسم الخامس الحلقة 10 العاشرة مترجمة بجودة Full HD.">
+    <meta name="twitter:site" content="@ArabSeed">
+    <meta name="twitter:creator" content="@ArabSeed">
+    <meta name="twitter:image" content="https://arabseed-tv.com/pics/covers/67046.webp">
+    
+	<meta name="google-site-verification" content="KT00mxgBZc7SDoHTpBqYhatBSyMaBKI_v90CkcHhkDc">
+    <script type="application/ld+json" class="rank-math-schema">
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://arabseed-tv.com/#website",
+            "url": "https://arabseed-tv.com",
+            "name": "عرب سيد - ArabSeed | أحدث الأفلام والمسلسلات العربية والأجنبية مترجمة ومدبلجة HD",
+            "description": "شاهد وحمل أحدث الأفلام والمسلسلات العربية والأجنبية والتركية والآسيوية والأنمي على عرب سيد ArabSeed بجودة HD و4K، مع ترجمة احترافية، تحديث يومي، سيرفرات مشاهدة متعددة، تحميل مباشر، وتجربة مشاهدة سريعة وآمنة.",
+            "publisher": {
+                "@id": "https://arabseed-tv.com/#organization"
+            },
+            "inLanguage": "ar"
+        },
+        {
+            "@type": "Organization",
+            "@id": "https://arabseed-tv.com/#organization",
+            "name": "عرب سيد - Arabseed",
+            "url": "https://arabseed-tv.com",
+            "sameAs": [
+                "https://www.facebook.com/Arabseed.net/",
+                "https://twitter.com/arabseedtv",
+                "https://t.me/iarabseed"
+            ],
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://arabseed-tv.com/static/img/logo.webp",
+                "width": 500,
+                "height": 500,
+                "caption": "ArabSeed"
+            }
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://arabseed-tv.com/series-outer-banks-s05-e10#primaryimage",
+            "url": "https://arabseed-tv.com/pics/covers/67046.webp",
+            "contentUrl": "https://arabseed-tv.com/pics/covers/67046.webp",
+            "width": 1280,
+            "height": 720,
+            "caption": "مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD"
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://arabseed-tv.com/series-outer-banks-s05-e10#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "الرئيسية",
+                    "item": "https://arabseed-tv.com"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "مسلسلات",
+                    "item": "https://arabseed-tv.com/tvseries"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "مسلسل Outer Banks 2026 مترجم HD",
+                    "item": "https://arabseed-tv.com/series/outer-banks-2026"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD",
+                    "item": "https://arabseed-tv.com/series-outer-banks-s05-e10"
+                }
+            ]
+        },
+        {
+            "@type": [
+                "TVEpisode",
+                "VideoObject"
+            ],
+            "@id": "https://arabseed-tv.com/series-outer-banks-s05-e10#tvepisode",
+            "url": "https://arabseed-tv.com/series-outer-banks-s05-e10",
+            "name": "مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD",
+            "description": "حصرياً على موقع عرب سيد الرسمي: مسلسل Outer Banks الموسم الخامس الحلقة 10 العاشرة مترجمة بجودة Full HD.",
+            "image": {
+                "@id": "https://arabseed-tv.com/series-outer-banks-s05-e10#primaryimage"
+            },
+            "thumbnailUrl": "https://arabseed-tv.com/pics/covers/67046.webp",
+            "uploadDate": "2026-09-01T18:50:08+00:00",
+            "datePublished": "2026-09-01T18:50:08+00:00",
+            "inLanguage": "ar",
+            "partOfSeries": {
+                "@type": "TVSeries",
+                "@id": "https://arabseed-tv.com/series/outer-banks-2026#tvseries",
+                "name": "مسلسل Outer Banks 2026 مترجم HD",
+                "url": "https://arabseed-tv.com/series/outer-banks-2026"
+            },
+            "publisher": {
+                "@id": "https://arabseed-tv.com/#organization"
+            },
+            "author": {
+                "@id": "https://arabseed-tv.com/#organization"
+            },
+            "episodeNumber": 10,
+            "partOfSeason": {
+                "@type": "TVSeason",
+                "@id": "https://arabseed-tv.com/series/outer-banks-2026#season-5",
+                "seasonNumber": 5,
+                "name": "الموسم 5",
+                "partOfSeries": {
+                    "@id": "https://arabseed-tv.com/series/outer-banks-2026#tvseries"
+                }
+            },
+            "duration": "PT50M",
+            "embedUrl": "https://arabseed-tv.com/series-outer-banks-s05-e10/embed"
+        }
+    ]
+}</script>
+    <meta property="article:tag" content="تحميل مباشر لمسلسل Outer Banks مترجم">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم عرب سيد">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم ايجي بيست">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم اكوام">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم لودي نت">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم موفيز لاند">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم وي سيما">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم توب سينما">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم يوتيوب">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم شاهد4يو">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم شاهد vip">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم تليجرام">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم فاصل اعلاني">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم تحميل مباشر">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم كامل">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم WEB-DL">
+<meta property="article:tag" content="مسلسل Outer Banks مترجم جودة عالية">
+    <link rel="stylesheet" href="https://arabseed-tv.com/static/css/box-swiper.css?v=26">
+    <link rel="stylesheet" href="https://arabseed-tv.com/static/css/style.min.css?v=26">
+    <link rel="stylesheet" href="https://arabseed-tv.com/static/css/main.css?v=26">
+    <script defer="" type="text/javascript" src="https://arabseed-tv.com/static/js/header.js?v=26"></script>
+    <link rel="speculationrules" href="https://arabseed-tv.com/speculation.json">
+    <link rel="stylesheet" media="all" href="https://arabseed-tv.com/static/css/all.css?v=26" onload="this.media='all'">
+<style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><style></style><link rel="preconnect" href="https://newsboydurance.cfd" crossorigin="anonymous"></head>
+<body>
+    <div class="content__wrapper">
+	<header class="site__header">
+		<div class="logo__and__bars">
+			<a href="https://arabseed-tv.com/" class="site__logo">
+				<div class="logo__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+				<h3 class="logo__text">عرب سيد <span>Arab<em>Seed</em></span></h3>
+				<div class="slogan">
+					<div class="icon">
+						<lord-icon src="https://arabseed-tv.com/static/speed.json" trigger="loop" delay="2000" stroke="light" state="hover-roll" colors="primary:#ffffff,secondary:#ffffff"></lord-icon>
+					</div>
+					<p class="text">اسرع موقع <em>فـــــي مـــصـــر</em></p>
+				</div>
+			</a>
+		</div>
+		<div class="header__search hide__md">
+			<form method="post" class="big__search__form" autocomplete="off">
+				<i class="fa-light fa-magnifying-glass"></i>
+				<input type="text" name="word" placeholder="إبحث عن عمل او ممثل ....">
+				<input type="hidden" name="type" value="">
+				<div class="search__res__container" style="display:none;">
+					<div class="inner">
+						<div class="live__search__res"></div>
+						<div class="most__search">
+							<!--
+							<span>أشهر الممثلين</span>
+							<ul class="top__actors"></ul>
+							-->
+														<span>الاكثر مشاهدة</span>
+							<ul class="top__search">
+															<li>
+									<a href="https://arabseed-tv.com/restart-2025-movie">
+										<span>Restart</span>
+									</a>
+								</li>
+															<li>
+									<a href="https://arabseed-tv.com/rocky-elghalaba-hdcam-2025-movie">
+										<span>روكي الغلابة</span>
+									</a>
+								</li>
+															<li>
+									<a href="https://arabseed-tv.com/cloning-2025-movie">
+										<span>استنساخ</span>
+									</a>
+								</li>
+															<li>
+									<a href="https://arabseed-tv.com/aldashash-original-2025-movie">
+										<span>الدشاش</span>
+									</a>
+								</li>
+															<li>
+									<a href="https://arabseed-tv.com/meteor-final-impact-2025-movie">
+										<span>Meteor: Final Impact</span>
+									</a>
+								</li>
+															<li>
+									<a href="https://arabseed-tv.com/hepta-the-last-debate-2025-movie">
+										<span>هيبتا: المناظرة الأخيرة</span>
+									</a>
+								</li>
+														</ul>
+						</div>
+					</div>
+				</div>
+				<div class="search__type__drop">
+					<span>
+						<strong>الكل</strong>
+						<i class="fal fa-angle-down"></i>
+					</span>
+					<ul>
+						<li class="selected">الكل</li>
+						<li data-type="movies">افلام</li>
+						<li data-type="series">مسلسلات</li>
+						<li data-type="episodes">حلقات</li>
+						<li data-type="actors">ممثلين</li>
+					</ul>
+				</div>
+			</form>
+		</div>
+		<div class="header__left">
+			<a href="https://arabseed-tv.com/recently" class="guest__anchor register">
+				<lord-icon src="https://arabseed-tv.com/static/speed.json" trigger="loop" stroke="bold" colors="primary:#efc51f,secondary:#efc51f" style="width:20px;height:20px"></lord-icon>مضاف حديثا </a>
+			<a href="https://arabseed-tv.com/trends" class="guest__anchor">
+				<lord-icon src="https://arabseed-tv.com/static/hashtag.json" trigger="loop" delay="1000" stroke="light" state="in-reveal" colors="primary:#ffffff" style="width:20px;height:20px"></lord-icon> تريند 
+			</a>
+		</div>
+	</header>
+</div>
+
+<div class="mobile__menu show__md menu__onscroll" style="transition: .3s all ease">
+	<ul class="d__flex align__items__center justify__content__between">
+		<li>
+			<a href="https://arabseed-tv.com/movies">
+				<i class="fas fa-camera-movie"></i>
+				<span>الافلام</span>
+			</a>
+		</li>
+		<li>
+			<a href="https://arabseed-tv.com/tvseries">
+				<i class="fas fa-clapperboard-play"></i>
+				<span>المسلسلات</span>
+			</a>
+		</li>
+		<li class="home__btn">
+			<a title="arabseed home" href="https://arabseed-tv.com/">
+				<svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg>			</a>
+		</li>
+		<li class="open__search">
+			<a href="javascript:void(0)">
+				<i class="fas fa-search"></i>
+				<span>بحث</span>
+			</a>
+		</li>
+		<li class="show__more">
+			<a href="javascript:void(0)">
+				<i class="fas fa-objects-align-bottom"></i>
+				<span>القائمة</span>
+			</a>
+		</li>
+	</ul>
+</div>
+<section class="mobile__sarch">
+	<a href="javascript:void(0)"></a>
+	<div class="inner__contents">
+		<div class="mob__search">
+			<form method="post" class="mobile__search__form" autocomplete="off">
+				<i class="fa-light fa-magnifying-glass"></i>
+				<input type="text" name="word" placeholder="إبحث عن عمل او ممثل ....">
+				<input type="hidden" name="type" value="">
+			</form>
+			<div class="search__type__list">
+				<ul class="d__flex align__items__center gap__10">
+					<li class="selected">الكل</li>
+					<li data-type="movies">افلام</li>
+					<li data-type="series">مسلسلات</li>
+					<li data-type="episodes">حلقات</li>
+					<li data-type="actors">ممثلين</li>
+				</ul>
+			</div>
+			<div class="search__res__container">
+				<div class="inner">
+					<div class="live__search__res"></div>
+					<div class="most__search">
+												<span>الاكثر مشاهدة</span>
+						<ul class="top__search">
+													<li>
+								<a href="https://arabseed-tv.com/alsafa-thanawiatu-bnat-2025-movie">
+									<span>الصفا ثانوية بنات</span>
+								</a>
+							</li>
+													<li>
+								<a href="https://arabseed-tv.com/project-x-2025-movie">
+									<span>Project X</span>
+								</a>
+							</li>
+													<li>
+								<a href="https://arabseed-tv.com/series/ward-wa-chocolate-2025">
+									<span>ورد وشوكولاتة</span>
+								</a>
+							</li>
+													<li>
+								<a href="https://arabseed-tv.com/alkabus-almisriu-2025-movie">
+									<span>الكابوس المصري</span>
+								</a>
+							</li>
+													<li>
+								<a href="https://arabseed-tv.com/siko-siko-2025-movie">
+									<span>Siko Siko</span>
+								</a>
+							</li>
+													<li>
+								<a href="https://arabseed-tv.com/thunderbolts-2025-movie">
+									<span>Thunderbolts*</span>
+								</a>
+							</li>
+												</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<section class="mobile__big__menu">
+	<a href="javascript:void(0)" class="abs"></a>
+	<a href="javascript:void(0)" class="close">
+		<i class="fal fa-times"></i>
+	</a>
+	<ul>
+		<li class="active">
+			<a href="https://arabseed-tv.com/">
+				<svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M22 22L2 22" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path><path d="M2 11L6.06296 7.74968M22 11L13.8741 4.49931C12.7784 3.62279 11.2216 3.62279 10.1259 4.49931L9.34398 5.12486" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path><path d="M15.5 5.5V3.5C15.5 3.22386 15.7239 3 16 3H18.5C18.7761 3 19 3.22386 19 3.5V8.5" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path><path d="M4 22V9.5" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path><path d="M20 9.5V13.5M20 22V17.5" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round"></path><path d="M15 22V17C15 15.5858 15 14.8787 14.5607 14.4393C14.1213 14 13.4142 14 12 14C10.5858 14 9.87868 14 9.43934 14.4393M9 22V17" stroke="#ffffff" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path><path d="M14 9.5C14 10.6046 13.1046 11.5 12 11.5C10.8954 11.5 10 10.6046 10 9.5C10 8.39543 10.8954 7.5 12 7.5C13.1046 7.5 14 8.39543 14 9.5Z" stroke="#ffffff" stroke-width="1.5"></path></g></svg>				<span>عرب سيد</span>
+			</a>
+		</li>
+		<li>
+			<a href="https://arabseed-tv.com/movies">
+				<svg fill="#ffffff" height="256px" id="Capa_1" stroke="#ffffff" version="1.1" viewBox="0 0 277.446 277.446" width="256px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M59.488,117.299c-0.504-4.237-2.007-8.171-4.273-11.556l202.992-67.776L247.552,6.051 c-1.549-4.638-6.566-7.141-11.201-5.594L15.54,74.182c-4.635,1.547-7.143,6.563-5.594,11.201l5.225,15.647 c-5.216,4.843-8.488,11.752-8.488,19.415c0,9.924,5.486,18.586,13.582,23.127v125.02c0,4.891,3.967,8.853,8.854,8.853h232.793 c4.885,0,8.852-3.963,8.852-8.853V117.299H59.488z M188.869,26.724l26.875-8.973l-6.467,26.14l-26.875,8.973L188.869,26.724z M122.47,48.893l26.877-8.973l-6.467,26.139l-26.875,8.974L122.47,48.893z M33.181,133.946c-7.442,0-13.498-6.056-13.498-13.5 c0-7.444,6.056-13.5,13.498-13.5c7.444,0,13.5,6.056,13.5,13.5C46.681,127.89,40.625,133.946,33.181,133.946z M56.074,71.062 l26.877-8.973l-6.467,26.14l-26.877,8.974L56.074,71.062z M82.476,147.192H54.142l14.412-22.746h28.334L82.476,147.192z M138.554,124.446h28.334l-14.412,22.746h-28.334L138.554,124.446z M131.599,234.372v-60l47.783,30L131.599,234.372z M222.476,147.192h-28.334l14.412-22.746h28.334L222.476,147.192z" id="_x30_6-Movie_Clapper"></path></g></svg>				<span>الافلام</span>
+				<i class="fal fa-angle-left"></i>
+			</a>
+			<ul class="submenu__ul">
+							<li>
+					<a href="https://arabseed-tv.com/category/netfilx-movies">
+						<span>افلام Netfilx</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/foreign-movies">
+						<span>افلام اجنبي</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/arabic-movies-5">
+						<span>افلام عربي</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/indian-movies">
+						<span>افلام هندى</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/asian-movies">
+						<span>افلام اسيوية</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/turkish-movies">
+						<span>افلام تركية</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/dubbed-movies">
+						<span>افلام مدبلجة</span>
+					</a>
+				</li>
+						</ul>
+		</li>
+		<li>
+			<a href="https://arabseed-tv.com/tvseries">
+				<svg fill="#ffffff" height="256px" stroke="#ffffff" version="1.1" viewBox="0 0 32 32" width="256px" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>tv-television</title><desc>Created with Sketch Beta.</desc><defs></defs><g id="Page-1" fill="none" sketch:type="MSPage" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icon-Set-Filled" fill="#ffffff" sketch:type="MSLayerGroup" transform="translate(-362.000000, -517.000000)"><path d="M387,535 C385.343,535 384,533.657 384,532 C384,530.343 385.343,529 387,529 C388.657,529 390,530.343 390,532 C390,533.657 388.657,535 387,535 L387,535 Z M389,542 L385,542 C384.447,542 384,541.553 384,541 C384,540.447 384.447,540 385,540 L389,540 C389.553,540 390,540.447 390,541 C390,541.553 389.553,542 389,542 L389,542 Z M389,545 L385,545 C384.447,545 384,544.553 384,544 C384,543.447 384.447,543 385,543 L389,543 C389.553,543 390,543.447 390,544 C390,544.553 389.553,545 389,545 L389,545 Z M382,543 C382,544.104 381.104,545 380,545 L368,545 C366.896,545 366,544.104 366,543 L366,531 C366,529.896 366.896,529 368,529 L380,529 C381.104,529 382,529.896 382,531 L382,543 L382,543 Z M390,525 L380.746,525 L389.518,518.965 C389.981,518.646 390.113,517.988 389.813,517.496 C389.514,517.004 388.895,516.863 388.431,517.182 C388.431,517.182 378.821,523.817 378.009,524.307 L367.569,517.182 C367.106,516.863 366.486,517.004 366.187,517.496 C365.887,517.988 366.019,518.646 366.482,518.965 L375.254,525 L366,525 C363.791,525 362,526.791 362,529 L362,545 C362,547.209 363.791,549 366,549 L390,549 C392.209,549 394,547.209 394,545 L394,529 C394,526.791 392.209,525 390,525 L390,525 Z M386,533 L388,533 L388,531 L386,531 L386,533 Z M379,531 L369,531 C368.447,531 368,531.448 368,532 L368,542 C368,542.553 368.447,543 369,543 L379,543 C379.553,543 380,542.553 380,542 L380,532 C380,531.448 379.553,531 379,531 L379,531 Z" id="tv-television" sketch:type="MSShapeGroup"></path></g></g></g></svg>				<span>المسلسلات</span>
+				<i class="fal fa-angle-left"></i>
+			</a>
+			<ul class="submenu__ul">
+							<li>
+					<a href="https://arabseed-tv.com/category/foreign-series">
+						<span>مسلسلات اجنبي</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/asian-series">
+						<span>مسلسلات اسيوية</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/turkish-series">
+						<span>مسلسلات تركيه</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/arabic-series">
+						<span>مسلسلات عربي</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/indian-series">
+						<span>مسلسلات هندية</span>
+					</a>
+				</li>
+						</ul>
+		</li>
+		<li>
+			<a href="https://arabseed-tv.com/category/ramadan">
+				<svg fill="#ffffff" height="256px" id="Capa_1" stroke="#ffffff" version="1.1" viewBox="0 0 396.586 396.586" width="256px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><g><path d="M281.603,179.637c0.828,0,1.5-0.671,1.5-1.5v-4.601h4.451c0.828,0,1.5-0.671,1.5-1.5v-9.699c0-0.829-0.672-1.5-1.5-1.5 h-24.146c-3.842-27.97-40.149-45.072-56.818-51.509c0.26-0.794,0.404-1.637,0.404-2.515c0-3.405-2.109-6.332-5.133-7.646 c1.078-0.939,1.76-2.294,1.76-3.806c0-1.994-1.182-3.722-2.906-4.57l-0.781-6.204c3.354-0.748,5.861-3.736,5.861-7.315v-0.5 c0-4.142-3.357-7.5-7.5-7.5c-4.143,0-7.5,3.358-7.5,7.5v0.5c0,3.579,2.508,6.567,5.861,7.315l-0.781,6.204 c-1.725,0.849-2.906,2.576-2.906,4.57c0,1.512,0.682,2.866,1.758,3.806c-3.021,1.313-5.131,4.24-5.131,7.646 c0,0.877,0.144,1.721,0.404,2.515c-16.67,6.437-52.977,23.539-56.818,51.509h-24.148c-0.828,0-1.5,0.671-1.5,1.5v9.699 c0,0.829,0.672,1.5,1.5,1.5h4.451v4.601c0,0.829,0.672,1.5,1.5,1.5h3.271v162.282h-3.271c-0.828,0-1.5,0.671-1.5,1.5v4.598h-4.451 c-0.828,0-1.5,0.671-1.5,1.5v9.702c0,0.829,0.672,1.5,1.5,1.5h32.018c17.57,23.99,57.244,35.867,57.244,35.867 s39.674-11.877,57.244-35.867h32.016c0.828,0,1.5-0.671,1.5-1.5v-9.702c0-0.829-0.672-1.5-1.5-1.5h-4.451v-4.598 c0-0.829-0.672-1.5-1.5-1.5h-3.27V179.637H281.603z M161.343,331.651h-26.795V228.584c0-24.726,13.396-40.929,13.396-40.929 s13.398,16.203,13.398,40.929V331.651z M221.644,331.651h-46.701V228.584c0-24.726,23.352-40.929,23.352-40.929 s23.35,16.203,23.35,40.929V331.651z M262.04,331.651h-26.795V228.584c0-24.726,13.396-40.929,13.396-40.929 s13.398,16.203,13.398,40.929V331.651z"></path><path d="M198.294,39.054c4.143,0,7.5-3.358,7.5-7.5v-0.963c0-4.142-3.357-7.5-7.5-7.5c-4.143,0-7.5,3.358-7.5,7.5v0.963 C190.794,35.695,194.151,39.054,198.294,39.054z"></path><path d="M198.294,15.962c4.143,0,7.5-3.357,7.5-7.5V7.5c0-4.142-3.357-7.5-7.5-7.5c-4.143,0-7.5,3.358-7.5,7.5v0.962 C190.794,12.604,194.151,15.962,198.294,15.962z"></path><path d="M198.294,62.145c4.143,0,7.5-3.358,7.5-7.5v-0.962c0-4.142-3.357-7.5-7.5-7.5c-4.143,0-7.5,3.358-7.5,7.5v0.962 C190.794,58.786,194.151,62.145,198.294,62.145z"></path></g></g></svg>				<span>رمضان</span>
+				<i class="fal fa-angle-left"></i>
+			</a>
+			<ul class="submenu__ul">
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2026">
+						<span>مسلسلات رمضان 2026</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2025">
+						<span>مسلسلات رمضان 2025</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2024">
+						<span>مسلسلات رمضان 2024</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2023">
+						<span>مسلسلات رمضان 2023</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2022">
+						<span>مسلسلات رمضان 2022</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/ramadan-series-2021">
+						<span>مسلسلات رمضان 2021</span>
+					</a>
+				</li>
+						</ul>
+		</li>
+		<li>
+			<a href="javascript:void(0)">
+				<svg fill="#ffffff" height="256px" id="b" stroke="#ffffff" viewBox="0 0 48 48" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><defs><style>.c{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round}</style></defs><path class="c" d="m9.4886,41.541c2.5822-7.6832,11.3168-27.902,16.8972-37.041"></path><path class="c" d="m35.6504,43.5c-3.8011-6.47-10.1103-28.7657-10.9815-36.0261"></path><path class="c" d="m8.0271,30.9358c8.4111-.1512,23.9391-3.6289,31.9458-7.5918"></path></g></svg>				<span>انمي</span>
+				<i class="fal fa-angle-left"></i>
+			</a>
+			<ul class="submenu__ul">
+							<li>
+					<a href="https://arabseed-tv.com/category/anime-movies">
+						<span>افلام انمي</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/anime-series">
+						<span>مسلسلات انمي</span>
+					</a>
+				</li>
+						</ul>
+		</li>
+		<li>
+			<a href="javascript:void(0)">
+				<svg fill="#ffffff" height="256px" stroke="#ffffff" version="1.1" viewBox="0 0 28 28" width="256px" xmlns="http://www.w3.org/2000/svg" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><title>grid</title><desc>Created with Sketch Beta.</desc><defs></defs><g id="Page-1" fill="none" sketch:type="MSPage" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="Icon-Set" fill="#ffffff" sketch:type="MSLayerGroup" transform="translate(-102.000000, -933.000000)"><path d="M128,941 C128,942.104 127.104,943 126,943 L122,943 C120.896,943 120,942.104 120,941 L120,937 C120,935.896 120.896,935 122,935 L126,935 C127.104,935 128,935.896 128,937 L128,941 L128,941 Z M126,933 L122,933 C119.791,933 118,934.791 118,937 L118,941 C118,943.209 119.791,945 122,945 L126,945 C128.209,945 130,943.209 130,941 L130,937 C130,934.791 128.209,933 126,933 L126,933 Z M128,957 C128,958.104 127.104,959 126,959 L122,959 C120.896,959 120,958.104 120,957 L120,953 C120,951.896 120.896,951 122,951 L126,951 C127.104,951 128,951.896 128,953 L128,957 L128,957 Z M126,949 L122,949 C119.791,949 118,950.791 118,953 L118,957 C118,959.209 119.791,961 122,961 L126,961 C128.209,961 130,959.209 130,957 L130,953 C130,950.791 128.209,949 126,949 L126,949 Z M112,941 C112,942.104 111.104,943 110,943 L106,943 C104.896,943 104,942.104 104,941 L104,937 C104,935.896 104.896,935 106,935 L110,935 C111.104,935 112,935.896 112,937 L112,941 L112,941 Z M110,933 L106,933 C103.791,933 102,934.791 102,937 L102,941 C102,943.209 103.791,945 106,945 L110,945 C112.209,945 114,943.209 114,941 L114,937 C114,934.791 112.209,933 110,933 L110,933 Z M112,957 C112,958.104 111.104,959 110,959 L106,959 C104.896,959 104,958.104 104,957 L104,953 C104,951.896 104.896,951 106,951 L110,951 C111.104,951 112,951.896 112,953 L112,957 L112,957 Z M110,949 L106,949 C103.791,949 102,950.791 102,953 L102,957 C102,959.209 103.791,961 106,961 L110,961 C112.209,961 114,959.209 114,957 L114,953 C114,950.791 112.209,949 110,949 L110,949 Z" id="grid" sketch:type="MSShapeGroup"></path></g></g></g></svg>				<span>اخري</span>
+				<i class="fal fa-angle-left"></i>
+			</a>
+			<ul class="submenu__ul">
+							<li>
+					<a href="https://arabseed-tv.com/category/tv-shows">
+						<span>برامج تلفزيونية</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/category/wwe-shows">
+						<span>مصارعه</span>
+					</a>
+				</li>
+							<li>
+					<a href="https://arabseed-tv.com/maps">
+						<span>خريطة الموقع</span>
+					</a>
+				</li>
+						</ul>
+		</li>
+	</ul>
+</section>	<root>
+		<div class="content__wrapper">
+    <div class="watch__area">
+        <div class="watch__servers__list d__flex gap__20 mb__20 flex__wrap">
+                        <div class="servers__list flex__1 full__767">
+                <ul class="d__flex gap__20 flex__wrap align__items__center justify__content__center">
+                    <li class="backvideo" style="background: #171e2b;padding: 0px;">
+                        <a style="padding: 10px;width: -webkit-fill-available;text-align: center;" href="https://arabseed-tv.com/series-outer-banks-s05-e10"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" x="0" y="0" viewBox="0 0 24 24" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><path fill="#ffffff" d="M16.707 4.293a1 1 0 1 0-1.414 1.414L17.586 8H9a6 6 0 0 0 0 12h5a1 1 0 1 0 0-2H9a4 4 0 0 1 0-8h8.586l-2.293 2.293a1 1 0 0 0 1.414 1.414l4-4a1 1 0 0 0 0-1.414z" opacity="1"></path></g></svg></a>
+                    </li>
+                    <li data-post="67046-67601" data-server="rmVfSYp7kr+ncFprWN6ya/v36ZR4p0LK4n/9tvn4eFwfpCdNEXvAEU2iEe5YJSfcowTCw175QZZhIrc+d6y+X2Y=" class=""><i class="fal fa-play"></i><span>سيرفر 1</span></li><li data-post="67046-67601" data-server="H9YG3y15f7OFWwhtFUhPv9rDsT+mebbUHxco8+yAV2PCbVCRZcoUVRdiRS9hAK9mcxg28YKtXrTSSN3QBCI=" class=""><i class="fal fa-play"></i><span>سيرفر 2</span></li><li data-post="67046-67601" data-server="s0vaIU2FHq7W92kiNl0k2gdNshuxhJfvy+kgilty9Hox+ERo3QEmA2j+UGpfmY/Ue4FMrzF95h4zKVmaPdcDiUY=" class=""><i class="fal fa-play"></i><span>سيرفر 3</span></li><li data-post="67046-67601" data-server="dBLLEVermaRLNyuFOsIwg4CP8y4Vlz/qNEcc4DOYgTaP4xffCxo4B9W8LtWo5M11YlhOecfsWSj5L8ELEfok" class=""><i class="fal fa-play"></i><span>سيرفر 4</span></li><li data-post="67046-67601" data-server="1JDz/iLnhU3XMscwG9M3QFmJfR4umqm6nff8U4aPBbWb/uBk4//P5Ppdo98W7j2zglBfoi5LNaNlI7RMXg4=" class=""><i class="fal fa-play"></i><span>سيرفر 5</span></li><li data-post="67046-67601" data-server="eq1pxX6m64AOo+bHgzlbWNRmpA6U5Qm+LN6u/t3B/+VCNrR8rQCNEjQXjVeEXv9xUg79n4Tn2+22a19C3ClPWA==" class=""><i class="fal fa-play"></i><span>سيرفر 6</span></li><li data-post="67046-67601" data-server="olHGE3CR2cL+JSN/iAmof6vqcExTYW/hcQwuOYHQv5kz9eUoqJkaoP3qaRJKJuypcyIxvhTHmsjvUDRysOajbHM=" class="active"><i class="fal fa-play"></i><span>سيرفر 7</span></li>                </ul>
+            </div>
+        </div>
+        <div class="player__iframe"><iframe src="https://byselapuix.com/e/odo5za191tia" scrolling="no" frameborder="0" width="100%" height="100%" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div>
+    </div>
+</div>		<div class="break__line"></div>
+        <div class="content__wrapper">
+            <section class="episodes__section mt__30 mb__30">
+                <div class="main__head mb__20">
+                    <div class="__right__title">
+                        <h2 class="__head__text"><i class="fas fa-clapperboard-play"></i> <span>الحلقات والمواسم</span></h2>
+                    </div>
+                    <div class="__head__left">
+                        <div class="list__sub__cats" id="seasons__list">
+                                                        <div class="filter__bttn">
+                                <i class="fa-solid fa-list-ol"></i>
+                                <b>الموسم 5</b>
+                                <i class="fas fa-arrow-down down__arrow"></i>
+                            </div>
+                            <ul>
+                                                                        <li class="selected" data-post="outer-banks" data-term="season-5">
+                                            <div class="select__circle"><i class="fa-regular fa-check"></i></div>
+                                            <span>الموسم 5</span>
+                                        </li>
+                                                                                <li class="" data-post="outer-banks" data-term="season-4">
+                                            <div class="select__circle"><i class="fa-regular fa-check"></i></div>
+                                            <span>الموسم 4</span>
+                                        </li>
+                                                                                <li class="" data-post="outer-banks" data-term="season-3">
+                                            <div class="select__circle"><i class="fa-regular fa-check"></i></div>
+                                            <span>الموسم 3</span>
+                                        </li>
+                                                                                <li class="" data-post="outer-banks" data-term="season-2">
+                                            <div class="select__circle"><i class="fa-regular fa-check"></i></div>
+                                            <span>الموسم 2</span>
+                                        </li>
+                                                                                <li class="" data-post="outer-banks" data-term="season-1">
+                                            <div class="select__circle"><i class="fa-regular fa-check"></i></div>
+                                            <span>الموسم 1</span>
+                                        </li>
+                                                                    </ul>
+                        </div>
+                    </div>
+                </div>
+                <ul class="episodes__list boxs__wrapper d__flex flex__wrap">
+                                                    <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e10" class="active" title="مسلسل Outer Banks الموسم الخامس حلقة 10 مترجمة HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>10</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7 last-in-row">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e09" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 9 مترجمة HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>9</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e08" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 8 مترجمة HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>8</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7 last-in-row">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e07" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 7 مترجمة HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>7</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e06" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 6 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>6</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7 last-in-row">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e05" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 5 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>5</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e04" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 4 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>4</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7 last-in-row">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e03" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 3 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>3</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e02" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 2 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>2</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                                <li class="box__xs__2 box__sm__2 box__md__4 box__lg__5 box__xl__7 last-in-row">
+                                    <a href="https://arabseed-tv.com/series-outer-banks-s05-e01" class="" title="مسلسل Outer Banks الموسم الخامس حلقة 1 مترجم HD">
+                                        <div class="ply__icon">
+                                            <svg fill="none" height="256px" viewBox="0 0 24 24" width="256px" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path d="M17.49 9.59965L5.6 16.7696C4.9 17.1896 4 16.6896 4 15.8696V7.86965C4 4.37965 7.77 2.19965 10.8 3.93965L15.39 6.57965L17.48 7.77965C18.17 8.18965 18.18 9.18965 17.49 9.59965Z" fill="#ffffff"></path><path d="M18.0888 15.4606L14.0388 17.8006L9.99883 20.1306C8.54883 20.9606 6.90883 20.7906 5.71883 19.9506C5.13883 19.5506 5.20883 18.6606 5.81883 18.3006L18.5288 10.6806C19.1288 10.3206 19.9188 10.6606 20.0288 11.3506C20.2788 12.9006 19.6388 14.5706 18.0888 15.4606Z" fill="#ffffff"></path></g></svg>                                        </div>
+                                        <div class="epi__num">
+                                            الحلقة<b>1</b>
+                                        </div>
+                                    </a>
+                                </li>
+                                                </ul>
+            </section>
+        </div>
+		<div class="break__line"></div>
+		<section class="blocks__section related_section mt__30 mb__30">
+		<div class="content__wrapper">
+			<div class="main__head mb__20 d__flex flex__wrap gap__20">
+				<div class="__right__title">
+					<h2 class="__head__text">
+						<i class="far fa-link"></i>
+						<span>حلقات اخري</span>
+					</h2>
+				</div>
+				<div class="__head__left full__767">
+					<ul class="tabs__list d__flex gap__10 full__767 space__767" id="episodes__toggler" data-id="33">
+						<li data-type="episodes" class="flex__767 selected">
+							<i class="fas fa-clapperboard-play"></i>
+							<span>حلقات مشابهة</span>
+						</li>
+						<li data-type="series" class="flex__767">
+							<i class="fa-regular fa-tv-retro"></i>
+							<span>مسلسلات مشابهة</span>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="related__blocks">
+				<ul class="episodes__blocks__holder boxs__wrapper not__slider">
+				    <li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5">    <a class="episode__item" href="https://arabseed-tv.com/series-dutton-ranch-e07" title="مسلسل Dutton Ranch حلقة 7 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/65939.webp" alt="مسلسل Dutton Ranch حلقة 7 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>Dutton Ranch</span>
+            <p>الحلقة <em>7</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5 last-in-row">    <a class="episode__item" href="https://arabseed-tv.com/series-the-mentalist-s06-e07" title="مسلسل The Mentalist الموسم السادس حلقة 7 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/66771.webp" alt="مسلسل The Mentalist الموسم السادس حلقة 7 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>The Mentalist</span>
+            <p>الحلقة <em>7</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5">    <a class="episode__item" href="https://arabseed-tv.com/series-off-campus-e03" title="مسلسل Off Campus حلقة 3 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/65885.webp" alt="مسلسل Off Campus حلقة 3 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>Off Campus</span>
+            <p>الحلقة <em>3</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5 last-in-row">    <a class="episode__item" href="https://arabseed-tv.com/series-daredevil-born-again-s02-e01" title="مسلسل Daredevil Born Again حلقة 1 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/65409-2.webp" alt="مسلسل Daredevil Born Again حلقة 1 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>Daredevil Born Again</span>
+            <p>الحلقة <em>1</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5">    <a class="episode__item" href="https://arabseed-tv.com/series-hannibal-s03-e03" title="مسلسل Hannibal الموسم الثالث حلقة 3 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/67273.webp" alt="مسلسل Hannibal الموسم الثالث حلقة 3 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>Hannibal</span>
+            <p>الحلقة <em>3</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5 last-in-row">    <a class="episode__item" href="https://arabseed-tv.com/series-mobland-e08" title="مسلسل MobLand حلقة 8 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/67323.webp" alt="مسلسل MobLand حلقة 8 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>MobLand</span>
+            <p>الحلقة <em>8</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5">    <a class="episode__item" href="https://arabseed-tv.com/series-the-mentalist-s02-e10" title="مسلسل The Mentalist الموسم الثاني حلقة 10 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/66771.webp" alt="مسلسل The Mentalist الموسم الثاني حلقة 10 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>The Mentalist</span>
+            <p>الحلقة <em>10</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5 last-in-row">    <a class="episode__item" href="https://arabseed-tv.com/series-mobland-e05" title="مسلسل MobLand حلقة 5 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/67323.webp" alt="مسلسل MobLand حلقة 5 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>MobLand</span>
+            <p>الحلقة <em>5</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5">    <a class="episode__item" href="https://arabseed-tv.com/series-the-testaments-e08" title="مسلسل The Testaments حلقة 8 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/65464.webp" alt="مسلسل The Testaments حلقة 8 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>The Testaments</span>
+            <p>الحلقة <em>8</em></p>
+        </div>
+    </a>
+</li><li class="box__xs__2 box__sm__2 box__md__3 box__lg__4 box__xl__5 last-in-row">    <a class="episode__item" href="https://arabseed-tv.com/series-the-boys-s04-e07" title="مسلسل The Boys حلقة 7 مترجم HD">
+        <div class="post__image">
+            <div class="svg__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+            <img width="350" height="250" decoding="async" loading="lazy" fetchpriority="high" class="images__loader" data-src="https://arabseed-tv.com/pics/covers/65498.webp" alt="مسلسل The Boys حلقة 7 مترجم HD" referrerpolicy="no-referrer">
+        </div>
+        <div class="episode__title">
+            <span>The Boys</span>
+            <p>الحلقة <em>7</em></p>
+        </div>
+    </a>
+</li>				</ul>
+			</div>
+		</div>
+		</section>
+	</root>
+    <script type="text/javascript">
+	no__photo = 'https://arabseed-tv.com/static/img/no-image.webp';
+	mainConfig = {
+		'HomeUrl': 'https://arabseed-tv.com',
+		'csrf__token': "1b5c34576280d71d"
+	};
+</script>
+<div class="go__to__top showed menu__onscroll">
+	<i class="fal fa-angle-up"></i> عودة الى أعلي 
+</div>
+<div class="trailer__model">
+	<a href="javascript:;" onclick="$(this).parent().removeClass('opend').find('iframe').attr('src', '');$('body').removeClass('trailer__open')"></a>
+	<div class="trailer__model__contents">
+		<iframe src=""></iframe>
+	</div>
+</div>
+<footer class="site__footer">
+	<div class="top__footer">
+		<div class="content__wrapper">
+			<div class="footer__logo">
+				<a href="https://arabseed-tv.com" class="site__logo">
+					<div class="logo__icon"><svg height="45" version="1.1" width="45" xmlns="http://www.w3.org/2000/svg"><path d="M0 0 C4.33716194 2.4421314 6.96189646 5.49265563 9 10 C8.34 9.67 7.68 9.34 7 9 C3.25960034 7.75320011 -0.12979307 7.24410021 -4 8 C-7.52270578 9.97392996 -9.70015869 12.10047608 -11 16 C-11.88505617 24.67355045 -8.02870908 32.17532339 -3 39 C-6.67491247 38.74361076 -8.66597622 38.25449431 -11.625 36 C-18.2254468 27.66259352 -19.18233922 19.53464245 -18 9 C-16.88420068 5.43058076 -15.43831342 2.8886395 -12.16015625 0.86328125 C-8.14943876 -0.73955522 -4.22371261 -0.75261238 0 0 Z " fill="#DEDEDE" transform="translate(22,3)"></path><path d="M0 0 C6.3061908 1.2935776 11.04460855 5.04938103 15 10 C16.48195388 14.17306415 15.74095713 17.36715003 13.9453125 21.32421875 C9.85162262 28.13547112 3.70593277 34.17301757 -4.0625 36.4375 C-5.031875 36.623125 -6.00125 36.80875 -7 37 C-7.98712878 35.75627811 -8.96439905 34.50472782 -9.9375 33.25 C-10.48277344 32.55390625 -11.02804688 31.8578125 -11.58984375 31.140625 C-12.97425654 29.03907872 -13.56286987 27.45678201 -14 25 C-13.34 25.495 -12.68 25.99 -12 26.5 C-7.29143389 28.85428306 -3.16772247 28.51836842 1.875 27.3125 C4.77470677 25.52150464 5.20918793 24.30703231 6 21 C6.67141189 14.28588113 5.05316604 9.92804501 2 4 C1.33333333 2.66666667 0.66666667 1.33333333 0 0 Z " fill="#C80101" transform="translate(27,5)"></path><path d="M0 0 C3.63 1.98 7.26 3.96 11 6 C10 9 10 9 7.71484375 10.38671875 C6.79832031 10.81597656 5.88179687 11.24523438 4.9375 11.6875 C3.55884766 12.34298828 3.55884766 12.34298828 2.15234375 13.01171875 C1.44207031 13.33785156 0.73179688 13.66398437 0 14 C-1 13 -1 13 -1.1328125 10.3125 C-1.13023438 9.219375 -1.12765625 8.12625 -1.125 7 C-1.12757812 5.906875 -1.13015625 4.81375 -1.1328125 3.6875 C-1 1 -1 1 0 0 Z " fill="#C50202" transform="translate(18,15)"></path></svg></div>
+					<h3 class="logo__text">عرب سيد <span>Arab<em>Seed</em></span></h3>
+					<div class="slogan">
+						<div class="icon">
+							<lord-icon src="https://arabseed-tv.com/static/speed.json" trigger="loop" delay="2000" stroke="light" state="hover-roll" colors="primary:#ffffff,secondary:#ffffff"></lord-icon>
+						</div>
+						<p class="text">اسرع موقع <em>فـــــي مـــصـــر</em></p>
+					</div>
+				</a>
+			</div>
+			<p class="footer__description">افلام ومسلسلات بجودة عالية بدون تقطيع ، تحميل ومشاهدة افلام اجنبية بروابط مباشرة ، مسلسلات اجنبية ، مسلسلات عربية ، مسلسلات تركية</p>
+			<div class="footer__menu">
+				<ul>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637594">
+						<a href="https://arabseed-tv.com/orders">طلبات الزوار</a>
+					</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-637567">
+						<a rel="privacy-policy" href="https://arabseed-tv.com/privacy-policy">Privacy Policy</a>
+					</li>
+					<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-637568">
+						<a href="https://arabseed-tv.com/dmca">DMCA</a>
+					</li>
+				</ul>
+			</div>
+			<div class="social__footer"></div>
+		</div>
+	</div>
+	</footer>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8V85K0N0V8"></script><script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag("js", new Date());
+                gtag("config", "G-8V85K0N0V8");
+              </script><script data-cfasync="false" async="" type="text/javascript" src="//po.juslikgondang.com/rrAIJWqXVecvVsoz/78390"></script>
+    <script type="text/javascript" src="https://arabseed-tv.com/static/js/lordicon.js?v=26"></script>
+    <script type="text/javascript" src="https://arabseed-tv.com/static/js/script.js?v=26"></script>
+    <script type="text/javascript" src="https://arabseed-tv.com/static/js/swiper.js?v=26"></script>
+    <script type="text/javascript" src="https://arabseed-tv.com/static/js/device.js?v=26"></script>
+    <script type="text/javascript" src="https://arabseed-tv.com/static/js/check.js?v=26"></script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;b9930b64bd6943b8bc4b236f3bf6eaf0&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+
+</body></html>

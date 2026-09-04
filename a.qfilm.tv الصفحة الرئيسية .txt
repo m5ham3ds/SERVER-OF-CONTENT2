@@ -1,0 +1,3131 @@
+<!DOCTYPE html><html dir="rtl"><!--<![endif]--><head>
+<meta charset="UTF-8">
+<title>كيو فيلم - مشاهدة أفلام اون لاين 2026 HD</title>
+<meta name="description" content="موقع كيو فيلم لمشاهدة أحدث الأفلام العربية والأجنبية لعام 2026 أونلاين. تحميل أفلام هندية وآسيوية وتركية وأنيميشن مترجمة ومدبلجة بجودة عالية HD ومشاهدة مباشرة بدون تقطيع.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://a.qfilm.tv">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="/favicons/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+<meta name="theme-color" content="#000000">
+<link rel="alternate" type="application/rss+xml" title="كيو فيلم" href="https://a.qfilm.tv/rss.php">
+
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "Organization",
+"@id": "https://a.qfilm.tv#organization",
+"name": "كيو فيلم",
+"alternateName": "QfilmTV",
+"url": "https://a.qfilm.tv",
+"logo": "https://a.qfilm.tv/favicons/logo.png",
+"sameAs": [
+"https://www.facebook.com/QfilmTV",
+"https://twitter.com/QfilmTV",
+"https://www.youtube.com/QfilmTV",
+"https://www.instagram.com/QfilmTV"
+]
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "WebSite",
+"@id": "https://a.qfilm.tv#website",
+"url": "https://a.qfilm.tv",
+"name": "كيو فيلم",
+"publisher": {
+"@id": "https://a.qfilm.tv#organization"
+},
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://a.qfilm.tv/search.php?keywords={search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script>
+
+<link rel="stylesheet" href="https://a.qfilm.tv/templates/qfilm/css/bootstrap.3.4.1.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/jasny-bootstrap.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/echo.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/animate.min.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/bootstrap.min.rtl.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/echo.rtl.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@700&amp;family=Almarai:wght@400;700&amp;family=Cairo:wght@400;700&amp;family=Changa:wght@400;700&amp;family=Tajawal:wght@400;700&amp;display=swap">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css">
+<link rel="stylesheet" type="text/css" media="screen" href="https://a.qfilm.tv/templates/qfilm/css/custom.css">
+<script type="text/javascript">
+var MELODYURL = "https://a.qfilm.tv";
+var MELODYURL2 = "https://a.qfilm.tv";
+var TemplateP = "https://a.qfilm.tv/templates/qfilm";
+var _LOGGEDIN_ =  false ;
+ 
+</script>
+
+<script type="text/javascript">
+ var pm_lang = {
+lights_off: "إغلاق الإضاءة",
+lights_on: "تشغيل الإضاءة",
+validate_name: "الرجاء إدخال اسم",
+validate_username: "الرجاء إدخال اسم مستخدم",
+validate_pass: "يرجى تقديم كلمة مرور",
+validate_captcha: "الرجاء إدخال رمز التحقق",
+validate_email: "رجاء قم بإدخال بريد إلكتروني صحيح",
+validate_agree: "يرجى قبول سياستنا",
+validate_name_long: "يجب أن يتكون اسمك من حرفين على الأقل",
+validate_username_long: "يجب أن يحتوي اسم المستخدم على حرفين على الأقل",
+validate_pass_long: "يجب أن تتكون كلمة المرور من 5 أحرف على الأقل",
+validate_confirm_pass_long: "يرجى إدخال كلمة المرور نفسها على النحو الوارد أعلاه",
+choose_category: "الرجاء اختيار تصنيف",
+validate_select_file: "لم يتم اختيار أي ملف للرفع",
+validate_video_title: "الرجاء إدخال عنوان لهذا الفيديو",
+please_wait: "جار التحميل...",
+// upload video page
+swfupload_status_uploaded: "تم التحميل",
+swfupload_status_pending: "تابع بقية النموذج.",
+swfupload_status_queued: "قائمة الانتظار",
+swfupload_status_uploading: "جار التحميل...",
+swfupload_file: "ملف",
+swfupload_btn_select: "تحديد",
+swfupload_btn_cancel: "إلغاء",
+swfupload_status_error: "خطاً",
+swfupload_error_oversize: "حجم الملف المحدد/ الملفات المحددة أكبر من الحد المسموح به",
+swfupload_friendly_maxsize: "",
+upload_errmsg2: "نوع الملف غير مسموح.",
+// playlist
+playlist_delete_confirm: "هل تريد بالتأكيد حذف قائمة التشغيل هذه نهائياً؟ اضغط 'إلغاء' للتوقف، أو 'OK' للحذف.",
+playlist_delete_item_confirm: "أنت على وشك إزالة هذا الفيديو من قائمة التشغيل. اضغط 'إلغاء' للتوقف، أو 'OK' للحذف.",
+show_more: "عرض المزيد",
+show_less: "عرض أقل",
+delete_video_confirmation: "هل تريد بالتأكيد حذف هذا الفيديو؟",
+browse_all: "تصفح الكل"
+ }
+</script>
+
+<style></style><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"><script type="text/javascript" async="" src="//s10.histats.com/js15_as.js"></script></head>
+<body>
+
+<nav id="myNavmenu" class="navmenu navmenu-default navmenu-fixed-left offcanvas" role="navigation">
+<div class="navslide-wrap">
+<ul class="list-unstyled">
+<li class="nav-menu-item-active"><a href="https://a.qfilm.tv/index.php"><i class="mico mico-home"></i>الصفحة الرئيسية</a></li>
+
+<li><a class="ajax-modal" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form"><i class="mico mico-perm_identity"></i>تسجيل دخول</a></li>
+
+</ul>
+<div class="navslide-divider"></div>
+
+<div class="navslide-header"><a href="https://a.qfilm.tv/category.php">التصنيفات</a></div>
+<ul class="list-unstyled">
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=2026-movies" class="">أفلام 2026</a></li>
+<li class="dropdown-submenu"><a href="https://a.qfilm.tv/category.php?cat=arabic-movies" class="dropdown-submenu">أفلام عربي</a>
+<ul class="dropdown-menu">
+	<li class=""><a href="https://a.qfilm.tv/category.php?cat=egyptian-movies" class="">أفلام مصرية</a>	</li>
+</ul>
+</li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=foreign-movies" class="">أفلام أجنبي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=indian-movies" class="">أفلام هندي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=asian-movies" class="">أفلام آسيوية</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=turkish-movies" class="">أفلام تركية</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=anime-movies" class="">أفلام أنيميشن</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=dubbed-movies" class="">أفلام مدبلجة</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=romance-movies" class="">رومانسي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=adult-movies" class="">للكبار فقط +18</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=drama-movies" class="">دراما</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=action-movies" class="">أكشن</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=comedy-movies" class="">كوميدي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=horror-movies" class="">رعب</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=thriller-movies" class="">تشويق وإثارة</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=adventure-movies" class="">مغامرات</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=crime-movies" class="">جريمة</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=mystery-movies" class="">غموض</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=sci-fi-movies" class="">خيال علمي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=fantasy-movies" class="">فانتازيا</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=war-movies" class="">حروب</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=documentary-movies" class="">وثائقي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=family-movies" class="">عائلي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=biography-movies" class="">سيرة ذاتية</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=musical-movies" class="">موسيقي وغنائي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=historical-movies" class="">تاريخي</a></li>
+<li class=""><a href="https://a.qfilm.tv/category.php?cat=coming-soon" class="">يعرض قريبًا</a></li>
+
+</ul>
+<div class="navslide-divider"></div>
+
+</div>
+</nav>
+
+<div class="container-fluid no-padding">
+<header class="pm-top-head header-bg">
+<div class="row">
+<div class="col-xs-7 col-sm-4 col-md-4">
+<a href="#" data-toggle="offcanvas" data-target="#myNavmenu" data-canvas="body" id="navslide-toggle"><span>قائمة العرض</span></a>
+<div class="header-logo">
+<h3><a href="https://a.qfilm.tv" rel="home">كيو فيلم</a></h3>
+</div>
+</div>
+<div class="hidden-xs col-sm-4 col-md-4" id="pm-top-search">
+<form action="https://a.qfilm.tv/search.php" method="get" id="search" class="pm-search-form" name="search" onsubmit="return validateSearch('true');">
+<div class="input-group">
+<input class="form-control" id="pm-search" size="16" name="keywords" type="text" placeholder="ابحث عن فيلم أو مسلسل..." x-webkit-speech="x-webkit-speech" onwebkitspeechchange="this.form.submit();">
+<input class="form-control" id="pm-video-id" size="16" name="video-id" type="hidden">
+<span class="input-group-btn" style="background:#f5b301;border-radius:4px 0 0 4px;">
+<button class="btn btn-default" type="submit" style="background:#f5b301;border-color:#f5b301;"><i class="fa fa-search"></i></button>
+</span>
+</div><!-- /input-group -->
+</form>
+<div class="pm-search-suggestions hide-me">
+<ul class="pm-search-suggestions-list list-unstyled"></ul>
+</div>
+</div>
+
+<div class="col-xs-5 col-sm-4 col-md-4">
+<ul class="list-inline navbar-pmuser">
+<li class="hidden-sm hidden-md hidden-lg"><a href="#" id="pm-top-mobile-search-show" class="" title="ابحث عن فيلم أو مسلسل"><i class="mico mico-search"></i></a></li>
+<li class="hidden-xs"><a class="btn btn-sm btn-default ajax-modal" data-toggle="modal" data-backdrop="true" data-keyboard="true" href="#modal-login-form">تسجيل دخول</a></li>
+</ul>
+</div>
+</div><!--.row-->
+</header>
+
+<div class="modal" id="modal-login-form">
+	<div class="modal-dialog modal-md">
+		<div class="modal-content">
+			<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">إغلاق</span></button>
+				<h4 class="modal-title">تسجيل دخول</h4>
+			</div>
+			<div class="modal-body">
+								<form name="login_form" id="login-form" method="post" action="https://a.qfilm.tv/login.php">
+	<div class="form-group">
+		<label for="username">اسمك أو بريدك الإلكتروني</label>
+		<input type="text" class="form-control" name="username" value="" placeholder="اسمك أو بريدك الإلكتروني">
+	</div>
+	<div class="form-group">
+		<label for="pass">كلمة المرور</label>
+		<input type="password" class="form-control" id="pass" name="pass" maxlength="32" autocomplete="off" placeholder="كلمة المرور">
+	</div>
+	<div class="form-group">
+		<button type="submit" name="Login" value="تسجيل دخول" class="btn btn-success btn-with-loader" data-loading-text="تسجيل الدخول...">تسجيل دخول</button> 
+		<small><a href="https://a.qfilm.tv/login.php?do=forgot_pass">نسيت كلمة السر؟</a></small>
+	</div>
+</form>			</div>
+		</div>
+	</div>
+</div>
+<a id="top"></a>
+
+<div class="mastcontent-wrap">
+
+<div class="HeaderCats">
+<a href="/category.php?cat=2026-movies" style="background:#41a62a;">أفلام 2026</a> 
+<a href="/category.php?cat=arabic-movies">أفلام عربي</a>
+<a href="/category.php?cat=foreign-movies">أفلام أجنبية</a>
+<a href="/category.php?cat=indian-movies">أفلام هندية</a>
+<a href="/category.php?cat=asian-movies">أفلام آسيوية</a>
+<a href="/category.php?cat=turkish-movies">أفلام تركية</a>
+<a href="/category.php?cat=anime-movies">أفلام أنمي</a>
+<a href="/category.php?cat=adult-movies" style="background:#ff0000;">أفلام +18</a>
+</div>
+
+<div class="pm-ads-banner" align="center" style="padding:0 0 12px !important;"><ins class="604c7625" data-key="b0c6d61d-7389-4e00-8ce0-3012892569dd" data-cp-host="75537371c8584597b94f6f996ce61a23|www.qfilm.tv" data-cp-domain="www.qfilm.tv"></ins>
+<script async="" src="https://cvt-s1.agl006.host/o/s/723a35c762c5028ac49fe0ddaf774ff3.js"></script></div>
+
+<div class="header-featured-box">
+
+<!--<div class="header-featured-title">🔥 <a href="/category.php?cat=ramadan-series" title="مسلسلات رمضان 2026">مسلسلات رمضان 2026</a></div>-->
+
+<div class="header-featured-title">🔥 حصريات كيو فيلم</div>
+
+<div class="header-featured-grid">
+
+<a href="https://a.qfilm.tv/watch.php?vid=d9646225e" class="header-featured-item" title="مشاهدة فيلم Mutiny 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/9bb5e8ebc-1.jpg" alt="مشاهدة فيلم Mutiny 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم Mutiny 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=064d83015" class="header-featured-item" title="مشاهدة فيلم Spider-Man: Brand New Day 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/96a765571-1.jpg" alt="مشاهدة فيلم Spider-Man: Brand New Day 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم Spider-Man: Brand New Day 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=24606e8b7" class="header-featured-item" title="مشاهدة فيلم The Odyssey 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/ce36888ab-1.jpg" alt="مشاهدة فيلم The Odyssey 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم The Odyssey 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=60983696d" class="header-featured-item" title="مشاهدة فيلم ولنا في الخيال حب (2025) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/60983696d-1.jpg" alt="مشاهدة فيلم ولنا في الخيال حب (2025) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم ولنا في الخيال حب (2025)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=5f56dfe5f" class="header-featured-item" title="مشاهدة فيلم Alpha 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/3e47a42d8-1.jpg" alt="مشاهدة فيلم Alpha 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم Alpha 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=442c93629" class="header-featured-item" title="مشاهدة فيلم طلقني (2025) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/7a4752b07-1.jpg" alt="مشاهدة فيلم طلقني (2025) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم طلقني (2025)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=972cd68c1" class="header-featured-item" title="مشاهدة فيلم خلي بالك من نفسك (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/1b9149acb-1.jpg" alt="مشاهدة فيلم خلي بالك من نفسك (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم خلي بالك من نفسك (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=2495e0ab6" class="header-featured-item" title="مشاهدة فيلم شمشون ودليلة (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/2495e0ab6-1.jpg" alt="مشاهدة فيلم شمشون ودليلة (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم شمشون ودليلة (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=e5c97bd57" class="header-featured-item" title="مشاهدة فيلم Toy Story 5 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/d59f39e34-1.jpg" alt="مشاهدة فيلم Toy Story 5 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم Toy Story 5 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=bfeab24aa" class="header-featured-item" title="مشاهدة فيلم Your Fault: London 2026 مترجم HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/7cf44373e-1.jpg" alt="مشاهدة فيلم Your Fault: London 2026 مترجم HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم Your Fault: London 2026 مترجم
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=047e48040" class="header-featured-item" title="مشاهدة فيلم الكلاب السبعة 7 Dogs (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/99ca68d3f-1.jpg" alt="مشاهدة فيلم الكلاب السبعة 7 Dogs (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم الكلاب السبعة 7 Dogs (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=1bf1cc441" class="header-featured-item" title="مشاهدة فيلم الكلام على إيه؟!: أول ليلة (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/4bccad0da-1.jpg" alt="مشاهدة فيلم الكلام على إيه؟!: أول ليلة (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم الكلام على إيه؟!: أول ليلة (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=fd318f75d" class="header-featured-item" title="مشاهدة فيلم صقر وكناريا (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/9b573542c-1.jpg" alt="مشاهدة فيلم صقر وكناريا (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم صقر وكناريا (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=f2884cf24" class="header-featured-item" title="مشاهدة فيلم محمود التاني (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/e1d2ed734-1.jpg" alt="مشاهدة فيلم محمود التاني (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم محمود التاني (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=fd64f0a30" class="header-featured-item" title="مشاهدة فيلم أسد (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/c3cddb46d-1.jpg" alt="مشاهدة فيلم أسد (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم أسد (2026)
+</div>
+
+</a>
+<a href="https://a.qfilm.tv/watch.php?vid=3ea8ef002" class="header-featured-item" title="مشاهدة فيلم برشامة (2026) HD اون لاين">
+
+<div class="header-featured-thumb">
+<img src="https://a.qfilm.tv/uploads/thumbs/da17054a7-1.jpg" alt="مشاهدة فيلم برشامة (2026) HD اون لاين">
+</div>
+
+<div class="header-featured-name">
+فيلم برشامة (2026)
+</div>
+
+</a>
+
+</div>
+
+</div>
+<div id="content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+			<div class="pm-section-head">
+				<h2><i class="fas fa-star"></i> <a href="https://a.qfilm.tv/newvideos.php">جديد الموقع</a></h2>
+			</div>
+			<ul class="row pm-ul-browse-videos list-unstyled" style="animation-duration: 0ms; opacity: 1;">
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">26:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" title="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/3301e1b3b-1.jpg" alt="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3301e1b3b">
+<h3 class="caption">
+فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=c96a02fec" title="مشاهدة فيلم I Live Here Now 2025 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/c96a02fec-1.jpg" alt="مشاهدة فيلم I Live Here Now 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=c96a02fec">
+<h3 class="caption">
+فيلم I Live Here Now 2025 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:52:30</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=641945985" title="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/641945985-1.jpg" alt="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=641945985">
+<h3 class="caption">
+فيلم The Brink of War 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:57</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=57232f74b" title="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/57232f74b-1.jpg" alt="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=57232f74b">
+<h3 class="caption">
+فيلم Agents Un Peu Trop Secrets 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:46:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=376328490" title="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/431284671-1.jpg" alt="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=376328490">
+<h3 class="caption">
+فيلم The Last Sunrise 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=186c9d930" title="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/186c9d930-1.jpg" alt="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=186c9d930">
+<h3 class="caption">
+فيلم Öngörü 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:53:48</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03" title="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/fc9ca4b03-1.jpg" alt="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03">
+<h3 class="caption">
+فيلم The Whisper Man 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=92219e841" title="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/92219e841-1.jpg" alt="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=92219e841">
+<h3 class="caption">
+فيلم The Secret Woman 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=285537e76" title="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/285537e76-1.jpg" alt="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=285537e76">
+<h3 class="caption">
+فيلم The Last Assassins 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:50</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7f485f9ff" title="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/7f485f9ff-1.jpg" alt="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7f485f9ff">
+<h3 class="caption">
+فيلم Blood Shine 2025 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:06:47</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" title="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb45ac4c2-1.jpg" alt="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2">
+<h3 class="caption">
+فيلم Pyaar Prema Kalyanam 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:26</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=46e242deb" title="مشاهدة فيلم Momo 2025 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/46e242deb-1.jpg" alt="مشاهدة فيلم Momo 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=46e242deb">
+<h3 class="caption">
+فيلم Momo 2025 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:21:32</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7f60167df" title="مشاهدة فيلم Hadestown: The Musical 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/7f60167df-1.jpg" alt="مشاهدة فيلم Hadestown: The Musical 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7f60167df">
+<h3 class="caption">
+فيلم Hadestown: The Musical 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=2c11a3cee" title="مشاهدة فيلم Facing El Chapo 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/2c11a3cee-1.jpg" alt="مشاهدة فيلم Facing El Chapo 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=2c11a3cee">
+<h3 class="caption">
+فيلم Facing El Chapo 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:25:23</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=400c77d94" title="مشاهدة فيلم Bury the Devil 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/400c77d94-1.jpg" alt="مشاهدة فيلم Bury the Devil 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=400c77d94">
+<h3 class="caption">
+فيلم Bury the Devil 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:18:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5de66cf7b" title="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/5de66cf7b-1.jpg" alt="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5de66cf7b">
+<h3 class="caption">
+فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:30:03</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=9c9097695" title="مشاهدة فيلم Atlas King 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/9c9097695-1.jpg" alt="مشاهدة فيلم Atlas King 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=9c9097695">
+<h3 class="caption">
+فيلم Atlas King 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+								<li class="col-xs-6 col-sm-6 col-md-3">
+					<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=e892e50dd" title="مشاهدة فيلم Above and Below 2026 مترجم HD اون لاين">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/e892e50dd-1.jpg" alt="مشاهدة فيلم Above and Below 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=e892e50dd">
+<h3 class="caption">
+فيلم Above and Below 2026 مترجم
+</h3>
+</a>
+</div>
+</div>				</li>
+							</ul>
+			<div class="clearfix"></div>
+        </div><!-- .col-md-8 -->
+
+        <div class="col-md-4">
+            	        	        
+	        	        
+	                
+		</div><!-- .col-md-4 -->
+      </div><!-- .row -->
+
+
+		<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+
+					<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=2026-movies">أفلام 2026</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_27" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_27" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="27" data-slides="5" id="pm-carousel_27">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide08" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=92219e841" title="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/92219e841-1.jpg" alt="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=92219e841" tabindex="-1">
+<h3 class="caption">
+فيلم The Secret Woman 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide09" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=285537e76" title="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/285537e76-1.jpg" alt="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=285537e76" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Assassins 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide00" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">26:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" title="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/3301e1b3b-1.jpg" alt="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" tabindex="0">
+<h3 class="caption">
+فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide01" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="0">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide02" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" tabindex="-1">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide03" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:52:30</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=641945985" title="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/641945985-1.jpg" alt="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=641945985" tabindex="-1">
+<h3 class="caption">
+فيلم The Brink of War 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide04" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:57</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=57232f74b" title="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/57232f74b-1.jpg" alt="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=57232f74b" tabindex="-1">
+<h3 class="caption">
+فيلم Agents Un Peu Trop Secrets 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide05" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:46:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=376328490" title="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/431284671-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=376328490" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Sunrise 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide06" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=186c9d930" title="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/186c9d930-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=186c9d930" tabindex="-1">
+<h3 class="caption">
+فيلم Öngörü 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide07" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:53:48</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03" title="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/fc9ca4b03-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03" tabindex="-1">
+<h3 class="caption">
+فيلم The Whisper Man 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide08" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=92219e841" title="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/92219e841-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=92219e841" tabindex="-1">
+<h3 class="caption">
+فيلم The Secret Woman 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide09" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=285537e76" title="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/285537e76-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=285537e76" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Assassins 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide00" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">26:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" title="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/3301e1b3b-1.jpg" alt="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" tabindex="-1">
+<h3 class="caption">
+فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide01" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="-1">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=foreign-movies">أفلام أجنبي</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_2" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_2" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="2" data-slides="5" id="pm-carousel_2">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide18" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=285537e76" title="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/285537e76-1.jpg" alt="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=285537e76" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Assassins 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide19" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:50</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7f485f9ff" title="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/7f485f9ff-1.jpg" alt="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7f485f9ff" tabindex="-1">
+<h3 class="caption">
+فيلم Blood Shine 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide10" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="0">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide11" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" tabindex="0">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide12" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=c96a02fec" title="مشاهدة فيلم I Live Here Now 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/c96a02fec-1.jpg" alt="مشاهدة فيلم I Live Here Now 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=c96a02fec" tabindex="-1">
+<h3 class="caption">
+فيلم I Live Here Now 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide13" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:52:30</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=641945985" title="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/641945985-1.jpg" alt="مشاهدة فيلم The Brink of War 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=641945985" tabindex="-1">
+<h3 class="caption">
+فيلم The Brink of War 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide14" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:57</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=57232f74b" title="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/57232f74b-1.jpg" alt="مشاهدة فيلم Agents Un Peu Trop Secrets 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=57232f74b" tabindex="-1">
+<h3 class="caption">
+فيلم Agents Un Peu Trop Secrets 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide15" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:46:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=376328490" title="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/431284671-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=376328490" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Sunrise 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide16" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:53:48</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03" title="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Whisper Man 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/fc9ca4b03-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=fc9ca4b03" tabindex="-1">
+<h3 class="caption">
+فيلم The Whisper Man 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide17" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=92219e841" title="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Secret Woman 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/92219e841-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=92219e841" tabindex="-1">
+<h3 class="caption">
+فيلم The Secret Woman 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide18" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=285537e76" title="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Last Assassins 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/285537e76-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=285537e76" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Assassins 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide19" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:50</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7f485f9ff" title="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Blood Shine 2025 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/7f485f9ff-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7f485f9ff" tabindex="-1">
+<h3 class="caption">
+فيلم Blood Shine 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide10" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="-1">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide11" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" tabindex="-1">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=indian-movies">أفلام هندي</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_3" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_3" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="3" data-slides="5" id="pm-carousel_3">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide28" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:15:55</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5a4fad811" title="مشاهدة فيلم Param Sundari 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/5a4fad811-1.jpg" alt="مشاهدة فيلم Param Sundari 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5a4fad811" tabindex="-1">
+<h3 class="caption">
+فيلم Param Sundari 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide29" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:27:40</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=da517fab5" title="مشاهدة فيلم Thamma 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/da517fab5-1.jpg" alt="مشاهدة فيلم Thamma 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=da517fab5" tabindex="-1">
+<h3 class="caption">
+فيلم Thamma 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide20" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:06:47</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" title="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb45ac4c2-1.jpg" alt="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" tabindex="0">
+<h3 class="caption">
+فيلم Pyaar Prema Kalyanam 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide21" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:10:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=ce62be058" title="مشاهدة فيلم Yodha 2024 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/ce62be058-1.jpg" alt="مشاهدة فيلم Yodha 2024 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=ce62be058" tabindex="0">
+<h3 class="caption">
+فيلم Yodha 2024 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide22" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:33:31</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=a37918c65" title="مشاهدة فيلم Oh Darling Yeh Hai India 1995 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/a37918c65-1.jpg" alt="مشاهدة فيلم Oh Darling Yeh Hai India 1995 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=a37918c65" tabindex="-1">
+<h3 class="caption">
+فيلم Oh Darling Yeh Hai India 1995 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide23" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:21:43</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=52a2a819f" title="مشاهدة فيلم Murder Mubarak 2024 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/52a2a819f-1.jpg" alt="مشاهدة فيلم Murder Mubarak 2024 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=52a2a819f" tabindex="-1">
+<h3 class="caption">
+فيلم Murder Mubarak 2024 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide24" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:59:24</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=9992c3edf" title="مشاهدة فيلم Nadaaniyan 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/9992c3edf-1.jpg" alt="مشاهدة فيلم Nadaaniyan 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=9992c3edf" tabindex="-1">
+<h3 class="caption">
+فيلم Nadaaniyan 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide25" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:03:31</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=f684fab5b" title="مشاهدة فيلم Naksha 2006 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Naksha 2006 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/f684fab5b-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=f684fab5b" tabindex="-1">
+<h3 class="caption">
+فيلم Naksha 2006 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide26" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:46:55</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3f3fe327c" title="مشاهدة فيلم Nukkad Naatak 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Nukkad Naatak 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/3f3fe327c-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3f3fe327c" tabindex="-1">
+<h3 class="caption">
+فيلم Nukkad Naatak 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide27" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:58:07</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=119524f05" title="مشاهدة فيلم O' Romeo 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم O' Romeo 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/119524f05-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=119524f05" tabindex="-1">
+<h3 class="caption">
+فيلم O' Romeo 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide28" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:15:55</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5a4fad811" title="مشاهدة فيلم Param Sundari 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Param Sundari 2025 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/5a4fad811-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5a4fad811" tabindex="-1">
+<h3 class="caption">
+فيلم Param Sundari 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide29" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:27:40</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=da517fab5" title="مشاهدة فيلم Thamma 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Thamma 2025 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/da517fab5-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=da517fab5" tabindex="-1">
+<h3 class="caption">
+فيلم Thamma 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide20" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:06:47</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" title="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb45ac4c2-1.jpg" alt="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" tabindex="-1">
+<h3 class="caption">
+فيلم Pyaar Prema Kalyanam 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide21" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:10:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=ce62be058" title="مشاهدة فيلم Yodha 2024 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/ce62be058-1.jpg" alt="مشاهدة فيلم Yodha 2024 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=ce62be058" tabindex="-1">
+<h3 class="caption">
+فيلم Yodha 2024 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=asian-movies">أفلام آسيوية</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_4" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_4" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="4" data-slides="5" id="pm-carousel_4">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide38" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:04:36</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=86f2c5c1b" title="مشاهدة فيلم Panor 2 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/86f2c5c1b-1.jpg" alt="مشاهدة فيلم Panor 2 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=86f2c5c1b" tabindex="-1">
+<h3 class="caption">
+فيلم Panor 2 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide39" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:39</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=de4847864" title="مشاهدة فيلم Panor 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/de4847864-1.jpg" alt="مشاهدة فيلم Panor 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=de4847864" tabindex="-1">
+<h3 class="caption">
+فيلم Panor 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide30" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:52:24</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7ce4459b1" title="مشاهدة فيلم This, That and Everything in Between 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/7ce4459b1-1.jpg" alt="مشاهدة فيلم This, That and Everything in Between 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7ce4459b1" tabindex="0">
+<h3 class="caption">
+فيلم This, That and Everything in Between 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide31" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:49:15</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=607c4dbe1" title="مشاهدة فيلم Wild Sing 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/607c4dbe1-1.jpg" alt="مشاهدة فيلم Wild Sing 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=607c4dbe1" tabindex="0">
+<h3 class="caption">
+فيلم Wild Sing 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide32" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:04:41</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=2cc2204cb" title="مشاهدة فيلم Sound of Silence 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/2cc2204cb-1.jpg" alt="مشاهدة فيلم Sound of Silence 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=2cc2204cb" tabindex="-1">
+<h3 class="caption">
+فيلم Sound of Silence 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide33" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:45:48</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=4882dffad" title="مشاهدة فيلم Lobby 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/4882dffad-1.jpg" alt="مشاهدة فيلم Lobby 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=4882dffad" tabindex="-1">
+<h3 class="caption">
+فيلم Lobby 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide34" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:37:35</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=639b827fe" title="مشاهدة فيلم Ip Man: Kung Fu Legend 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/639b827fe-1.jpg" alt="مشاهدة فيلم Ip Man: Kung Fu Legend 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=639b827fe" tabindex="-1">
+<h3 class="caption">
+فيلم Ip Man: Kung Fu Legend 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide35" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:38:58</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0ec60976d" title="مشاهدة فيلم Hope 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Hope 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/0ec60976d-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0ec60976d" tabindex="-1">
+<h3 class="caption">
+فيلم Hope 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide36" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:14:18</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=9e78e3670" title="مشاهدة فيلم The Debt Collector 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم The Debt Collector 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/9e78e3670-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=9e78e3670" tabindex="-1">
+<h3 class="caption">
+فيلم The Debt Collector 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide37" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:29</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=b668d11f4" title="مشاهدة فيلم Dead Mine 2012 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Dead Mine 2012 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/b668d11f4-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=b668d11f4" tabindex="-1">
+<h3 class="caption">
+فيلم Dead Mine 2012 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide38" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:04:36</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=86f2c5c1b" title="مشاهدة فيلم Panor 2 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Panor 2 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/86f2c5c1b-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=86f2c5c1b" tabindex="-1">
+<h3 class="caption">
+فيلم Panor 2 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide39" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:39</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=de4847864" title="مشاهدة فيلم Panor 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Panor 2025 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/de4847864-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=de4847864" tabindex="-1">
+<h3 class="caption">
+فيلم Panor 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide30" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:52:24</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=7ce4459b1" title="مشاهدة فيلم This, That and Everything in Between 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/7ce4459b1-1.jpg" alt="مشاهدة فيلم This, That and Everything in Between 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=7ce4459b1" tabindex="-1">
+<h3 class="caption">
+فيلم This, That and Everything in Between 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide31" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:49:15</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=607c4dbe1" title="مشاهدة فيلم Wild Sing 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/607c4dbe1-1.jpg" alt="مشاهدة فيلم Wild Sing 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=607c4dbe1" tabindex="-1">
+<h3 class="caption">
+فيلم Wild Sing 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=turkish-movies">أفلام تركية</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_5" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_5" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="5" data-slides="5" id="pm-carousel_5">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide48" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:50</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=2451585c5" title="مشاهدة فيلم Don’t Leave 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/2451585c5-1.jpg" alt="مشاهدة فيلم Don’t Leave 2022 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=2451585c5" tabindex="-1">
+<h3 class="caption">
+فيلم Don’t Leave 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide49" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:45:34</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5f5524da8" title="مشاهدة فيلم Sen Yasamaya Bak 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/5f5524da8-1.jpg" alt="مشاهدة فيلم Sen Yasamaya Bak 2022 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5f5524da8" tabindex="-1">
+<h3 class="caption">
+فيلم Sen Yasamaya Bak 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide40" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=186c9d930" title="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/186c9d930-1.jpg" alt="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=186c9d930" tabindex="0">
+<h3 class="caption">
+فيلم Öngörü 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide41" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:25:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb5b54e16" title="مشاهدة فيلم Bergen 2022 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb5b54e16-1.jpg" alt="مشاهدة فيلم Bergen 2022 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb5b54e16" tabindex="0">
+<h3 class="caption">
+فيلم Bergen 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide42" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:03:00</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=41f6830a0" title="مشاهدة فيلم Uykucu 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/6b5618796-1.jpg" alt="مشاهدة فيلم Uykucu 2025 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=41f6830a0" tabindex="-1">
+<h3 class="caption">
+فيلم Uykucu 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide43" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:48:26</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=a09991dca" title="مشاهدة فيلم 8 ثواني (2015) مدبلج HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/1c759c2f9-1.jpg" alt="مشاهدة فيلم 8 ثواني (2015) مدبلج HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=a09991dca" tabindex="-1">
+<h3 class="caption">
+فيلم 8 ثواني (2015) مدبلج
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide44" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:39:31</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=9f1c503d9" title="مشاهدة فيلم Sen Yasamaya Bak 2 2024 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/9f1c503d9-1.jpg" alt="مشاهدة فيلم Sen Yasamaya Bak 2 2024 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=9f1c503d9" tabindex="-1">
+<h3 class="caption">
+فيلم Sen Yasamaya Bak 2 2024 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide45" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:36:01</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=edbd6df89" title="مشاهدة فيلم Conquest 1453 2012 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Conquest 1453 2012 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/edbd6df89-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=edbd6df89" tabindex="-1">
+<h3 class="caption">
+فيلم Conquest 1453 2012 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide46" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:39:24</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=f56507c80" title="مشاهدة فيلم Love Tactics 2 2023 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Love Tactics 2 2023 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/9114753ef-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=f56507c80" tabindex="-1">
+<h3 class="caption">
+فيلم Love Tactics 2 2023 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide47" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:13:08</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=55f257432" title="مشاهدة فيلم Recep Ivedik 7 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Recep Ivedik 7 2022 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/55f257432-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=55f257432" tabindex="-1">
+<h3 class="caption">
+فيلم Recep Ivedik 7 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide48" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:50</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=2451585c5" title="مشاهدة فيلم Don’t Leave 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Don’t Leave 2022 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/2451585c5-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=2451585c5" tabindex="-1">
+<h3 class="caption">
+فيلم Don’t Leave 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide49" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:45:34</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5f5524da8" title="مشاهدة فيلم Sen Yasamaya Bak 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Sen Yasamaya Bak 2022 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/5f5524da8-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5f5524da8" tabindex="-1">
+<h3 class="caption">
+فيلم Sen Yasamaya Bak 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide40" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=186c9d930" title="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/186c9d930-1.jpg" alt="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=186c9d930" tabindex="-1">
+<h3 class="caption">
+فيلم Öngörü 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide41" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:25:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb5b54e16" title="مشاهدة فيلم Bergen 2022 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb5b54e16-1.jpg" alt="مشاهدة فيلم Bergen 2022 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb5b54e16" tabindex="-1">
+<h3 class="caption">
+فيلم Bergen 2022 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=anime-movies">أفلام أنيميشن</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_6" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_6" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="6" data-slides="5" id="pm-carousel_6">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide58" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:00</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=4071d4fb6" title="مشاهدة فيلم Hop 2011 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/4071d4fb6-1.jpg" alt="مشاهدة فيلم Hop 2011 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=4071d4fb6" tabindex="-1">
+<h3 class="caption">
+فيلم Hop 2011 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide59" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:51</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=264f6f9d7" title="مشاهدة فيلم Spies in Disguise 2019 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/264f6f9d7-1.jpg" alt="مشاهدة فيلم Spies in Disguise 2019 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=264f6f9d7" tabindex="-1">
+<h3 class="caption">
+فيلم Spies in Disguise 2019 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide50" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">26:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" title="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/3301e1b3b-1.jpg" alt="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" tabindex="0">
+<h3 class="caption">
+فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide51" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:18:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5de66cf7b" title="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/5de66cf7b-1.jpg" alt="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5de66cf7b" tabindex="0">
+<h3 class="caption">
+فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide52" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:51:07</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=1d44a6840" title="مشاهدة فيلم The Ribbon Hero 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/1d44a6840-1.jpg" alt="مشاهدة فيلم The Ribbon Hero 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=1d44a6840" tabindex="-1">
+<h3 class="caption">
+فيلم The Ribbon Hero 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide53" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:32:39</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=ee8af11f6" title="مشاهدة فيلم Minions &amp; Monsters 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/ee8af11f6-1.jpg" alt="مشاهدة فيلم Minions &amp; Monsters 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=ee8af11f6" tabindex="-1">
+<h3 class="caption">
+فيلم Minions &amp; Monsters 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide54" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:34:46</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=d6cbb9ae6" title="مشاهدة فيلم Evolution 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/d6cbb9ae6-1.jpg" alt="مشاهدة فيلم Evolution 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=d6cbb9ae6" tabindex="-1">
+<h3 class="caption">
+فيلم Evolution 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide55" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:29:40</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=bf6e57a27" title="مشاهدة فيلم Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/bf6e57a27-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=bf6e57a27" tabindex="-1">
+<h3 class="caption">
+فيلم Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide56" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:34:55</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3e8a68faf" title="مشاهدة فيلم Demon Slayer: Kimetsu No Yaiba Infinity Castle 2025 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Demon Slayer: Kimetsu No Yaiba Infinity Castle 2025 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/3ebe7140a-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3e8a68faf" tabindex="-1">
+<h3 class="caption">
+فيلم Demon Slayer: Kimetsu No Yaiba Infinity Castle 2025 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide57" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:45:18</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=9aae1a948" title="مشاهدة فيلم Hexed 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Hexed 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/9aae1a948-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=9aae1a948" tabindex="-1">
+<h3 class="caption">
+فيلم Hexed 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide58" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:00</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=4071d4fb6" title="مشاهدة فيلم Hop 2011 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Hop 2011 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/4071d4fb6-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=4071d4fb6" tabindex="-1">
+<h3 class="caption">
+فيلم Hop 2011 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide59" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:51</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=264f6f9d7" title="مشاهدة فيلم Spies in Disguise 2019 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Spies in Disguise 2019 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/264f6f9d7-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=264f6f9d7" tabindex="-1">
+<h3 class="caption">
+فيلم Spies in Disguise 2019 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide50" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">26:49</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" title="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/3301e1b3b-1.jpg" alt="مشاهدة فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=3301e1b3b" tabindex="-1">
+<h3 class="caption">
+فيلم Grand Theft Auto VI: An Extended Look 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide51" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:18:37</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=5de66cf7b" title="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/5de66cf7b-1.jpg" alt="مشاهدة فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=5de66cf7b" tabindex="-1">
+<h3 class="caption">
+فيلم Batman: Knightfall - Part 1: Knightfall 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+								<div class="pm-section-head">
+					<h3><a href="https://a.qfilm.tv/category.php?cat=romance-movies">رومانسي</a></h3>
+					<div class="btn-group btn-group-sort">
+					<button class="btn btn-xs slick-arrow" id="pm-slide-prev_14" style="display: block;"><i class="fa fa-chevron-left"></i></button>
+					<button class="btn btn-xs slick-arrow" id="pm-slide-next_14" style="display: block;"><i class="fa fa-chevron-right"></i></button>
+					</div>
+				</div>
+				<div id="">
+				<!-- Carousel items -->
+					<ul class="pm-ul-carousel-videos list-inline slick-initialized slick-slider" data-slider-id="14" data-slides="5" id="pm-carousel_14">
+												
+												
+												
+												
+												
+												
+												
+												
+												
+												
+											<div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2436px; left: 348px;" role="listbox"><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide68" data-slick-index="-2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:25:19</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=bd2ea9405" title="مشاهدة فيلم وسقطت في بحر العسل (1977) HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/bd2ea9405-1.jpg" alt="مشاهدة فيلم وسقطت في بحر العسل (1977) HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=bd2ea9405" tabindex="-1">
+<h3 class="caption">
+فيلم وسقطت في بحر العسل (1977)
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide69" data-slick-index="-1" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:18</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=46ac3a595" title="مشاهدة فيلم سكرتير ماما (1969) HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/46ac3a595-1.jpg" alt="مشاهدة فيلم سكرتير ماما (1969) HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=46ac3a595" tabindex="-1">
+<h3 class="caption">
+فيلم سكرتير ماما (1969)
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-current slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide60" data-slick-index="0" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="0">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-active" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide61" data-slick-index="1" aria-hidden="false">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" tabindex="0">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" tabindex="0">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide62" data-slick-index="2" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:46:53</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=376328490" title="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/431284671-1.jpg" alt="مشاهدة فيلم The Last Sunrise 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=376328490" tabindex="-1">
+<h3 class="caption">
+فيلم The Last Sunrise 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide63" data-slick-index="3" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:35:42</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=186c9d930" title="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/186c9d930-1.jpg" alt="مشاهدة فيلم Öngörü 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=186c9d930" tabindex="-1">
+<h3 class="caption">
+فيلم Öngörü 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide64" data-slick-index="4" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">2:06:47</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" title="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/cb45ac4c2-1.jpg" alt="مشاهدة فيلم Pyaar Prema Kalyanam 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=cb45ac4c2" tabindex="-1">
+<h3 class="caption">
+فيلم Pyaar Prema Kalyanam 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide65" data-slick-index="5" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:30:31</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=6d1ac9bb3" title="مشاهدة فيلم Midwinter Break 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Midwinter Break 2026 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/6d1ac9bb3-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=6d1ac9bb3" tabindex="-1">
+<h3 class="caption">
+فيلم Midwinter Break 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide66" data-slick-index="6" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:31:05</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=bf5055385" title="مشاهدة فيلم Addition 2024 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم Addition 2024 مترجم HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/bf5055385-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=bf5055385" tabindex="-1">
+<h3 class="caption">
+فيلم Addition 2024 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide67" data-slick-index="7" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:58:58</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=595aebe46" title="مشاهدة فيلم رحلة حب (2001) HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم رحلة حب (2001) HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/595aebe46-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=595aebe46" tabindex="-1">
+<h3 class="caption">
+فيلم رحلة حب (2001)
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide68" data-slick-index="8" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:25:19</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=bd2ea9405" title="مشاهدة فيلم وسقطت في بحر العسل (1977) HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم وسقطت في بحر العسل (1977) HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/bd2ea9405-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=bd2ea9405" tabindex="-1">
+<h3 class="caption">
+فيلم وسقطت في بحر العسل (1977)
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide69" data-slick-index="9" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:23:18</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=46ac3a595" title="مشاهدة فيلم سكرتير ماما (1969) HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/templates/qfilm/img/echo-lzld.png" alt="مشاهدة فيلم سكرتير ماما (1969) HD اون لاين" data-echo="https://a.qfilm.tv/uploads/thumbs/46ac3a595-1.jpg" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=46ac3a595" tabindex="-1">
+<h3 class="caption">
+فيلم سكرتير ماما (1969)
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide60" data-slick-index="10" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:47:38</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" title="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span><span class="label label-pop">شائع</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/0a1dd8a41-1.jpg" alt="مشاهدة فيلم All That We Never Were 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=0a1dd8a41" tabindex="-1">
+<h3 class="caption">
+فيلم All That We Never Were 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li><li class="slick-slide slick-cloned" style="width: 174px;" tabindex="-1" role="option" aria-describedby="slick-slide61" data-slick-index="11" aria-hidden="true">
+						<div class="thumbnail">
+<div class="pm-video-thumb">
+<span class="pm-label-duration">1:41:25</span>
+
+<a href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" title="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" tabindex="-1">
+<div class="pm-video-labels hidden-xs">
+<span class="label label-new">جديد</span></div>
+<img src="https://a.qfilm.tv/uploads/thumbs/60fc6fe56-1.jpg" alt="مشاهدة فيلم Here the Whole Time 2026 مترجم HD اون لاين" class="img-responsive" style="height: 170px; width: 240px; object-fit: cover; object-position: 25% 55%; opacity: 1;">
+<span class="overlay"></span>
+</a>
+<a style="overflow-wrap:break-word;white-space:normal;" href="https://a.qfilm.tv/watch.php?vid=60fc6fe56" tabindex="-1">
+<h3 class="caption">
+فيلم Here the Whole Time 2026 مترجم
+</h3>
+</a>
+</div>
+</div>						</li></div></div></ul>
+				</div><!-- #pm-slider -->
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+				<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+			
+      <div class="clearfix"></div>
+    </div><!-- .container -->
+
+</div> <!--.mastcontent-wrap-->
+
+
+
+</div><!--content-->
+</div><!--.container-fluid no-padding-->
+
+<div class="container-fluid container-footer">
+    			<footer>
+		<div class="row row-footer-horizontal">
+			<div class="col-xs-12 col-sm-12 col-md-10">
+			<ul class="list-inline">
+				<!--<li><a href="https://a.qfilm.tv/contact_us.php">الاتصال بنا</a></li>-->
+				<li><a href="https://a.qfilm.tv/page.php?name=terms-toa">اتفاقية الاستخدام</a></li>
+																<li><a href="https://a.qfilm.tv/page.php?p=3">DMCA</a></li>
+											</ul>
+			<p>جميع الحقوق محفوظة لموقع كيو فيلم © 2026.</p>
+			</div>
+			
+		</div>
+	</footer>
+</div>
+
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="https://a.qfilm.tv/js/swfobject.js"></script>
+
+
+
+<script src="https://a.qfilm.tv/templates/qfilm/js/slick.min.js"></script>
+
+
+<script type="text/javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://a.qfilm.tv/templates/qfilm/js/theme.js"></script>
+<script type="text/javascript">
+// @Since v2.6.1
+$(document).ready(function() {
+	echo.init({
+		offset: 500,
+		offsetRight: 1000,
+		throttle: 200,
+		unload: false,
+	});
+
+
+	if($('ul.pagination').length) {
+		// $('ul.pagination.pagination-arrows li a').first().html("<i class='fa fa-arrow-left'></i>");
+		// $('ul.pagination.pagination-arrows li a').last().html("<i class='fa fa-arrow-right'></i>");
+		$('ul.pagination.pagination-arrows li a').first().html("<i class='fa fa-arrow-right'></i>");
+		$('ul.pagination.pagination-arrows li a').last().html("<i class='fa fa-arrow-left'></i>");
+	}
+
+});
+
+// In-button Feedback (Icon)
+$(document).ready(function() {
+	$('.btn-with-loader').on('click', function() {
+		var $this = $(this);
+		$this.button('Loading').prepend('<i class="btn-loader"></i>');
+		setTimeout(function() {
+			$this.button('reset');
+		}, 2000);
+	});
+});
+// Page Loading Feedback (Red Stripe)
+$(document).ready(function() {
+  $(".pm-section-highlighted, .pm-ul-browse-videos").animsition({
+	linkElement: '.animsition',
+	loading: false,
+	timeout: true,
+	timeoutCountdown: 5000,
+	browser: [ 'animation-duration', '-webkit-animation-duration'],
+	overlay : false,
+	overlayClass : '',
+	overlayParentElement : 'body',
+	transition: function(url){ 
+		$('header').append('<div class="pm-horizontal-loader"></div>');
+		window.location.href = url; }
+  });
+});
+
+// Global settings for notifications
+$(document).ready(function() {
+	$.notifyDefaults({
+	// settings
+	element: 'body',
+	position: null,
+	type: "info",
+	allow_dismiss: true,
+	newest_on_top: true,
+	showProgressbar: false,
+	placement: {
+		from: "top", // top, bottom
+		align: "right" // left, right, center
+	},
+	offset: {
+		x: 20,
+		y: 100
+		},
+	spacing: 10,
+	z_index: 1031,
+	delay: 10000,
+	timer: 1000,
+	url_target: '_blank',
+	mouse_over: null,
+	animate: {
+		enter: 'animated fadeInDown',//'animated fadeIn',
+		exit: 'animated fadeOutUpBig',//'animated fadeOut'
+	},
+	onShow: null,
+	onShown: null,
+	onClose: null,
+	onClosed: null,
+	template: '<div data-notify="container" class="growl alert alert-{0}" role="alert">' +
+				'<button type="button" aria-hidden="true" class="close" data-notify="dismiss">&times;</button>' +
+				'<span data-notify="icon"></span> ' +
+				'<span data-notify="title">{1}</span> ' +
+				'<span data-notify="message">{2}</span>' +
+				'<div class="progress" data-notify="progressbar">' +
+					'<div class="progress-bar progress-bar-{0}" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="100" style="width: 0%;"></div>' +
+				'</div>' +
+				'<a href="{3}" target="{4}" data-notify="url"></a>' +
+			'</div>',
+	PM_exitAnimationTimeout: 0 // PHP Melody custom settings
+	});
+});
+</script>
+
+
+
+
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery.maskedinput-1.3.min.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery.ba-dotimeout.min.js" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="https://a.qfilm.tv/js/bootstrap-notify.min.js"></script>
+<script src="https://a.qfilm.tv/js/melody.dev.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/melody.dev.js" type="text/javascript"></script>
+<!-- <script src="https://a.qfilm.tv/templates/qfilm/js/lightbox.dev.js" type="text/javascript"></script> -->
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery.dotdotdot.min.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/jasny-bootstrap.min.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery.autosize.min.js" type="text/javascript"></script>
+
+
+ 
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('textarea').autosize();
+	$('.fileinput').fileinput();
+	$(".ellipsis").dotdotdot({
+	ellipsis : '...',
+	wrap : 'word',
+	watch: true,
+	height : 40
+	});
+});
+</script>
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+	$("ul[class^='pm-ul-carousel-videos']").each(
+
+	function() {
+	
+		var slides_id = $(this).data("slider-id");
+		var slides = $(this).data("slides");
+		var video_carousel = $('#pm-carousel_' + slides_id);
+
+		if(slides == null) {
+			var slides = 4;
+		}
+		video_carousel.slick({
+			rtl: true,
+			lazyLoad: 'ondemand',
+			slidesToShow: slides, 
+			slidesToScroll: slides - 1,
+			prevArrow	: "#pm-slide-prev_" + slides_id,
+			nextArrow	: "#pm-slide-next_" + slides_id,
+			speed: 150,
+			responsive: [
+			{
+				breakpoint: 1024,
+				settings: {
+					slidesToShow: 3,
+					slidesToScroll: 3
+				}
+			},
+			{
+				breakpoint: 600,
+				settings: {
+					slidesToShow: 2,
+					slidesToScroll: 2
+				}
+			}
+			]
+		});
+	});
+});
+</script>
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$('#modal-login-form, #modal-register-form').on('shown.bs.modal', function() {
+		document.activeElement.blur();
+		$(this).find(".modal-body :input:visible").first().focus();
+	});
+});
+</script>
+
+
+<script src="https://a.qfilm.tv/templates/qfilm/js/waypoints.min.js" type="text/javascript"></script>
+<script src="https://a.qfilm.tv/templates/qfilm/js/melody.social.dev.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+(function() {
+	"use strict";
+	var toggles = document.querySelectorAll("#navslide-toggle");
+
+	for (var i = toggles.length - 1; i >= 0; i--) {
+	var toggle = toggles[i];
+	toggleHandler(toggle);
+	};
+
+	function toggleHandler(toggle) {
+	toggle.addEventListener( "click", function(e) {
+		e.preventDefault();
+		(this.classList.contains("is-active") === true) ? this.classList.remove("is-active") : this.classList.add("is-active");
+	});
+	}
+})();
+
+</script>
+
+
+
+
+
+<script src="https://a.qfilm.tv/templates/qfilm/js/jquery.cropit.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+$(function() {
+	var cropit_avatar_notify = null;
+	var cropit_cover_notify = null;
+	var cropit_notify_type = 'info';
+	
+	// Avatar
+	$('.pm-profile-avatar-pic').cropit({
+		smallImage: 'allow',
+		// width: 180, 
+		// height: 180,
+		width: 120,
+		height: 120,
+		preview: '.pm-profile-avatar-preview',
+		onImageLoading: function(){
+			cropit_avatar_notify = $.notify({message: pm_lang.please_wait}, {type: cropit_notify_type});
+		},
+		onImageLoaded: function() {
+			cropit_avatar_notify.close();
+		},
+		onImageError: function(){
+			cropit_avatar_notify.close();
+		}
+	});
+
+	$('#btn-edit-avatar').click(function() {
+		$('#cropit-avatar-input').click();
+		$('#cropit-avatar-form').css('visibility', 'visible');
+		$('.cropit-image-preview').removeClass('animated fadeIn');
+	});
+
+	$('.btn-cancel-avatar').click(function() {
+		$('.pm-profile-avatar-pic .cropit-image-preview').removeClass('cropit-image-loaded').addClass('animated fadeIn');
+		$('#cropit-avatar-form').css('visibility', 'hidden');
+		return false;
+	});
+
+	$('form#cropit-avatar-form').submit(function() {
+		
+		var image_data = $('.pm-profile-avatar-pic').cropit('export', {
+			type: 'image/jpeg',
+			quality: .9,
+			fillBg: '#333'
+		});
+		
+		// Move cropped image data to hidden input
+		$('.hidden-avatar-data-img').val(image_data);
+		
+		$.ajax({
+			url: MELODYURL2 + "/ajax.php",
+			type: "POST",
+			dataType: "json",
+			data: $('#cropit-avatar-form').serialize(),
+			beforeSend: function(jqXHR, settings) {
+				// clean error message container
+				//cropit_avatar_notify.close();
+				$.notifyClose();
+				cropit_avatar_notify = $.notify({message: pm_lang.swfupload_status_uploading}, {type: cropit_notify_type});
+			},
+		})
+		.done(function(data){
+			cropit_avatar_notify.close();
+			if (data.success) { 
+				// hide form action buttons 
+				$('#cropit-avatar-form').css('visibility', 'hidden');
+				
+				// reset background with uploaded image 
+				$('.pm-profile-avatar-pic .cropit-image-preview img').attr('src', data.file_url);
+				
+				// stop image movement ability
+				$('.pm-profile-avatar-pic .cropit-image-preview').addClass('animated fadeIn');
+				// timeout required to allow time for the uploaded image to load before removing the current image obj (and avoid a image-swapping 'glitch')
+				setTimeout(function(){
+					$('.pm-profile-avatar-pic .cropit-image-preview').removeClass('cropit-image-loaded')
+				}, 700);
+				
+				// unload selected image to let the user re-select the same image
+				$('.pm-profile-avatar-pic input.cropit-image-input')[0].value = null;
+			}
+			cropit_avatar_notify = $.notify({message: data.msg}, {type: data.alert_type});
+		});
+
+		return false;
+	});
+	
+	var cropit_cover_height = parseInt($('.pm-profile-cover-preview').attr('data-cropit-height'));
+	if ( ! cropit_cover_height) {
+		cropit_cover_height = 200;
+	}
+		
+	// Cover
+	$('.pm-profile-cover-preview').cropit({
+		smallImage: 'allow',
+		height: cropit_cover_height,
+		onImageLoading: function(){
+			cropit_cover_notify = $.notify({message: pm_lang.please_wait}, {type: cropit_notify_type});
+		},
+		onImageLoaded: function() {
+			cropit_cover_notify.close();
+		},
+		onImageError: function(){
+			cropit_cover_notify.close();
+		}
+	});
+
+	$('#btn-edit-cover').click(function() {
+		$('#cropit-cover-input').click();
+		$('#cropit-cover-form').css('visibility', 'visible');
+		$('.cropit-image-preview').removeClass('animated fadeIn');
+	});
+
+	$('.btn-cancel').click(function() {
+		$('.pm-profile-cover-preview .cropit-image-preview').removeClass('cropit-image-loaded').addClass('animated fadeIn');
+		$('#cropit-cover-form').css('visibility', 'hidden');
+		return false;
+	});
+
+	$('form#cropit-cover-form').submit(function() {
+		
+		var image_data = $('.pm-profile-cover-preview').cropit('export', {
+			type: 'image/jpeg',
+			quality: .9,
+			fillBg: '#333'
+		});
+		
+		// Move cropped image data to hidden input
+		$('.hidden-cover-data-img').val(image_data);
+		
+		$.ajax({
+			url: MELODYURL2 + "/ajax.php",
+			type: "POST",
+			dataType: "json",
+			data: $('#cropit-cover-form').serialize(),
+			beforeSend: function(jqXHR, settings) {
+				// clean error message container
+				//cropit_cover_notify.close();
+				$.notifyClose();
+				cropit_cover_notify = $.notify({message: pm_lang.swfupload_status_uploading}, {type: cropit_notify_type});
+			},
+		})
+		.done(function(data){
+			cropit_cover_notify.close();
+			if (data.success) { 
+				// hide form action buttons 
+				$('#cropit-cover-form').css('visibility', 'hidden');
+				
+				// reset background with uploaded image 
+				$('.pm-profile-cover-preview .cropit-image-preview img').attr('src', data.file_url);
+				
+				// stop image movement ability
+				$('.pm-profile-cover-preview .cropit-image-preview').addClass('animated fadeIn');
+				// timeout required to allow time for the uploaded image to load before removing the current image obj (and avoid a image-swapping 'glitch')
+				setTimeout(function(){
+					$('.pm-profile-cover-preview .cropit-image-preview').removeClass('cropit-image-loaded')
+				}, 700);
+				
+				// unload selected image to let the user re-select the same image
+				$('.pm-profile-cover-preview input.cropit-image-input')[0].value = null;
+			}
+			cropit_cover_notify = $.notify({message: data.msg}, {type: data.alert_type});
+		});
+
+		return false;
+	});
+});
+</script>
+
+
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4615183,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	// Adjustments for the responsive layout
+	$('#pm-top-mobile-search-show').click(function(){
+		$('#pm-top-search').toggleClass('show-me animated fadeIn');
+		$('.header-logo').toggle();
+	});
+	if ( $(window).width() < 780 ){
+		$('[rel="tooltip"]').tooltip('destroy');
+	}
+});
+</script>
+
+
+
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v3d52b47920f24c319d37e2661827c42b1787588026925" integrity="sha512-d9sL6GJLXn6fInD1+TVXhTcQOsmxeHfmHAvwGDIxp5TO+uo1fiWW7mHomMj4MLRlCsJDTqXzWLHJFFlPCEIj/A==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;5835072a5614461cb73c4dd0324a0558&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+</body></html>
